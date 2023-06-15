@@ -1,0 +1,5 @@
+x = open('D:\\KULIAH\\Python\\dummy.txt','r')
+y = x.readlines()
+y.insert(1, "Mata kuliah favoritnya adalah ALGO\n")
+x = open('D:\\KULIAH\\Python\\dummy.txt','w')
+x.writelines(y)
