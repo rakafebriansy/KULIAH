@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\PBO_Inheritance\PBO_Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PBO_Inheritance\PBO_Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PBO_Inheritance\PBO_Inheritance\obj\Debug\PBO_Inheritance.exe
+C:\Users\ASUS\source\repos\PBO_Inheritance\PBO_Inheritance\obj\Debug\PBO_Inheritance.pdb
+C:\Users\ASUS\source\repos\PBO_Inheritance\PBO_Inheritance\bin\Debug\PBO_Inheritance.exe.config
+C:\Users\ASUS\source\repos\PBO_Inheritance\PBO_Inheritance\bin\Debug\PBO_Inheritance.exe
+C:\Users\ASUS\source\repos\PBO_Inheritance\PBO_Inheritance\bin\Debug\PBO_Inheritance.pdb
