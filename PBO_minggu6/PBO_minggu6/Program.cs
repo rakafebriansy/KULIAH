@@ -38,6 +38,10 @@ namespace PBO_minggu6 //4. namespace
                     list_pesanan = list_pesanan.Concat(new string[] { pesanan }).ToArray();
                     break;
                 }
+                else if (pesanan == "0")
+                {
+                    break;
+                }
                 else
                 {
                     Console.WriteLine("\nMasukkan menu dengan benar!\n");
@@ -70,12 +74,14 @@ namespace PBO_minggu6 //4. namespace
                         if (pesanan.ToLower() == "1")
                         {
                             Makanan.GetMenu();
+                            Console.WriteLine("0. Kembali");
                             PilihMenu();
                             break;
                         }
                         else if (pesanan.ToLower() == "2")
                         {
                             Minuman.GetMenu();
+                            Console.WriteLine("0. Kembali");
                             PilihMenu();
                             break;
                         }
@@ -173,7 +179,7 @@ namespace PBO_minggu6 //4. namespace
             Console.WriteLine("\n======== Daftar Menu Minuman ========");
             for (int i = 0; i < daftar_menu_minuman.Length; i++)
             {
-                Console.WriteLine($"{i + 1}. " + daftar_menu_minuman[i]);
+                Console.WriteLine("- " + daftar_menu_minuman[i]);
             }
         }
         public static string[] GetMenuArray()
