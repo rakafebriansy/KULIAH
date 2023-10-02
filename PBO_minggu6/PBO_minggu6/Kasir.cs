@@ -8,7 +8,7 @@ namespace Kasir
 {
     static class Transaksi //1. class
     {
-        private static int _uang_masuk;
+        private static int _uang_masuk; //9. encapsulation
         private static int _total_harga;
         private static int _kembalian;
 

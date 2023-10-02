@@ -1,7 +1,7 @@
 ﻿using System;
 using Kasir; //12. library class
 
-namespace PBO_minggu6 //4. namespace
+namespace PBO_minggu6 //5. namespace
 {
     interface IMenu //11. Interface
     {
@@ -10,7 +10,7 @@ namespace PBO_minggu6 //4. namespace
     }
     abstract class Menu //10. abstract
     {
-        private static string[] _list_pesanan = { };  //9. encapsulation
+        private static string[] _list_pesanan = { };  
         private static int[] _list_harga = { };
         protected string nama; //3. attribute
         protected int harga;
@@ -23,7 +23,7 @@ namespace PBO_minggu6 //4. namespace
         }
 
         public abstract void GetInformasi();
-        public static int[] GetListHarga()
+        public static int[] GetListHarga() //4. method
         {
             return _list_harga;
         }
@@ -150,7 +150,7 @@ namespace PBO_minggu6 //4. namespace
                 daftar_harga_makanan = daftar_harga_makanan.Concat(new int[] { harga_makanan }).ToArray();
             }
         }
-        public override void GetInformasi()  //8. overriding
+        public override void GetInformasi()
         {
             Console.WriteLine($"=== Informasi Makanan ===\n{nama}    {nama}");
         }
@@ -169,7 +169,7 @@ namespace PBO_minggu6 //4. namespace
         {
             return daftar_harga_makanan;
         }
-        public override int SetDiskon(int harga_makanan)
+        public override int SetDiskon(int harga_makanan) //8. overriding
         {
             return harga_makanan - (harga_makanan * this.diskon / 100);
         }
