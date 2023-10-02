@@ -14,6 +14,7 @@ namespace PBO_minggu6 //4. namespace
         private static int[] _list_harga = { };
         protected string nama; //3. attribute
         protected int harga;
+        protected int diskon;
 
         public Menu(string nama, int harga)
         {
@@ -126,16 +127,28 @@ namespace PBO_minggu6 //4. namespace
                 }
             }
         }
+        public virtual int SetDiskon(int diskon) //6. Polymorphism
+        {
+            return diskon;
+        }
     }
     class Makanan : Menu, IMenu
     {
         protected static string[] daftar_menu_makanan = { };
         protected static int[] daftar_harga_makanan = { };
 
-        public Makanan(string nama_makanan, int harga_makanan) : base(nama_makanan, harga_makanan)
+        public Makanan(string nama_makanan, int harga_makanan, int diskon = 0) : base(nama_makanan, harga_makanan)
         {
             daftar_menu_makanan = daftar_menu_makanan.Concat(new string[] { nama_makanan }).ToArray();
-            daftar_harga_makanan = daftar_harga_makanan.Concat(new int[] { harga_makanan }).ToArray();
+            if (diskon > 0)
+            {
+                this.diskon = diskon;
+                daftar_harga_makanan = daftar_harga_makanan.Concat(new int[] { this.SetDiskon(harga_makanan) }).ToArray();
+            }
+            else
+            {
+                daftar_harga_makanan = daftar_harga_makanan.Concat(new int[] { harga_makanan }).ToArray();
+            }
         }
         public override void GetInformasi()  //8. overriding
         {
@@ -156,6 +169,10 @@ namespace PBO_minggu6 //4. namespace
         {
             return daftar_harga_makanan;
         }
+        public override int SetDiskon(int harga_makanan)
+        {
+            return harga_makanan - (harga_makanan * this.diskon / 100);
+        }
     }
 
     class Minuman : Menu, IMenu
@@ -163,10 +180,18 @@ namespace PBO_minggu6 //4. namespace
         protected static string[] daftar_menu_minuman = { };
         protected static int[] daftar_harga_minuman = { };
 
-        public Minuman(string nama_minuman, int harga_minuman) : base(nama_minuman, harga_minuman)
+        public Minuman(string nama_minuman, int harga_minuman, int diskon = 0) : base(nama_minuman, harga_minuman)
         {
             daftar_menu_minuman = daftar_menu_minuman.Concat(new string[] { nama_minuman }).ToArray();
-            daftar_harga_minuman = daftar_harga_minuman.Concat(new int[] { harga_minuman }).ToArray();
+            if (diskon > 0)
+            {
+                this.diskon = diskon;
+                daftar_harga_minuman = daftar_harga_minuman.Concat(new int[] { this.SetDiskon(harga_minuman) }).ToArray();
+            }
+            else
+            {
+                daftar_harga_minuman = daftar_harga_minuman.Concat(new int[] { harga_minuman }).ToArray();
+            }
         }
         public override void GetInformasi()
         {
@@ -187,6 +212,10 @@ namespace PBO_minggu6 //4. namespace
         {
             return daftar_harga_minuman;
         }
+        public override int SetDiskon(int harga_minuman)
+        {
+            return harga_minuman - (harga_minuman * this.diskon/100);
+        }
 
     }
 
@@ -194,24 +223,23 @@ namespace PBO_minggu6 //4. namespace
     {
         static void Main(string[] args)
         {
-            Makanan menu1 = new Makanan("Nasi Goreng", 10000); //2. object
+            Makanan menu1 = new Makanan("Nasi Goreng", 10000, 20); //2. object
             Makanan menu2 = new Makanan("Mie Goreng", 15000);
             Makanan menu3 = new Makanan("Capcay", 7000);
-            Makanan menu4 = new Makanan("Nasi Fuyunghai", 15000);
+            Makanan menu4 = new Makanan("Nasi Fuyunghai", 15000, 5);
             Makanan menu5 = new Makanan("Nasi Campur Jagung", 20000);
-            Minuman menu6 = new Minuman("Teh", 4000);
+            Minuman menu6 = new Minuman("Teh", 4000, 50);
             Minuman menu7 = new Minuman("Jeruk", 3000);
             Minuman menu8 = new Minuman("Teh Jahe Lemon", 4500);
-            Minuman menu9 = new Minuman("Choco Milkshake", 6000);
+            Minuman menu9 = new Minuman("Choco Milkshake", 6000, 3);
             Minuman menu10 = new Minuman("Coca Cola", 5000);
 
             Console.WriteLine("Selamat datang di resto DEALICIOUS\n");
             while (true)
             {
-                bool kondisi_bayar = false;
                 Console.WriteLine(String.Concat(Enumerable.Repeat("=", 30)));
                 Menu.TampilkanPesanan();
-                kondisi_bayar = Menu.TampilkanMenu();
+                bool kondisi_bayar = Menu.TampilkanMenu();
                 if (kondisi_bayar)
                 {
                     int[] list_harga = Menu.GetListHarga();

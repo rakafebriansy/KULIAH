@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Raka\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\CINTA CODING\\KULIAH\\PR_PBO1\\PR_PBO1\\PR_PBO1.csproj",
       "projectName": "PR_PBO1",
       "projectPath": "D:\\CINTA CODING\\KULIAH\\PR_PBO1\\PR_PBO1\\PR_PBO1.csproj",
-      "packagesPath": "C:\\Users\\Raka\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
       "outputPath": "D:\\CINTA CODING\\KULIAH\\PR_PBO1\\PR_PBO1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Raka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

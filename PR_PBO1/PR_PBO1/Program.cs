@@ -19,7 +19,7 @@ namespace Vga
 
 class Laptop
 {
-    public string merk; protected string tipe; protected Vga.Vga vga; protected Processor.Processor processor ;
+    public string merk; public string tipe; public Vga.Vga vga; public Processor.Processor processor ;
     public Laptop(Vga.Vga vga, Processor.Processor processor)
     {
         this.vga = vga;
@@ -78,21 +78,24 @@ class Program
         Laptop laptop2 = new IdeaPad(amd,ryzen);
         Predator predator = new Predator(amd,corei7);
 
-        ////1
-        //laptop2.LaptopDinyalakan();
-        //laptop2.LaptopDimatikan();
+        //1
+        laptop2.LaptopDinyalakan();
+        laptop2.LaptopDimatikan();
 
-        ////2
-        //laptop1.Ngoding();
+        //2
+        laptop1.Ngoding();
 
-        ////3
-        //laptop1.GetInformasi();
+        //3
+        System.Console.WriteLine($"Merk vga: {laptop1.vga.merk}");
+        System.Console.WriteLine($"Merk processor: {laptop1.processor.merk}");
+        System.Console.WriteLine($"Merk vga: {laptop1.processor.tipe}");
+        laptop1.GetInformasi();
 
-        ////4
-        //predator.BermainGame();
+        //4
+        predator.BermainGame();
 
-        ////5
-        //ACER acer = new Predator(nvidia,corei5);
-        //acer.BermainGame();
+        //5
+        ACER acer = new Predator(amd, corei7);
+        acer.BermainGame();
     }
 }
