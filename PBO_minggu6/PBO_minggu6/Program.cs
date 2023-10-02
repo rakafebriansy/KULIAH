@@ -1,18 +1,17 @@
 ﻿using System;
-using Kasir;
+using Kasir; //12. library class
 
 namespace PBO_minggu6 //4. namespace
 {
     interface IMenu //11. Interface
     {
         public static void GetMenu() { }
-        public static void GetMenuArray() { }
-        public static void GetHargaArray() { }
+        public static void GetArray() { }
     }
     abstract class Menu //10. abstract
     {
-        private static string[] list_pesanan = { };
-        private static int total_pesanan = 0;
+        private static string[] _list_pesanan = { };  //9. encapsulation
+        private static int[] _list_harga = { };
         protected string nama; //3. attribute
         protected int harga;
 
@@ -23,19 +22,28 @@ namespace PBO_minggu6 //4. namespace
         }
 
         public abstract void GetInformasi();
+        public static int[] GetListHarga()
+        {
+            return _list_harga;
+        }
         public static void PilihMenu()
         {
             while (true)
             {
                 Console.Write("Pilih menu makananmu:  ");
                 string pesanan = Console.ReadLine();
-                if (string.IsNullOrEmpty(pesanan))
+                if (Makanan.GetArray("").Contains(pesanan))
                 {
-                    Console.WriteLine("\nInputan masih kosong!!\n");
+                    _list_pesanan = _list_pesanan.Concat(new string[] { pesanan }).ToArray();
+                    int index = Array.IndexOf(Makanan.GetArray(""), pesanan);
+                    _list_harga = _list_harga.Concat(new int[] { Makanan.GetArray(0)[index] }).ToArray();
+                    break;
                 }
-                else if (Minuman.GetMenuArray().Contains(pesanan) || Makanan.GetMenuArray().Contains(pesanan))
+                else if (Minuman.GetArray("").Contains(pesanan))
                 {
-                    list_pesanan = list_pesanan.Concat(new string[] { pesanan }).ToArray();
+                    _list_pesanan = _list_pesanan.Concat(new string[] { pesanan }).ToArray();
+                    int index = Array.IndexOf(Minuman.GetArray(""), pesanan);
+                    _list_harga = _list_harga.Concat(new int[] { Minuman.GetArray(0)[index] }).ToArray();
                     break;
                 }
                 else if (pesanan == "0")
@@ -50,12 +58,20 @@ namespace PBO_minggu6 //4. namespace
         }
         public static void TampilkanPesanan()
         {
-            Console.WriteLine("======== Pesanan Anda ========");
-            for (int i = 0; i < Menu.list_pesanan.Length; i++)
+            Console.WriteLine("======== Pesanan Anda ========\n");
+            if (_list_pesanan.Length == 0)
             {
-                Console.WriteLine("- " + list_pesanan[i]);
+                Console.WriteLine("Anda belum memesan apapun");
             }
-            Console.WriteLine();
+            else
+            {
+                for (int i = 0; i < _list_pesanan.Length; i++)
+                {
+                    Console.WriteLine("- " + _list_pesanan[i] + " Rp" + _list_harga[i]);
+                }
+            }
+            Console.Write("\n");
+            Console.WriteLine(String.Concat(Enumerable.Repeat("=", 30)));
         }
         public static bool TampilkanMenu()
         {
@@ -73,15 +89,19 @@ namespace PBO_minggu6 //4. namespace
                         pesanan = pesanan.Replace(" ", "");
                         if (pesanan.ToLower() == "1")
                         {
+                            Console.WriteLine("\n==== Daftar Menu Makanan ====");
                             Makanan.GetMenu();
                             Console.WriteLine("0. Kembali");
+                            Console.WriteLine(String.Concat(Enumerable.Repeat("=", 29)));
                             PilihMenu();
                             break;
                         }
                         else if (pesanan.ToLower() == "2")
                         {
+                            Console.WriteLine("\n==== Daftar Menu Minuman ====");
                             Minuman.GetMenu();
                             Console.WriteLine("0. Kembali");
+                            Console.WriteLine(String.Concat(Enumerable.Repeat("=", 29)));
                             PilihMenu();
                             break;
                         }
@@ -94,9 +114,7 @@ namespace PBO_minggu6 //4. namespace
                 }
                 else if (perintah == "2")
                 {
-                    bool kondisi_bayar = Bayar();
-                    Console.WriteLine(total_pesanan);
-                    return kondisi_bayar;
+                    return true;
                 }
                 else if (perintah == "0")
                 {
@@ -107,25 +125,6 @@ namespace PBO_minggu6 //4. namespace
                     Console.WriteLine("Masukkan perintah dengan benar!");
                 }
             }
-        }
-        public static bool Bayar()
-        {
-            string[] menu_makanan = Makanan.GetMenuArray();
-            string[] menu_minuman = Minuman.GetMenuArray();
-            for (int i = 0; i < list_pesanan.Length; i++)
-            {
-                if (menu_makanan.Contains(list_pesanan[i]))
-                {
-                    var index = Array.IndexOf(menu_makanan, list_pesanan[i]);
-                    total_pesanan += Makanan.GetHargaArray()[index];
-                }
-                else if (menu_minuman.Contains(list_pesanan[i]))
-                {
-                    var index = Array.IndexOf(menu_minuman, list_pesanan[i]);
-                    total_pesanan += Minuman.GetHargaArray()[index];
-                }
-            }
-            return true;
         }
     }
     class Makanan : Menu, IMenu
@@ -144,17 +143,16 @@ namespace PBO_minggu6 //4. namespace
         }
         public static void GetMenu()
         {
-            Console.WriteLine("\n======== Daftar Menu Makanan ========");
             for (int i = 0; i < daftar_menu_makanan.Length; i++)
             {
                 Console.WriteLine("- " + daftar_menu_makanan[i]);
             }
         }
-        public static string[] GetMenuArray()
+        public static string[] GetArray(string str) //7. overloading
         {
             return daftar_menu_makanan;
         }
-        public static int[] GetHargaArray()
+        public static int[] GetArray(int integer)
         {
             return daftar_harga_makanan;
         }
@@ -176,17 +174,16 @@ namespace PBO_minggu6 //4. namespace
         }
         public static void GetMenu()
         {
-            Console.WriteLine("\n======== Daftar Menu Minuman ========");
             for (int i = 0; i < daftar_menu_minuman.Length; i++)
             {
                 Console.WriteLine("- " + daftar_menu_minuman[i]);
             }
         }
-        public static string[] GetMenuArray()
+        public static string[] GetArray(string str)
         {
             return daftar_menu_minuman;
         }
-        public static int[] GetHargaArray()
+        public static int[] GetArray(int integer)
         {
             return daftar_harga_minuman;
         }
@@ -217,7 +214,16 @@ namespace PBO_minggu6 //4. namespace
                 kondisi_bayar = Menu.TampilkanMenu();
                 if (kondisi_bayar)
                 {
-                    Console.WriteLine("\n\nMasuk class library!");
+                    int[] list_harga = Menu.GetListHarga();
+                    bool mampu_bayar = Transaksi.Bayar(list_harga);
+                    if (mampu_bayar)
+                    {
+                        Console.WriteLine("Terima kasih sudah datang di resto kami\nSalam hangat, DEALICIOUS!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("\nUang anda tidak cukup!\nCUCI PIRING SEKARANG!");
+                    }
                     break;
                 }
                 Console.WriteLine(String.Concat(Enumerable.Repeat("=", 30)));
