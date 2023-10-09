@@ -1,0 +1,14 @@
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\bin\Debug\net6.0\PR_PBO1.exe
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\bin\Debug\net6.0\PR_PBO1.deps.json
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\bin\Debug\net6.0\PR_PBO1.runtimeconfig.json
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\bin\Debug\net6.0\PR_PBO1.dll
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\bin\Debug\net6.0\PR_PBO1.pdb
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\obj\Debug\net6.0\PR_PBO1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\obj\Debug\net6.0\PR_PBO1.AssemblyInfoInputs.cache
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\obj\Debug\net6.0\PR_PBO1.AssemblyInfo.cs
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\obj\Debug\net6.0\PR_PBO1.csproj.CoreCompileInputs.cache
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\obj\Debug\net6.0\PR_PBO1.dll
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\obj\Debug\net6.0\refint\PR_PBO1.dll
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\obj\Debug\net6.0\PR_PBO1.pdb
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\obj\Debug\net6.0\PR_PBO1.genruntimeconfig.cache
+D:\CINTA CODING\KULIAH\PR_PBO1\PR_PBO1\obj\Debug\net6.0\ref\PR_PBO1.dll
