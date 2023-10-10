@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\CINTA CODING\\KULIAH\\Praktikum_GUI\\Praktikum_GUI\\Praktikum_GUI.csproj",
         "projectName": "Praktikum_GUI",
         "projectPath": "D:\\CINTA CODING\\KULIAH\\Praktikum_GUI\\Praktikum_GUI\\Praktikum_GUI.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Raka\\.nuget\\packages\\",
         "outputPath": "D:\\CINTA CODING\\KULIAH\\Praktikum_GUI\\Praktikum_GUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Raka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
