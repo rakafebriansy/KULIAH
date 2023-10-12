@@ -1,0 +1,17 @@
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\bin\Debug\net6.0-windows\Praktikum_GUI.exe
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\bin\Debug\net6.0-windows\Praktikum_GUI.deps.json
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\bin\Debug\net6.0-windows\Praktikum_GUI.runtimeconfig.json
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\bin\Debug\net6.0-windows\Praktikum_GUI.dll
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\bin\Debug\net6.0-windows\Praktikum_GUI.pdb
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\Praktikum_GUI.Form1.resources
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\Praktikum_GUI.Form2.resources
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\Praktikum_GUI.csproj.GenerateResource.cache
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\Praktikum_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\Praktikum_GUI.AssemblyInfoInputs.cache
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\Praktikum_GUI.AssemblyInfo.cs
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\Praktikum_GUI.csproj.CoreCompileInputs.cache
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\Praktikum_GUI.dll
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\refint\Praktikum_GUI.dll
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\Praktikum_GUI.pdb
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\Praktikum_GUI.genruntimeconfig.cache
+D:\CINTA CODING\KULIAH\Praktikum_GUI\Praktikum_GUI\obj\Debug\net6.0-windows\ref\Praktikum_GUI.dll

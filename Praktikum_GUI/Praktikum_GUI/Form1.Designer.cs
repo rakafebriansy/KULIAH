@@ -39,33 +39,37 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(98, 147);
+            label1.Location = new Point(60, 92);
+            label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(121, 32);
+            label1.Size = new Size(75, 20);
             label1.TabIndex = 0;
             label1.Text = "Username";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(98, 225);
+            label2.Location = new Point(60, 141);
+            label2.Margin = new Padding(2, 0, 2, 0);
             label2.Name = "label2";
-            label2.Size = new Size(111, 32);
+            label2.Size = new Size(70, 20);
             label2.TabIndex = 1;
             label2.Text = "Password";
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(279, 147);
+            textBox1.Location = new Point(172, 92);
+            textBox1.Margin = new Padding(2);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(294, 39);
+            textBox1.Size = new Size(182, 27);
             textBox1.TabIndex = 2;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(279, 225);
+            textBox2.Location = new Point(172, 141);
+            textBox2.Margin = new Padding(2);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(294, 39);
+            textBox2.Size = new Size(182, 27);
             textBox2.TabIndex = 3;
             // 
             // label3
@@ -73,18 +77,20 @@
             label3.AutoSize = true;
             label3.Font = new Font("Helvetica Rounded", 22.1249962F, FontStyle.Bold, GraphicsUnit.Point);
             label3.ForeColor = SystemColors.MenuHighlight;
-            label3.Location = new Point(214, 24);
+            label3.Location = new Point(132, 23);
+            label3.Margin = new Padding(2, 0, 2, 0);
             label3.Name = "label3";
-            label3.Size = new Size(266, 69);
+            label3.Size = new Size(154, 44);
             label3.TabIndex = 4;
-            label3.Text = "SIGN IN";
+            label3.Text = "LOG IN";
             label3.Click += label3_Click;
             // 
             // button1
             // 
-            button1.Location = new Point(279, 302);
+            button1.Location = new Point(172, 189);
+            button1.Margin = new Padding(2);
             button1.Name = "button1";
-            button1.Size = new Size(150, 46);
+            button1.Size = new Size(92, 29);
             button1.TabIndex = 5;
             button1.Text = "Simpan";
             button1.UseVisualStyleBackColor = true;
@@ -92,17 +98,20 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(13F, 32F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(664, 618);
+            ClientSize = new Size(409, 386);
             Controls.Add(button1);
             Controls.Add(label3);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
             Controls.Add(label2);
             Controls.Add(label1);
+            Location = new Point(100, 100);
+            Margin = new Padding(2);
             Name = "Form1";
-            Text = "Sign in";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Form Log in";
             ResumeLayout(false);
             PerformLayout();
         }
