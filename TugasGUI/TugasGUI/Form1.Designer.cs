@@ -29,20 +29,20 @@
         private void InitializeComponent()
         {
             dataGridView1 = new DataGridView();
-            id = new DataGridViewTextBoxColumn();
             Kategori = new DataGridViewTextBoxColumn();
             Nama = new DataGridViewTextBoxColumn();
             Alamat = new DataGridViewTextBoxColumn();
             Negara = new DataGridViewTextBoxColumn();
+            Ubah = new DataGridViewTextBoxColumn();
+            Hapus = new DataGridViewTextBoxColumn();
             button1 = new Button();
-            button2 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { id, Kategori, Nama, Alamat, Negara });
+            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Kategori, Nama, Alamat, Negara, Ubah, Hapus });
             dataGridView1.Location = new Point(20, 125);
             dataGridView1.Margin = new Padding(5);
             dataGridView1.Name = "dataGridView1";
@@ -52,18 +52,12 @@
             dataGridView1.TabIndex = 0;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
-            // id
-            // 
-            id.HeaderText = "id";
-            id.MinimumWidth = 10;
-            id.Name = "id";
-            id.Width = 200;
-            // 
             // Kategori
             // 
             Kategori.HeaderText = "Kategori";
             Kategori.MinimumWidth = 10;
             Kategori.Name = "Kategori";
+            Kategori.ReadOnly = true;
             Kategori.Width = 200;
             // 
             // Nama
@@ -71,6 +65,7 @@
             Nama.HeaderText = "Nama";
             Nama.MinimumWidth = 10;
             Nama.Name = "Nama";
+            Nama.ReadOnly = true;
             Nama.Width = 200;
             // 
             // Alamat
@@ -78,6 +73,7 @@
             Alamat.HeaderText = "Alamat";
             Alamat.MinimumWidth = 10;
             Alamat.Name = "Alamat";
+            Alamat.ReadOnly = true;
             Alamat.Width = 200;
             // 
             // Negara
@@ -85,35 +81,44 @@
             Negara.HeaderText = "Negara";
             Negara.MinimumWidth = 10;
             Negara.Name = "Negara";
+            Negara.ReadOnly = true;
             Negara.Width = 200;
+            // 
+            // Ubah
+            // 
+            Ubah.HeaderText = "Ubah";
+            Ubah.MinimumWidth = 10;
+            Ubah.Name = "Ubah";
+            Ubah.ReadOnly = true;
+            Ubah.Resizable = DataGridViewTriState.False;
+            Ubah.Width = 200;
+            // 
+            // Hapus
+            // 
+            Hapus.HeaderText = "Hapus";
+            Hapus.MinimumWidth = 10;
+            Hapus.Name = "Hapus";
+            Hapus.ReadOnly = true;
+            Hapus.Resizable = DataGridViewTriState.False;
+            Hapus.Width = 200;
             // 
             // button1
             // 
-            button1.Location = new Point(1128, 69);
+            button1.BackColor = Color.Lime;
+            button1.Location = new Point(1115, 60);
             button1.Margin = new Padding(5);
             button1.Name = "button1";
-            button1.Size = new Size(153, 46);
+            button1.Size = new Size(166, 55);
             button1.TabIndex = 1;
             button1.Text = "Tambah";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
-            // 
-            // button2
-            // 
-            button2.Location = new Point(959, 69);
-            button2.Name = "button2";
-            button2.Size = new Size(150, 46);
-            button2.TabIndex = 2;
-            button2.Text = "Ubah";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1300, 720);
-            Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(dataGridView1);
             Margin = new Padding(5);
@@ -128,11 +133,11 @@
 
         private DataGridView dataGridView1;
         private Button button1;
-        private Button button2;
-        private DataGridViewTextBoxColumn id;
         private DataGridViewTextBoxColumn Kategori;
         private DataGridViewTextBoxColumn Nama;
         private DataGridViewTextBoxColumn Alamat;
         private DataGridViewTextBoxColumn Negara;
+        private DataGridViewTextBoxColumn Ubah;
+        private DataGridViewTextBoxColumn Hapus;
     }
 }

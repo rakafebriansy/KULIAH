@@ -45,9 +45,7 @@ namespace TugasGUI
                     data_tampil.setDataPerusahaan(pariwisata);
                     break;
             }
-            
             this.Hide();
-
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)

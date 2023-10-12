@@ -5,7 +5,6 @@ namespace TugasGUI
     public partial class Form1 : Form
     {
         public int counter = 0;
-        public static List<Perusahaan> list_perusahaan = new List<Perusahaan>();
         public Form1()
         {
             InitializeComponent();
@@ -24,11 +23,29 @@ namespace TugasGUI
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
+            int index = e.RowIndex;
+            if (e.ColumnIndex == 4) //ubah
+            {
+                string?[] data = { dataGridView1.Rows[index].Cells[1].Value.ToString(), dataGridView1.Rows[index].Cells[2].Value.ToString(), dataGridView1.Rows[index].Cells[0].Value.ToString(), dataGridView1.Rows[index].Cells[3].Value.ToString() };
+                Form3 ubah_data = new(this, data, index);
+                ubah_data.ShowDialog();
+            }
+            if (e.ColumnIndex == 5) //hapus
+            {
 
+                dataGridView1.Rows.RemoveAt(index);
+            }
         }
         public void setDataPerusahaan(Perusahaan perusahaan)
         {
-            dataGridView1.Rows.Add(new object[] { perusahaan.Id, perusahaan.Kategori, perusahaan.Nama, perusahaan.Alamat, perusahaan.Negara });
+            dataGridView1.Rows.Add(new object[] { perusahaan.Kategori, perusahaan.Nama, perusahaan.Alamat, perusahaan.Negara, "ubah", "hapus" });
+        }
+        public void editDataPerusahaan(int index, string?[] data)
+        {
+            for (int i = 0; i < data.Length; i++)
+            {
+                dataGridView1.Rows[index].Cells[i].Value = data[i];
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)

@@ -1,6 +1,6 @@
 ﻿namespace TugasGUI
 {
-    partial class Form2
+    partial class Form3
     {
         /// <summary>
         /// Required designer variable.
@@ -43,107 +43,96 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(171, 178);
-            label1.Margin = new Padding(5, 0, 5, 0);
+            label1.Font = new Font("Franklin Gothic Medium Cond", 36F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.Location = new Point(251, 22);
             label1.Name = "label1";
-            label1.Size = new Size(77, 32);
+            label1.Size = new Size(917, 120);
             label1.TabIndex = 0;
-            label1.Text = "Nama";
+            label1.Text = "EDIT DATA PERUSAHAAN";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(158, 254);
-            label2.Margin = new Padding(5, 0, 5, 0);
+            label2.Location = new Point(207, 224);
             label2.Name = "label2";
-            label2.Size = new Size(88, 32);
+            label2.Size = new Size(77, 32);
             label2.TabIndex = 1;
-            label2.Text = "Alamat";
+            label2.Text = "Nama";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(143, 333);
-            label3.Margin = new Padding(5, 0, 5, 0);
+            label3.Location = new Point(196, 286);
             label3.Name = "label3";
-            label3.Size = new Size(103, 32);
+            label3.Size = new Size(88, 32);
             label3.TabIndex = 2;
-            label3.Text = "Kategori";
+            label3.Text = "Alamat";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(156, 414);
-            label4.Margin = new Padding(5, 0, 5, 0);
+            label4.Location = new Point(193, 416);
             label4.Name = "label4";
             label4.Size = new Size(91, 32);
             label4.TabIndex = 3;
             label4.Text = "Negara";
+            label4.Click += label4_Click;
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Font = new Font("Franklin Gothic Medium Cond", 36F, FontStyle.Regular, GraphicsUnit.Point);
-            label5.Location = new Point(171, 14);
-            label5.Margin = new Padding(5, 0, 5, 0);
+            label5.Location = new Point(181, 354);
             label5.Name = "label5";
-            label5.Size = new Size(968, 120);
+            label5.Size = new Size(103, 32);
             label5.TabIndex = 4;
-            label5.Text = "ENTRI DATA PERUSAHAAN";
+            label5.Text = "Kategori";
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(504, 173);
-            textBox1.Margin = new Padding(5, 5, 5, 5);
+            textBox1.Location = new Point(549, 217);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(660, 39);
+            textBox1.Size = new Size(709, 39);
             textBox1.TabIndex = 5;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(504, 250);
-            textBox2.Margin = new Padding(5, 5, 5, 5);
+            textBox2.Location = new Point(549, 286);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(660, 39);
+            textBox2.Size = new Size(709, 39);
             textBox2.TabIndex = 6;
-            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // textBox3
             // 
-            textBox3.Location = new Point(790, 410);
-            textBox3.Margin = new Padding(5, 5, 5, 5);
+            textBox3.Location = new Point(558, 416);
             textBox3.Name = "textBox3";
-            textBox3.Size = new Size(374, 39);
+            textBox3.Size = new Size(700, 39);
             textBox3.TabIndex = 7;
             // 
             // comboBox1
             // 
             comboBox1.FormattingEnabled = true;
             comboBox1.Items.AddRange(new object[] { "Agrikultur", "Kesehatan", "Ekonomi", "Pariwisata" });
-            comboBox1.Location = new Point(790, 333);
-            comboBox1.Margin = new Padding(5, 5, 5, 5);
+            comboBox1.Location = new Point(942, 354);
             comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(374, 40);
+            comboBox1.Size = new Size(316, 40);
             comboBox1.TabIndex = 8;
-            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
             // 
             // button1
             // 
             button1.BackColor = Color.Lime;
-            button1.Location = new Point(1014, 570);
-            button1.Margin = new Padding(5, 5, 5, 5);
+            button1.Location = new Point(1098, 581);
             button1.Name = "button1";
-            button1.Size = new Size(153, 67);
+            button1.Size = new Size(160, 63);
             button1.TabIndex = 9;
             button1.Text = "Simpan";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
-            // Form2
+            // Form3
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1300, 720);
+            ClientSize = new Size(1378, 747);
             Controls.Add(button1);
             Controls.Add(comboBox1);
             Controls.Add(textBox3);
@@ -154,11 +143,9 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Margin = new Padding(5, 5, 5, 5);
-            Name = "Form2";
+            Name = "Form3";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form2";
-            Load += Form2_Load;
+            Text = "Form3";
             ResumeLayout(false);
             PerformLayout();
         }
