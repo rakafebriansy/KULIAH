@@ -33,9 +33,16 @@ namespace TugasGUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string[] data = { comboBox1.Text, textBox1.Text, textBox2.Text, textBox3.Text };
-            data_tampil.editDataPerusahaan(this.index, data);
-            this.Hide();
+            if (comboBox1.Text == "Agrikultur" || comboBox1.Text == "Kesehatan" || comboBox1.Text == "Pariwisata" || comboBox1.Text == "Ekonomi")
+            {
+                string[] data = { comboBox1.Text, textBox1.Text, textBox2.Text, textBox3.Text };
+                data_tampil.editDataPerusahaan(this.index, data);
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Kategori Tidak Valid");
+            }
         }
     }
 }

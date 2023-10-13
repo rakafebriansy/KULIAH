@@ -44,6 +44,9 @@ namespace TugasGUI
                     Pariwisata pariwisata = new Pariwisata(textBox1.Text, textBox2.Text, textBox3.Text);
                     data_tampil.setDataPerusahaan(pariwisata);
                     break;
+                default:
+                    MessageBox.Show("Kategori tidak valid!");
+                    break;
             }
             this.Hide();
         }
