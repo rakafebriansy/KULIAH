@@ -51,30 +51,18 @@ namespace GUI_2
     class Agrikultur : Perusahaan
     {
 
-        public Agrikultur(string nama, string alamat, string negara) : base(nama, "Agrikultur", alamat, negara)
-        {
-
-        }
+        public Agrikultur(string nama, string alamat, string negara) : base(nama, "Agrikultur", alamat, negara) { }
     }
     class Kesehatan : Perusahaan
     {
-        public Kesehatan(string nama, string alamat, string negara) : base(nama, "Kesehatan", alamat, negara)
-        {
-
-        }
+        public Kesehatan(string nama, string alamat, string negara) : base(nama, "Kesehatan", alamat, negara) { }
     }
     class Ekonomi : Perusahaan
     {
-        public Ekonomi(string nama, string alamat, string negara) : base(nama, "Ekonomi", alamat, negara)
-        {
-
-        }
+        public Ekonomi(string nama, string alamat, string negara) : base(nama, "Ekonomi", alamat, negara) { }
     }
     class Pariwisata : Perusahaan
     {
-        public Pariwisata(string nama, string alamat, string negara) : base(nama, "Pariwisata", alamat, negara)
-        {
-
-        }
+        public Pariwisata(string nama, string alamat, string negara) : base(nama, "Pariwisata", alamat, negara) { }
     }
 }

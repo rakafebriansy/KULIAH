@@ -34,31 +34,40 @@
             // 
             // button1
             // 
-            button1.Location = new Point(172, 208);
+            button1.BackColor = Color.LightGreen;
+            button1.Font = new Font("Sans Serif Collection", 9F, FontStyle.Regular, GraphicsUnit.Point);
+            button1.Location = new Point(159, 130);
+            button1.Margin = new Padding(2, 2, 2, 2);
             button1.Name = "button1";
-            button1.Size = new Size(291, 150);
+            button1.Size = new Size(179, 94);
             button1.TabIndex = 0;
             button1.Text = "GUI 1";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
             // button2
             // 
-            button2.Location = new Point(485, 208);
+            button2.BackColor = Color.LightGreen;
+            button2.Font = new Font("Sans Serif Collection", 9F, FontStyle.Regular, GraphicsUnit.Point);
+            button2.Location = new Point(403, 130);
+            button2.Margin = new Padding(2, 2, 2, 2);
             button2.Name = "button2";
-            button2.Size = new Size(291, 150);
+            button2.Size = new Size(179, 94);
             button2.TabIndex = 1;
             button2.Text = "GUI 2";
-            button2.UseVisualStyleBackColor = true;
+            button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click;
             // 
             // Form4
             // 
-            AutoScaleDimensions = new SizeF(13F, 32F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1168, 613);
+            BackgroundImage = Properties.Resources._5582176;
+            BackgroundImageLayout = ImageLayout.Stretch;
+            ClientSize = new Size(719, 383);
             Controls.Add(button2);
             Controls.Add(button1);
+            Margin = new Padding(2, 2, 2, 2);
             Name = "Form4";
             Text = "Form4";
             ResumeLayout(false);

@@ -36,30 +36,37 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(12, 164);
+            dataGridView1.Location = new Point(7, 102);
+            dataGridView1.Margin = new Padding(2, 2, 2, 2);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 82;
             dataGridView1.RowTemplate.Height = 41;
-            dataGridView1.Size = new Size(1357, 589);
+            dataGridView1.Size = new Size(835, 368);
             dataGridView1.TabIndex = 0;
             // 
             // button1
             // 
-            button1.Location = new Point(1219, 102);
+            button1.BackColor = Color.LightGreen;
+            button1.Font = new Font("Sans Serif Collection", 4.20000029F, FontStyle.Regular, GraphicsUnit.Point);
+            button1.Location = new Point(750, 59);
+            button1.Margin = new Padding(2, 2, 2, 2);
             button1.Name = "button1";
-            button1.Size = new Size(150, 46);
+            button1.Size = new Size(92, 34);
             button1.TabIndex = 1;
             button1.Text = "Tambah";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
             // Form5
             // 
-            AutoScaleDimensions = new SizeF(13F, 32F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1381, 765);
+            BackgroundImage = Properties.Resources._5582176;
+            BackgroundImageLayout = ImageLayout.Stretch;
+            ClientSize = new Size(850, 478);
             Controls.Add(button1);
             Controls.Add(dataGridView1);
+            Margin = new Padding(2, 2, 2, 2);
             Name = "Form5";
             Text = "Form5";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();

@@ -43,11 +43,12 @@
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Kategori, Nama, Alamat, Negara, Ubah, Hapus });
-            dataGridView1.Location = new Point(12, 78);
+            dataGridView1.Location = new Point(20, 125);
+            dataGridView1.Margin = new Padding(5, 5, 5, 5);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.RowTemplate.Height = 29;
-            dataGridView1.Size = new Size(776, 360);
+            dataGridView1.Size = new Size(1261, 576);
             dataGridView1.TabIndex = 0;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
@@ -55,9 +56,10 @@
             // 
             button1.BackColor = Color.LightGreen;
             button1.Font = new Font("Sans Serif Collection", 4.20000029F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(686, 38);
+            button1.Location = new Point(1115, 61);
+            button1.Margin = new Padding(5, 5, 5, 5);
             button1.Name = "button1";
-            button1.Size = new Size(102, 34);
+            button1.Size = new Size(166, 54);
             button1.TabIndex = 1;
             button1.Text = "Tambah";
             button1.UseVisualStyleBackColor = false;
@@ -93,6 +95,7 @@
             Negara.MinimumWidth = 10;
             Negara.Name = "Negara";
             Negara.ReadOnly = true;
+            Negara.Width = 125;
             // 
             // Ubah
             // 
@@ -112,14 +115,15 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             BackgroundImage = Properties.Resources._5582176;
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1300, 720);
             Controls.Add(button1);
             Controls.Add(dataGridView1);
+            Margin = new Padding(5, 5, 5, 5);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Perusahaan";
