@@ -99,7 +99,7 @@
             // textBox1
             // 
             textBox1.Location = new Point(504, 173);
-            textBox1.Margin = new Padding(5, 5, 5, 5);
+            textBox1.Margin = new Padding(5);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(660, 39);
             textBox1.TabIndex = 5;
@@ -108,7 +108,7 @@
             // textBox2
             // 
             textBox2.Location = new Point(504, 250);
-            textBox2.Margin = new Padding(5, 5, 5, 5);
+            textBox2.Margin = new Padding(5);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(660, 39);
             textBox2.TabIndex = 6;
@@ -117,7 +117,7 @@
             // textBox3
             // 
             textBox3.Location = new Point(790, 410);
-            textBox3.Margin = new Padding(5, 5, 5, 5);
+            textBox3.Margin = new Padding(5);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(374, 39);
             textBox3.TabIndex = 7;
@@ -127,7 +127,7 @@
             comboBox1.FormattingEnabled = true;
             comboBox1.Items.AddRange(new object[] { "Agrikultur", "Kesehatan", "Ekonomi", "Pariwisata" });
             comboBox1.Location = new Point(790, 333);
-            comboBox1.Margin = new Padding(5, 5, 5, 5);
+            comboBox1.Margin = new Padding(5);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(374, 40);
             comboBox1.TabIndex = 8;
@@ -138,7 +138,7 @@
             button1.BackColor = Color.LightGreen;
             button1.Font = new Font("Sans Serif Collection", 4.20000029F, FontStyle.Regular, GraphicsUnit.Point);
             button1.Location = new Point(1014, 570);
-            button1.Margin = new Padding(5, 5, 5, 5);
+            button1.Margin = new Padding(5);
             button1.Name = "button1";
             button1.Size = new Size(153, 67);
             button1.TabIndex = 9;
@@ -153,7 +153,7 @@
             BackColor = Color.White;
             BackgroundImage = Properties.Resources._5582176;
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(1300, 720);
+            ClientSize = new Size(1374, 729);
             Controls.Add(button1);
             Controls.Add(comboBox1);
             Controls.Add(textBox3);
@@ -164,7 +164,7 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Margin = new Padding(5, 5, 5, 5);
+            Margin = new Padding(5);
             Name = "Form2";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form2";

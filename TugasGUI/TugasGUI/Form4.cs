@@ -21,12 +21,14 @@ namespace TugasGUI
         {
             Form1 GUI1 = new Form1();
             GUI1.Show();
+            this.Hide();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             Form5 GUI2 = new();
             GUI2.Show();
+            this.Hide();
         }
     }
 }

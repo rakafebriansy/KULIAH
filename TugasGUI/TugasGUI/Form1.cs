@@ -8,6 +8,10 @@ namespace TugasGUI
         public Form1()
         {
             InitializeComponent();
+            GUI_1.Pariwisata pariwisata1 = new GUI_1.Pariwisata("PT. Traveloka", "Jl. Jendral Soedirman no.09, Jakarta Pusat", "Indonesia");
+            GUI_1.Kesehatan kesehatan1 = new GUI_1.Kesehatan("Yuljee", "6 Dongpyeong-ro 116beon-gil, Busan", "Korea Selatan");
+            setDataPerusahaan(pariwisata1);
+            setDataPerusahaan(kesehatan1);
         }
 
         private void Perusahaan_Load(object sender, EventArgs e)
