@@ -34,3 +34,22 @@ D:\CINTA CODING\KULIAH\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.genru
 D:\CINTA CODING\KULIAH\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\ref\TugasGUI.dll
 D:\CINTA CODING\KULIAH\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.Form3.resources
 D:\CINTA CODING\KULIAH\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.Properties.Resources.resources
+D:\GUI\TugasGUI\TugasGUI\bin\Debug\net6.0-windows\TugasGUI.exe
+D:\GUI\TugasGUI\TugasGUI\bin\Debug\net6.0-windows\TugasGUI.deps.json
+D:\GUI\TugasGUI\TugasGUI\bin\Debug\net6.0-windows\TugasGUI.runtimeconfig.json
+D:\GUI\TugasGUI\TugasGUI\bin\Debug\net6.0-windows\TugasGUI.dll
+D:\GUI\TugasGUI\TugasGUI\bin\Debug\net6.0-windows\TugasGUI.pdb
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.Form1.resources
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.Form2.resources
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.Form3.resources
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.Properties.Resources.resources
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.csproj.GenerateResource.cache
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.AssemblyInfoInputs.cache
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.AssemblyInfo.cs
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.csproj.CoreCompileInputs.cache
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.dll
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\refint\TugasGUI.dll
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.pdb
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.genruntimeconfig.cache
+D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\ref\TugasGUI.dll

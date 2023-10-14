@@ -44,5 +44,10 @@ namespace TugasGUI
                 MessageBox.Show("Kategori Tidak Valid");
             }
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

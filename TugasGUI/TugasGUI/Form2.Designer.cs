@@ -38,56 +38,62 @@
             textBox3 = new TextBox();
             comboBox1 = new ComboBox();
             button1 = new Button();
+            button2 = new Button();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(171, 178);
+            label1.Font = new Font("Sans Serif Collection", 4.79999971F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.Location = new Point(171, 173);
             label1.Margin = new Padding(5, 0, 5, 0);
             label1.Name = "label1";
-            label1.Size = new Size(77, 32);
+            label1.Size = new Size(70, 32);
             label1.TabIndex = 0;
             label1.Text = "Nama";
+            label1.Click += label1_Click;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(158, 254);
+            label2.Font = new Font("Sans Serif Collection", 4.79999971F, FontStyle.Regular, GraphicsUnit.Point);
+            label2.Location = new Point(158, 250);
             label2.Margin = new Padding(5, 0, 5, 0);
             label2.Name = "label2";
-            label2.Size = new Size(88, 32);
+            label2.Size = new Size(80, 32);
             label2.TabIndex = 1;
             label2.Text = "Alamat";
             // 
             // label3
             // 
             label3.AutoSize = true;
+            label3.Font = new Font("Sans Serif Collection", 4.79999971F, FontStyle.Regular, GraphicsUnit.Point);
             label3.Location = new Point(143, 333);
             label3.Margin = new Padding(5, 0, 5, 0);
             label3.Name = "label3";
-            label3.Size = new Size(103, 32);
+            label3.Size = new Size(94, 32);
             label3.TabIndex = 2;
             label3.Text = "Kategori";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(156, 414);
+            label4.Font = new Font("Sans Serif Collection", 4.79999971F, FontStyle.Regular, GraphicsUnit.Point);
+            label4.Location = new Point(156, 410);
             label4.Margin = new Padding(5, 0, 5, 0);
             label4.Name = "label4";
-            label4.Size = new Size(91, 32);
+            label4.Size = new Size(84, 32);
             label4.TabIndex = 3;
             label4.Text = "Negara";
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Font = new Font("Franklin Gothic Medium Cond", 36F, FontStyle.Regular, GraphicsUnit.Point);
-            label5.Location = new Point(171, 14);
+            label5.Font = new Font("Sans Serif Collection", 13.8F, FontStyle.Regular, GraphicsUnit.Point);
+            label5.Location = new Point(250, 38);
             label5.Margin = new Padding(5, 0, 5, 0);
             label5.Name = "label5";
-            label5.Size = new Size(968, 120);
+            label5.Size = new Size(864, 91);
             label5.TabIndex = 4;
             label5.Text = "ENTRI DATA PERUSAHAAN";
             // 
@@ -129,21 +135,38 @@
             // 
             // button1
             // 
-            button1.BackColor = Color.Lime;
-            button1.Location = new Point(1014, 570);
+            button1.BackColor = Color.LightGreen;
+            button1.Font = new Font("Sans Serif Collection", 4.20000029F, FontStyle.Regular, GraphicsUnit.Point);
+            button1.Location = new Point(878, 585);
             button1.Margin = new Padding(5, 5, 5, 5);
             button1.Name = "button1";
             button1.Size = new Size(153, 67);
             button1.TabIndex = 9;
-            button1.Text = "Simpan";
+            button1.Text = "GUI 1";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
+            // 
+            // button2
+            // 
+            button2.BackColor = Color.LightGreen;
+            button2.Font = new Font("Sans Serif Collection", 4.125F, FontStyle.Regular, GraphicsUnit.Point);
+            button2.Location = new Point(1065, 585);
+            button2.Name = "button2";
+            button2.Size = new Size(150, 67);
+            button2.TabIndex = 10;
+            button2.Text = "GUI 2";
+            button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.White;
+            BackgroundImage = Properties.Resources._5582176;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1300, 720);
+            Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(comboBox1);
             Controls.Add(textBox3);
@@ -175,5 +198,6 @@
         private TextBox textBox3;
         private ComboBox comboBox1;
         private Button button1;
+        private Button button2;
     }
 }

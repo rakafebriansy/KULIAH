@@ -30,19 +30,19 @@ namespace TugasGUI
             {
                 case "Agrikultur":
                     Agrikultur agrikultur = new Agrikultur(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataPerusahaan(agrikultur);
+                    data_tampil.setDataGUI1(agrikultur);
                     break;
                 case "Kesehatan":
                     Kesehatan kesehatan = new Kesehatan(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataPerusahaan(kesehatan);
+                    data_tampil.setDataGUI1(kesehatan);
                     break;
                 case "Ekonomi":
                     Ekonomi ekonomi = new Ekonomi(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataPerusahaan(ekonomi);
+                    data_tampil.setDataGUI1(ekonomi);
                     break;
                 case "Pariwisata":
                     Pariwisata pariwisata = new Pariwisata(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataPerusahaan(pariwisata);
+                    data_tampil.setDataGUI1(pariwisata);
                     break;
                 default:
                     MessageBox.Show("Kategori tidak valid!");
@@ -58,6 +58,38 @@ namespace TugasGUI
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            switch (comboBox1.Text)
+            {
+                case "Agrikultur":
+                    Agrikultur agrikultur = new Agrikultur(textBox1.Text, textBox2.Text, textBox3.Text);
+                    data_tampil.setDataGUI2(agrikultur);
+                    break;
+                case "Kesehatan":
+                    Kesehatan kesehatan = new Kesehatan(textBox1.Text, textBox2.Text, textBox3.Text);
+                    data_tampil.setDataGUI2(kesehatan);
+                    break;
+                case "Ekonomi":
+                    Ekonomi ekonomi = new Ekonomi(textBox1.Text, textBox2.Text, textBox3.Text);
+                    data_tampil.setDataGUI2(ekonomi);
+                    break;
+                case "Pariwisata":
+                    Pariwisata pariwisata = new Pariwisata(textBox1.Text, textBox2.Text, textBox3.Text);
+                    data_tampil.setDataGUI2(pariwisata);
+                    break;
+                default:
+                    MessageBox.Show("Kategori tidak valid!");
+                    break;
+            }
+            this.Hide();
         }
     }
 }
