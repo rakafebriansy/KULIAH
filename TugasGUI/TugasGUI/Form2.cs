@@ -12,10 +12,10 @@ namespace TugasGUI
 {
     public partial class Form2 : Form
     {
-        private Form1 data_tampil;
-        public Form2(Form1 data_tampil)
+        private Form1 GUI1;
+        public Form2(Form1 GUI1)
         {
-            this.data_tampil = data_tampil;
+            this.GUI1 = GUI1;
             InitializeComponent();
         }
 
@@ -29,20 +29,20 @@ namespace TugasGUI
             switch (comboBox1.Text)
             {
                 case "Agrikultur":
-                    Agrikultur agrikultur = new Agrikultur(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataGUI1(agrikultur);
+                    GUI_1.Agrikultur agrikultur = new GUI_1.Agrikultur(textBox1.Text, textBox2.Text, textBox3.Text);
+                    GUI1.setDataPerusahaan(agrikultur);
                     break;
                 case "Kesehatan":
-                    Kesehatan kesehatan = new Kesehatan(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataGUI1(kesehatan);
+                    GUI_1.Kesehatan kesehatan = new GUI_1.Kesehatan(textBox1.Text, textBox2.Text, textBox3.Text);
+                    GUI1.setDataPerusahaan(kesehatan);
                     break;
                 case "Ekonomi":
-                    Ekonomi ekonomi = new Ekonomi(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataGUI1(ekonomi);
+                    GUI_1.Ekonomi ekonomi = new GUI_1.Ekonomi(textBox1.Text, textBox2.Text, textBox3.Text);
+                    GUI1.setDataPerusahaan(ekonomi);
                     break;
                 case "Pariwisata":
-                    Pariwisata pariwisata = new Pariwisata(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataGUI1(pariwisata);
+                    GUI_1.Pariwisata pariwisata = new GUI_1.Pariwisata(textBox1.Text, textBox2.Text, textBox3.Text);
+                    GUI1.setDataPerusahaan(pariwisata);
                     break;
                 default:
                     MessageBox.Show("Kategori tidak valid!");
@@ -65,31 +65,9 @@ namespace TugasGUI
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            switch (comboBox1.Text)
-            {
-                case "Agrikultur":
-                    Agrikultur agrikultur = new Agrikultur(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataGUI2(agrikultur);
-                    break;
-                case "Kesehatan":
-                    Kesehatan kesehatan = new Kesehatan(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataGUI2(kesehatan);
-                    break;
-                case "Ekonomi":
-                    Ekonomi ekonomi = new Ekonomi(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataGUI2(ekonomi);
-                    break;
-                case "Pariwisata":
-                    Pariwisata pariwisata = new Pariwisata(textBox1.Text, textBox2.Text, textBox3.Text);
-                    data_tampil.setDataGUI2(pariwisata);
-                    break;
-                default:
-                    MessageBox.Show("Kategori tidak valid!");
-                    break;
-            }
-            this.Hide();
+
         }
     }
 }

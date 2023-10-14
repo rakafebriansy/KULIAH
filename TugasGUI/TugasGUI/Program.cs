@@ -11,7 +11,7 @@ namespace TugasGUI
             
 
             ApplicationConfiguration.Initialize();
-            Application.Run(new TugasGUI.Form1());
+            Application.Run(new TugasGUI.Form4());
         }
     }
     

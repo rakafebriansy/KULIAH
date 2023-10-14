@@ -38,7 +38,6 @@
             textBox3 = new TextBox();
             comboBox1 = new ComboBox();
             button1 = new Button();
-            button2 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -104,6 +103,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(660, 39);
             textBox1.TabIndex = 5;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox2
             // 
@@ -137,26 +137,14 @@
             // 
             button1.BackColor = Color.LightGreen;
             button1.Font = new Font("Sans Serif Collection", 4.20000029F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(878, 585);
+            button1.Location = new Point(1014, 570);
             button1.Margin = new Padding(5, 5, 5, 5);
             button1.Name = "button1";
             button1.Size = new Size(153, 67);
             button1.TabIndex = 9;
-            button1.Text = "GUI 1";
+            button1.Text = "Simpan";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
-            // 
-            // button2
-            // 
-            button2.BackColor = Color.LightGreen;
-            button2.Font = new Font("Sans Serif Collection", 4.125F, FontStyle.Regular, GraphicsUnit.Point);
-            button2.Location = new Point(1065, 585);
-            button2.Name = "button2";
-            button2.Size = new Size(150, 67);
-            button2.TabIndex = 10;
-            button2.Text = "GUI 2";
-            button2.UseVisualStyleBackColor = false;
-            button2.Click += button2_Click;
             // 
             // Form2
             // 
@@ -166,7 +154,6 @@
             BackgroundImage = Properties.Resources._5582176;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1300, 720);
-            Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(comboBox1);
             Controls.Add(textBox3);
@@ -198,6 +185,5 @@
         private TextBox textBox3;
         private ComboBox comboBox1;
         private Button button1;
-        private Button button2;
     }
 }

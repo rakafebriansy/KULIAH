@@ -53,3 +53,6 @@ D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\refint\TugasGUI.dll
 D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.pdb
 D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.genruntimeconfig.cache
 D:\GUI\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\ref\TugasGUI.dll
+D:\CINTA CODING\KULIAH\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.Form4.resources
+D:\CINTA CODING\KULIAH\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.Form5.resources
+D:\CINTA CODING\KULIAH\TugasGUI\TugasGUI\obj\Debug\net6.0-windows\TugasGUI.Form6.resources
