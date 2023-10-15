@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             dataGridView1 = new DataGridView();
+            button1 = new Button();
             Kategori = new DataGridViewTextBoxColumn();
             Nama = new DataGridViewTextBoxColumn();
             Alamat = new DataGridViewTextBoxColumn();
             Negara = new DataGridViewTextBoxColumn();
             Ubah = new DataGridViewTextBoxColumn();
             Hapus = new DataGridViewTextBoxColumn();
-            button1 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -52,56 +52,6 @@
             dataGridView1.TabIndex = 0;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
-            // Kategori
-            // 
-            Kategori.HeaderText = "Kategori";
-            Kategori.MinimumWidth = 10;
-            Kategori.Name = "Kategori";
-            Kategori.ReadOnly = true;
-            Kategori.Width = 135;
-            // 
-            // Nama
-            // 
-            Nama.HeaderText = "Nama";
-            Nama.MinimumWidth = 10;
-            Nama.Name = "Nama";
-            Nama.ReadOnly = true;
-            Nama.Width = 150;
-            // 
-            // Alamat
-            // 
-            Alamat.HeaderText = "Alamat";
-            Alamat.MinimumWidth = 10;
-            Alamat.Name = "Alamat";
-            Alamat.ReadOnly = true;
-            Alamat.Width = 150;
-            // 
-            // Negara
-            // 
-            Negara.HeaderText = "Negara";
-            Negara.MinimumWidth = 10;
-            Negara.Name = "Negara";
-            Negara.ReadOnly = true;
-            Negara.Width = 125;
-            // 
-            // Ubah
-            // 
-            Ubah.HeaderText = "Ubah";
-            Ubah.MinimumWidth = 10;
-            Ubah.Name = "Ubah";
-            Ubah.ReadOnly = true;
-            Ubah.Resizable = DataGridViewTriState.False;
-            Ubah.Width = 200;
-            // 
-            // Hapus
-            // 
-            Hapus.HeaderText = "Hapus";
-            Hapus.MinimumWidth = 10;
-            Hapus.Name = "Hapus";
-            Hapus.ReadOnly = true;
-            Hapus.Resizable = DataGridViewTriState.False;
-            Hapus.Width = 200;
-            // 
             // button1
             // 
             button1.BackColor = Color.LightGreen;
@@ -114,6 +64,56 @@
             button1.Text = "Tambah";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
+            // 
+            // Kategori
+            // 
+            Kategori.HeaderText = "Kategori";
+            Kategori.MinimumWidth = 10;
+            Kategori.Name = "Kategori";
+            Kategori.ReadOnly = true;
+            Kategori.Width = 250;
+            // 
+            // Nama
+            // 
+            Nama.HeaderText = "Nama";
+            Nama.MinimumWidth = 10;
+            Nama.Name = "Nama";
+            Nama.ReadOnly = true;
+            Nama.Width = 250;
+            // 
+            // Alamat
+            // 
+            Alamat.HeaderText = "Alamat";
+            Alamat.MinimumWidth = 10;
+            Alamat.Name = "Alamat";
+            Alamat.ReadOnly = true;
+            Alamat.Width = 250;
+            // 
+            // Negara
+            // 
+            Negara.HeaderText = "Negara";
+            Negara.MinimumWidth = 10;
+            Negara.Name = "Negara";
+            Negara.ReadOnly = true;
+            Negara.Width = 250;
+            // 
+            // Ubah
+            // 
+            Ubah.HeaderText = "Ubah";
+            Ubah.MinimumWidth = 10;
+            Ubah.Name = "Ubah";
+            Ubah.ReadOnly = true;
+            Ubah.Resizable = DataGridViewTriState.False;
+            Ubah.Width = 120;
+            // 
+            // Hapus
+            // 
+            Hapus.HeaderText = "Hapus";
+            Hapus.MinimumWidth = 10;
+            Hapus.Name = "Hapus";
+            Hapus.ReadOnly = true;
+            Hapus.Resizable = DataGridViewTriState.False;
+            Hapus.Width = 120;
             // 
             // Form1
             // 
