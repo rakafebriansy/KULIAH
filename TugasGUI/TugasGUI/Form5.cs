@@ -16,11 +16,11 @@ namespace TugasGUI
         public Form5()
         {
             InitializeComponent();
-            //GUI_1.Pariwisata pariwisata1 = new GUI_1.Pariwisata("PT. Traveloka", "Jl. Jendral Soedirman no.09, Jakarta Pusat", "Indonesia");
-            //GUI_1.Kesehatan kesehatan1 = new GUI_1.Kesehatan("Yuljee", "6 Dongpyeong-ro 116beon-gil, Busan", "Korea Selatan");
-            //list_perusahaan.Add(pariwisata1);
-            //list_perusahaan.Add(kesehatan1);
-            //dataGridView1.DataSource = list_perusahaan;
+            GUI_1.Pariwisata pariwisata1 = new GUI_1.Pariwisata("PT. Traveloka", "Jl. Jendral Soedirman no.09, Jakarta Pusat", "Indonesia");
+            GUI_1.Kesehatan kesehatan1 = new GUI_1.Kesehatan("Yuljee", "6 Dongpyeong-ro 116beon-gil, Busan", "Korea Selatan");
+            list_perusahaan.Add(pariwisata1);
+            list_perusahaan.Add(kesehatan1);
+            dataGridView1.DataSource = list_perusahaan;
         }
 
         private void button1_Click(object sender, EventArgs e)
