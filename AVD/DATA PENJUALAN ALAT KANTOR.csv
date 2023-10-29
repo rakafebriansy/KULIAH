@@ -1,0 +1,1001 @@
+﻿ID Konsumen,Segmen,Region,Product ID,Kategori,Sub-Kategori,Penjualan,Kuantitas,Profit,Retur 1,Retur 2
+CG-12520,Konsumen,Selatan,FUR-BO-10001798,Furnitur,Rak Buku,434467,2,213661, Sukses , Sukses 
+CG-12520,Konsumen,Selatan,FUR-CH-10000454,Furnitur,Kursi,226840,3,362632, Sukses , Sukses 
+SL-13045,Perusahaan,Barat,PER-LA-10000240,Peralatan Kantor,Labels,426484,2,171824, Sukses , Sukses 
+TW-20335,Konsumen,Selatan,FUR-ME-10000578,Furnitur,Meja,51417,5,244623, Sukses , Sukses 
+YP-20335,Konsumen,Selatan,PER-ST-10000760,Peralatan Kantor,Storage,73396,2,317034, Sukses , Sukses 
+ZM-11710,Konsumen,Barat,FUR-FU-10001480,Furnitur,Furnishings,390733,7,111437, Sukses , Sukses 
+NF-11710,Konsumen,Barat,PER-KE-10002833,Peralatan Kantor,Kerajinan,304031,4,177599, Sukses , Sukses 
+AB-11710,Konsumen,Barat,TEK-RE-10002279,Teknologi,Remote,142476,6,274131, Sukses , Sukses 
+HZ-12524,Konsumen,Barat,PER-BI-10003911,Peralatan Kantor,Binders,412502,3,197007, Sukses , Sukses 
+BD-11710,Konsumen,Barat,PER-PE-10002895,Peralatan Kantor,Perlengkapan ,256912,5,-193373, Sukses , Sukses 
+XJ-11710,Konsumen,Barat,FUR-ME-10001540,Furnitur,Meja,319423,9,-209379, Retur , Retur 
+XP-11710,Konsumen,Barat,TEK-RE-10002033,Teknologi,Remote,150175,4,-187111, Retur , Retur 
+AL-11710,Konsumen,Selatan,PER-PA-10002365,Peralatan Kantor,Paper,276025,3,-31695, Sukses , Sukses 
+BD-10480,Konsumen,Barat,PER-BI-10003656,Peralatan Kantor,Binders,144712,3,233795, Retur , Retur 
+BP-15070,UMKM,Pusat,PER-PE-10002311,Peralatan Kantor,Perlengkapan ,390487,5,56256, Retur , Retur 
+HJ-14815,UMKM,Pusat,PER-BI-10000756,Peralatan Kantor,Binders,86003,3,20759, Sukses , Sukses 
+HS-14815,Konsumen,Pusat,PER-ST-10004186,Peralatan Kantor,Storage,73263,6,91597, Sukses , Sukses 
+HJ-19075,Konsumen,Barat,PER-ST-10000107,Peralatan Kantor,Storage,319038,2,5998, Sukses , Sukses 
+HG-10270,Konsumen,Barat,PER-KE-10003056,Peralatan Kantor,Kerajinan,260704,2,37108, Sukses , Sukses 
+HC-21925,Konsumen,Barat,TEK-RE-10001949,Teknologi,Remote,55013,3,-92325, Sukses , Sukses 
+BS-21925,Konsumen,Barat,PER-BI-10002215,Peralatan Kantor,Binders,366523,4,-47771, Retur , Retur 
+BH-21925,Perusahaan,Pusat,PER-KE-10000246,Peralatan Kantor,Kerajinan,189584,7,36207, Sukses , Sukses 
+AH-16585,Perusahaan,Pusat,PER-PE-10001492,Peralatan Kantor,Perlengkapan ,230421,7,-105331, Sukses , Sukses 
+AR-16585,Konsumen,Timur,FUR-KU-10002774,Furnitur,Kursi,243210,2,-95810, Sukses , Sukses 
+AR-20065,Konsumen,Barat,FUR-ME-10000577,Furnitur,Meja,49100,3,-37575, Sukses , Sukses 
+AR-13870,Konsumen,Barat,PER-BI-10001634,Peralatan Kantor,Binders,257471,2,198101, Sukses , Sukses 
+AS-13945,Konsumen,Barat,TEK-AC-10003027,Teknologi,Accessories,13018,3,378397, Sukses , Sukses 
+BI-13945,Konsumen,Timur,FUR-RA-10004834,Furnitur,Rak Buku,239927,7,-152595, Sukses , Sukses 
+BN-21520,Konsumen,Timur,PER-BI-10000474,Peralatan Kantor,Binders,281125,2,271616, Sukses , Sukses 
+BR-21520,Konsumen,Timur,FUR-FU-10004848,Furnitur,Furnishings,246908,3,-246727, Sukses , Sukses 
+BS-21520,Konsumen,Timur,PER-EN-10001509,Peralatan Kantor,Envelopes,192533,2,71583, Sukses , Sukses 
+AA-17560,Perusahaan,Pusat,TEK-RE-10004977,Teknologi,Remote,278134,7,131305, Sukses , Sukses 
+AD-14485,Perusahaan,Pusat,FUR-FU-10003664,Furnitur,Furnishings,198083,5,121754, Sukses , Sukses 
+AH-14485,UMKM,Pusat,PER-EN-10002986,Peralatan Kantor,Envelopes,313155,9,-85448, Sukses , Sukses 
+AM-20710,UMKM,Pusat,FUR-RA-10002545,Furnitur,Rak Buku,97195,3,-71227, Sukses , Sukses 
+AF-20710,UMKM,Pusat,FUR-KU-10004218,Furnitur,Kursi,31773,3,363812, Sukses , Sukses 
+AK-20710,Perusahaan,Pusat,TEK-RE-10004093,Teknologi,Remote,101836,4,226359, Sukses , Sukses 
+AL-16930,Perusahaan,Barat,PER-ST-10003479,Peralatan Kantor,Storage,406941,2,79441, Sukses , Sukses 
+AN-19885,Perusahaan,Selatan,PER-ST-10003282,Peralatan Kantor,Storage,319421,2,413777, Sukses , Sukses 
+AS-14080,Perusahaan,Pusat,TEK-AC-10000171,Teknologi,Accessories,295198,2,332487, Sukses , Sukses 
+AS-18715,Perusahaan,Pusat,PER-BI-10003291,Peralatan Kantor,Binders,184122,2,445174, Sukses , Sukses 
+AR-18865,Konsumen,Timur,TEK-AC-10002167,Teknologi,Accessories,445300,3,-93033, Sukses , Sukses 
+AT-16900,Konsumen,Timur,TEK-RE-10003988,Teknologi,Remote,380055,2,187974, Sukses , Sukses 
+AP-16900,Konsumen,Pusat,PER-BI-10004410,Peralatan Kantor,Binders,243768,6,105266, Sukses , Sukses 
+AU-13000,Konsumen,Pusat,PER-LA-10002762,Peralatan Kantor,Labels,369378,6,433483, Sukses , Sukses 
+AB-13000,Konsumen,Pusat,FUR-KU-10003061,Furnitur,Kursi,287519,1,319556, Sukses , Sukses 
+AS-13000,Perusahaan,Timur,PER-FA-10000304,Peralatan Kantor,Fasteners,377193,7,12388, Sukses , Sukses 
+AS-15265,Perusahaan,Timur,TEK-RE-10002447,Teknologi,Remote,36280,5,-31554, Sukses , Sukses 
+AB-15265,Konsumen,Timur,PER-ST-10000604,Peralatan Kantor,Storage,344782,6,381230, Sukses , Sukses 
+AK-21055,Konsumen,Timur,PER-PA-10001569,Peralatan Kantor,Paper,210762,5,-242746, Sukses , Sukses 
+AM-21055,Konsumen,Timur,FUR-KU-10003968,Furnitur,Kursi,260915,5,246759, Sukses , Sukses 
+AA-21055,Konsumen,Timur,TEK-AC-10002167,Teknologi,Accessories,140531,2,-150152, Sukses , Sukses 
+AH-21055,Konsumen,Barat,TEK-AC-10004633,Teknologi,Accessories,217120,2,345278, Sukses , Sukses 
+AH-16720,Konsumen,Barat,PER-BI-10001078,Peralatan Kantor,Binders,143640,6,447940, Sukses , Sukses 
+AN-16720,Konsumen,Barat,PER-PA-10003892,Peralatan Kantor,Paper,119451,3,-2059, Sukses , Sukses 
+AP-18970,Perusahaan,Barat,PER-KE-10002671,Peralatan Kantor,Kerajinan,10204,8,268858, Sukses , Sukses 
+AS-11590,Perusahaan,Barat,TEK-RE-10002726,Teknologi,Remote,357503,4,23490, Sukses , Sukses 
+AT-11590,Konsumen,Selatan,PER-PA-10000482,Peralatan Kantor,Paper,12595,2,256404, Sukses , Sukses 
+AD-16270,Konsumen,Timur,PER-BI-10004654,Peralatan Kantor,Binders,213911,1,278441, Sukses , Sukses 
+AH-14980,Konsumen,Pusat,PER-PA-10004675,Peralatan Kantor,Paper,292475,3,-142287, Sukses , Sukses 
+AL-21520,Konsumen,Selatan,FUR-KU-10000513,Furnitur,Kursi,51081,8,385516, Sukses , Sukses 
+AL-15745,Konsumen,Selatan,FUR-FU-10003708,Furnitur,Furnishings,353764,2,34246, Sukses , Sukses 
+AM-15745,Konsumen,Selatan,PER-ST-10004123,Peralatan Kantor,Storage,132411,1,63623, Sukses , Sukses 
+AN-15745,Perusahaan,Pusat,PER-BI-10004182,Peralatan Kantor,Binders,206547,3,-237576, Sukses , Sukses 
+AP-16600,Perusahaan,Pusat,FUR-FU-10000260,Furnitur,Furnishings,165116,3,-18102, Sukses , Sukses 
+AS-16600,Konsumen,Pusat,FUR-FU-10003194,Furnitur,Furnishings,197279,5,-116355, Sukses , Sukses 
+AS-15745,Perusahaan,Selatan,PER-PE-10002118,Peralatan Kantor,Perlengkapan ,204032,1,-70394, Sukses , Sukses 
+AS-20770,Perusahaan,Selatan,PER-BI-10002309,Peralatan Kantor,Binders,280675,3,158752, Sukses , Sukses 
+AT-20770,Konsumen,Barat,PER-KE-10002053,Peralatan Kantor,Kerajinan,242857,5,-49861, Sukses , Sukses 
+AW-13690,Konsumen,Barat,PER-ST-10002370,Peralatan Kantor,Storage,340653,1,326231, Sukses , Sukses 
+AP-13690,Perusahaan,Selatan,PER-EN-10000927,Peralatan Kantor,Envelopes,231505,7,-224038, Sukses , Sukses 
+AW-16105,UMKM,Pusat,PER-ST-10003656,Peralatan Kantor,Storage,98734,3,-182166, Sukses , Sukses 
+AM-12400,Konsumen,Selatan,FUR-KU-10000863,Furnitur,Kursi,115096,2,21892, Sukses , Sukses 
+AW-18865,Konsumen,Pusat,TEK-AC-10001998,Teknologi,Accessories,121917,1,378953, Sukses , Sukses 
+AD-18895,Konsumen,Pusat,PER-LA-10000134,Peralatan Kantor,Labels,42128,2,195535, Sukses , Sukses 
+AM-18895,UMKM,Pusat,PER-ST-10003442,Peralatan Kantor,Storage,199552,7,74881, Sukses , Sukses 
+AR-14455,Perusahaan,Barat,PER-KE-10004930,Peralatan Kantor,Kerajinan,15705,3,410500, Sukses , Sukses 
+AA-15685,Perusahaan,Barat,TEK-RE-10004093,Teknologi,Remote,363958,2,-95406, Sukses , Sukses 
+AM-15685,Perusahaan,Barat,PER-PA-10000304,Peralatan Kantor,Paper,350128,1,321095, Sukses , Sukses 
+AG-15685,Konsumen,Pusat,PER-PA-10003177,Peralatan Kantor,Paper,287982,2,26041, Sukses , Sukses 
+AI-16315,Konsumen,Pusat,FUR-FU-10003799,Furnitur,Furnishings,226993,3,-5968, Sukses , Sukses 
+AO-16315,UMKM,Barat,PER-BI-10004738,Peralatan Kantor,Binders,286678,1,-126458, Sukses , Sukses 
+AS-19705,UMKM,Timur,FUR-FU-10000629,Furnitur,Furnishings,199482,7,-161505, Sukses , Sukses 
+AB-18775,Konsumen,Barat,PER-BI-10001721,Peralatan Kantor,Binders,97256,3,7302, Sukses , Sukses 
+AW-16345,Perusahaan,Pusat,PER-PE-10000358,Peralatan Kantor,Perlengkapan ,332425,6,-93853, Sukses , Sukses 
+AY-13855,UMKM,Pusat,PER-PA-10003256,Peralatan Kantor,Paper,218694,7,-187322, Sukses , Sukses 
+AC-19465,UMKM,Pusat,TEK-AC-10001767,Teknologi,Accessories,257370,3,223544, Sukses , Sukses 
+AR-19465,UMKM,Pusat,PER-BI-10002609,Peralatan Kantor,Binders,63873,3,222653, Sukses , Sukses 
+AP-19465,Konsumen,Pusat,PER-PA-10004040,Peralatan Kantor,Paper,337925,4,66223, Sukses , Sukses 
+AC-14470,Konsumen,Barat,TEK-AC-10001552,Teknologi,Accessories,190495,6,-196193, Sukses , Sukses 
+AK-16870,Konsumen,Barat,FUR-FU-10004006,Furnitur,Furnishings,270945,3,412470, Sukses , Sukses 
+AS-16870,Konsumen,Barat,PER-BI-10002794,Peralatan Kantor,Binders,152384,3,124087, Sukses , Sukses 
+AP-15250,Konsumen,Selatan,TEK-RE-10002844,Teknologi,Remote,107580,1,94691, Sukses , Sukses 
+AI-15250,Konsumen,Selatan,PER-KE-10000390,Peralatan Kantor,Kerajinan,425036,1,233679, Sukses , Sukses 
+AH-15250,UMKM,Pusat,TEK-AC-10000844,Teknologi,Accessories,236919,5,384390, Sukses , Sukses 
+AJ-19060,Perusahaan,Timur,FUR-FU-10001934,Furnitur,Furnishings,313950,2,-44382, Sukses , Sukses 
+AT-12805,Konsumen,Pusat,PER-KE-10000380,Peralatan Kantor,Kerajinan,442054,2,73883, Sukses , Sukses 
+AM-12565,Konsumen,Pusat,PER-BI-10003981,Peralatan Kantor,Binders,218672,6,329999, Sukses , Sukses 
+AM-19960,Konsumen,Timur,PER-EN-10002600,Peralatan Kantor,Envelopes,163800,2,-168614, Sukses , Sukses 
+AN-19960,Konsumen,Timur,PER-PA-10004965,Peralatan Kantor,Paper,140200,3,-225520, Sukses , Sukses 
+AA-19960,Konsumen,Timur,PER-EN-10002504,Peralatan Kantor,Envelopes,18590,6,-21346, Sukses , Sukses 
+AC-19960,Konsumen,Barat,FUR-ME-10001768,Furnitur,Meja,305016,3,271934, Sukses , Sukses 
+AH-13090,Perusahaan,Selatan,PER-BI-10003650,Peralatan Kantor,Binders,227539,1,333874, Sukses , Sukses 
+AW-14650,Konsumen,Timur,FUR-FU-10002157,Furnitur,Furnishings,151020,3,296601, Sukses , Sukses 
+AH-20725,Konsumen,Timur,PER-BI-10003910,Peralatan Kantor,Binders,242049,4,-244839, Sukses , Sukses 
+AD-20725,Konsumen,Timur,PER-EN-10002500,Peralatan Kantor,Envelopes,174340,9,-249284, Sukses , Sukses 
+AT-20725,Konsumen,Timur,TEK-RE-10003875,Teknologi,Remote,169883,7,166340, Sukses , Sukses 
+AS-20725,UMKM,Pusat,FUR-KU-10004063,Furnitur,Kursi,155980,3,-79702, Sukses , Sukses 
+AG-10180,Konsumen,Pusat,FUR-ME-10004534,Furnitur,Meja,57157,6,241838, Sukses , Sukses 
+AA-19165,Konsumen,Barat,PER-BI-10003274,Peralatan Kantor,Binders,224239,2,-215334, Sukses , Sukses 
+AA-21610,UMKM,Barat,FUR-KU-10001146,Furnitur,Kursi,346523,2,325440, Sukses , Sukses 
+AA-16975,UMKM,Barat,FUR-FU-10003773,Furnitur,Furnishings,369309,3,-80876, Sukses , Sukses 
+AD-16975,Perusahaan,Timur,PER-PA-10002377,Peralatan Kantor,Paper,271482,2,-192847, Sukses , Sukses 
+AA-13585,Perusahaan,Timur,PER-FA-10002780,Peralatan Kantor,Fasteners,144503,9,-208123, Sukses , Sukses 
+AK-13585,Konsumen,Barat,PER-PA-10001804,Peralatan Kantor,Paper,399420,3,-163433, Sukses , Sukses 
+AM-16885,Konsumen,Barat,PER-PA-10001736,Peralatan Kantor,Paper,443741,1,383105, Sukses , Sukses 
+AE-16885,Konsumen,Barat,PER-KE-10001149,Peralatan Kantor,Kerajinan,339291,4,-228203, Sukses , Sukses 
+AH-16885,Konsumen,Barat,PER-FA-10002988,Peralatan Kantor,Fasteners,304598,2,127861, Sukses , Sukses 
+AS-16885,Konsumen,Barat,PER-BI-10004781,Peralatan Kantor,Binders,337578,3,110681, Sukses , Sukses 
+AD-15895,Perusahaan,Barat,PER-KE-10000940,Peralatan Kantor,Kerajinan,163656,3,92887, Sukses , Sukses 
+AA-19975,Perusahaan,Barat,PER-EN-10004030,Peralatan Kantor,Envelopes,18831,3,254463, Sukses , Sukses 
+AS-19975,Konsumen,Pusat,PER-PE-10001058,Peralatan Kantor,Perlengkapan ,340153,3,-93175, Sukses , Sukses 
+AA-20080,,,PER-ST-10003656,Peralatan Kantor,Storage,217777,7,238953, Sukses , Sukses 
+AB-14920,,,FUR-FU-10000521,Furnitur,Furnishings,414227,4,25832, Sukses , Sukses 
+AA-17680,,,TEK-RE-10000215,Teknologi,Remote,379820,11,-135020, Sukses , Sukses 
+AA-16165,,,TEK-RE-10001448,Teknologi,Remote,72810,3,319648, Sukses , Sukses 
+AG-16165,,,PER-BI-10002735,Peralatan Kantor,Binders,345052,5,-28295, Sukses , Sukses 
+AP-16165,,,PER-PE-10000326,Peralatan Kantor,Perlengkapan ,63861,5,404188, Sukses , Sukses 
+AZ-21025,,,TEK-RE-10001254,Teknologi,Remote,138484,2,-32215, Sukses , Sukses 
+AA-21025,,,PER-PA-10001950,Peralatan Kantor,Paper,199813,7,351441, Sukses , Sukses 
+AA-20650,,,PER-PA-10002254,Peralatan Kantor,Paper,431298,4,163795, Sukses , Sukses 
+AJ-20650,,,PER-ST-10001590,Peralatan Kantor,Storage,264240,6,-21287, Sukses , Sukses 
+AS-20650,,,PER-KE-10001547,Peralatan Kantor,Kerajinan,205589,3,-106184, Sukses , Sukses 
+AS-18490,,,FUR-KU-10004063,Furnitur,Kursi,349804,2,-2705, Sukses , Sukses 
+AA-13060,,,PER-LA-10002475,Peralatan Kantor,Labels,345796,2,-6445, Sukses , Sukses 
+AK-18670,,,TEK-RE-10004536,Teknologi,Remote,10528,7,-227871, Sukses , Sukses 
+AT-21070,,,TEK-AC-10003657,Teknologi,Accessories,123958,2,26997, Sukses , Sukses 
+AI-13960,,,PER-EN-10001990,Peralatan Kantor,Envelopes,192534,5,-95219, Sukses , Sukses 
+AK-19900,,,PER-BI-10004002,Peralatan Kantor,Binders,207660,2,47085, Sukses , Sukses 
+AM-17740,,,PER-KE-10004441,Peralatan Kantor,Kerajinan,254867,3,294513, Sukses , Sukses 
+AM-11140,,,TEK-MA-10000822,Teknologi,Machines,304986,8,-5125, Sukses , Sukses 
+AT-11140,,,PER-ST-10000991,Peralatan Kantor,Storage,73711,3,-49268, Sukses , Sukses 
+AS-11140,,,PER-KE-10002656,Peralatan Kantor,Kerajinan,11581,6,5355, Sukses , Sukses 
+AI-11140,,,PER-PE-10002518,Peralatan Kantor,Perlengkapan ,179090,5,-136368, Sukses , Sukses 
+AP-11140,,,TEK-RE-10003931,Teknologi,Remote,228570,3,-139114, Sukses , Sukses 
+AN-12130,,,PER-PA-10001144,Peralatan Kantor,Paper,70103,2,413626, Sukses , Sukses 
+AS-12130,,,FUR-KU-10003817,Furnitur,Kursi,15417,7,-57328, Sukses , Sukses 
+AW-12130,,,PER-PE-10000891,Peralatan Kantor,Perlengkapan ,122536,2,-41723, Sukses , Sukses 
+AL-15400,,,PER-LA-10003148,Peralatan Kantor,Labels,432440,4,-243176, Sukses , Sukses 
+AR-15400,,,PER-PE-10002684,Peralatan Kantor,Perlengkapan ,40371,4,-34650, Sukses , Sukses 
+AR-20500,,,FUR-KU-10004698,Furnitur,Kursi,329663,7,408043, Sukses , Sukses 
+AC-15640,,,PER-ST-10003455,Peralatan Kantor,Storage,433606,2,344979, Sukses , Sukses 
+AM-13150,,,TEK-AC-10004659,Teknologi,Accessories,250092,7,247523, Sukses , Sukses 
+AN-13150,,,TEK-RE-10003273,Teknologi,Remote,378122,4,-213411, Sukses , Sukses 
+AS-19675,,,TEK-RE-10004896,Teknologi,Remote,264776,5,65497, Sukses , Sukses 
+AK-19675,,,TEK-AC-10002345,Teknologi,Accessories,68680,2,-37026, Sukses , Sukses 
+AN-19675,,,PER-BI-10001890,Peralatan Kantor,Binders,179112,2,165019, Sukses , Sukses 
+AK-19990,,,TEK-AC-10002323,Teknologi,Accessories,379316,8,-88213, Sukses , Sukses 
+AR-14290,,,PER-ST-10001328,Peralatan Kantor,Storage,239657,3,80914, Sukses , Sukses 
+AS-10360,,,PER-PA-10001950,Peralatan Kantor,Paper,44309,3,311282, Sukses , Sukses 
+AH-17470,,,TEK-RE-10001552,Teknologi,Remote,385965,6,-192301, Sukses , Sukses 
+AB-17470,,,PER-PA-10000061,Peralatan Kantor,Paper,441429,8,6422, Sukses , Sukses 
+AD-17470,,,FUR-RA-10002545,Furnitur,Rak Buku,325503,3,217184, Sukses , Sukses 
+AK-17470,,,PER-KE-10003514,Peralatan Kantor,Kerajinan,447676,5,194470, Sukses , Sukses 
+AS-17470,,,PER-EN-10001509,Peralatan Kantor,Envelopes,18572,7,-15973, Sukses , Sukses 
+AS-17515,,,PER-KE-10004685,Peralatan Kantor,Kerajinan,426860,2,-137036, Sukses , Sukses 
+AW-12025,,,PER-KE-10004027,Peralatan Kantor,Kerajinan,105349,3,442180, Sukses , Sukses 
+AH-12025,,,PER-ST-10001414,Peralatan Kantor,Storage,324861,3,98404, Sukses , Sukses 
+AK-21685,,,PER-BI-10000343,Peralatan Kantor,Binders,244255,2,255982, Sukses , Sukses 
+AS-14365,Perusahaan,Timur,PER-PA-10002749,Peralatan Kantor,Paper,175136,3,83238, Sukses , Sukses 
+AS-17305,Konsumen,Barat,FUR-ME-10004289,Furnitur,Meja,434843,2,333450, Sukses , Sukses 
+AT-11755,Konsumen,Barat,PER-PE-10003622,Peralatan Kantor,Perlengkapan ,73660,1,76334, Sukses , Sukses 
+AW-11755,Konsumen,Pusat,PER-PE-10003217,Peralatan Kantor,Perlengkapan ,318996,2,286622, Sukses , Sukses 
+AM-17140,Perusahaan,Selatan,FUR-FU-10002960,Furnitur,Furnishings,211968,7,-95751, Sukses , Sukses 
+AG-14890,Konsumen,Barat,TEK-RE-10001918,Teknologi,Remote,255900,4,44675, Sukses , Sukses 
+AR-16810,Konsumen,Pusat,PER-ST-10000642,Peralatan Kantor,Storage,87701,4,87977, Sukses , Sukses 
+AL-15985,Konsumen,Pusat,TEK-RE-10001700,Teknologi,Remote,226579,2,215339, Sukses , Sukses 
+AS-15985,Konsumen,Pusat,PER-BI-10003274,Peralatan Kantor,Binders,360797,4,-147529, Sukses , Sukses 
+AO-15985,Konsumen,Pusat,PER-FA-10000134,Peralatan Kantor,Fasteners,310321,9,386318, Sukses , Sukses 
+AD-15985,Perusahaan,Pusat,TEK-AC-10001266,Teknologi,Accessories,84465,2,122692, Sukses , Sukses 
+AD-17980,Perusahaan,Timur,PER-LA-10004544,Peralatan Kantor,Labels,320647,2,433448, Sukses , Sukses 
+AK-21775,Perusahaan,Timur,FUR-RA-10004695,Furnitur,Rak Buku,301914,5,270004, Sukses , Sukses 
+AW-21775,Perusahaan,Timur,TEK-RE-10002844,Teknologi,Remote,351710,3,207535, Sukses , Sukses 
+AH-21775,Perusahaan,Timur,TEK-MA-10000864,Teknologi,Machines,351787,9,413342, Sukses , Sukses 
+AI-21775,Perusahaan,Timur,TEK-AC-10000109,Teknologi,Accessories,152997,2,393600, Sukses , Sukses 
+AR-21775,Konsumen,Barat,PER-ST-10001328,Peralatan Kantor,Storage,310807,6,109878, Sukses , Sukses 
+AS-15910,Konsumen,Barat,TEK-RE-10002563,Teknologi,Remote,416565,3,-172968, Sukses , Sukses 
+AP-15910,Konsumen,Timur,PER-FA-10000585,Peralatan Kantor,Fasteners,270183,2,407377, Sukses , Sukses 
+AW-15925,Konsumen,Timur,PER-PA-10004000,Peralatan Kantor,Paper,441260,6,147710, Sukses , Sukses 
+AK-15925,Konsumen,Timur,PER-BI-10002852,Peralatan Kantor,Binders,266386,4,-158790, Sukses , Sukses 
+AP-15925,Konsumen,Timur,FUR-FU-10000087,Furnitur,Furnishings,252720,4,336250, Sukses , Sukses 
+AS-15925,Konsumen,Timur,TEK-MA-10001148,Teknologi,Machines,355443,4,72418, Sukses , Sukses 
+AA-15925,Perusahaan,Pusat,PER-KE-10001026,Peralatan Kantor,Kerajinan,218662,1,241943, Sukses , Sukses 
+AR-13180,Perusahaan,Pusat,FUR-ME-10003748,Furnitur,Meja,83512,5,208262, Sukses , Sukses 
+AY-13180,Perusahaan,Pusat,PER-ST-10002485,Peralatan Kantor,Storage,144084,1,294677, Sukses , Sukses 
+AS-13180,Konsumen,Selatan,FUR-KU-10004860,Furnitur,Kursi,105594,2,269030, Sukses , Sukses 
+AA-21670,Konsumen,Selatan,FUR-KU-10004477,Furnitur,Kursi,225963,8,-163335, Sukses , Sukses 
+AY-21670,UMKM,Selatan,FUR-ME-10001705,Furnitur,Meja,220671,2,381276, Sukses , Sukses 
+AT-12400,UMKM,Selatan,FUR-ME-10003473,Furnitur,Meja,210697,3,334360, Sukses , Sukses 
+AP-12400,UMKM,Selatan,PER-BI-10001679,Peralatan Kantor,Binders,125724,2,-168891, Sukses , Sukses 
+AS-12400,UMKM,Selatan,FUR-FU-10004017,Furnitur,Furnishings,230366,3,24225, Sukses , Sukses 
+AB-12400,UMKM,Selatan,TEK-AC-10003832,Teknologi,Accessories,48474,3,396665, Sukses , Sukses 
+AW-12400,Perusahaan,Barat,PER-PA-10002479,Peralatan Kantor,Paper,149997,2,138456, Sukses , Sukses 
+AA-13120,Konsumen,Pusat,PER-PA-10003349,Peralatan Kantor,Paper,301843,5,365811, Sukses , Sukses 
+AA-16645,Konsumen,Pusat,FUR-FU-10000576,Furnitur,Furnishings,267694,5,105042, Sukses , Sukses 
+AS-16645,Konsumen,Pusat,FUR-FU-10004351,Furnitur,Furnishings,127001,3,291777, Sukses , Sukses 
+AM-16645,Konsumen,Pusat,TEK-RE-10000011,Teknologi,Remote,323281,2,166262, Sukses , Sukses 
+AW-16645,UMKM,Pusat,FUR-KU-10004063,Furnitur,Kursi,36804,7,-95929, Sukses , Sukses 
+AB-13480,UMKM,Pusat,PER-ST-10002276,Peralatan Kantor,Storage,378549,2,354965, Sukses , Sukses 
+AC-13480,UMKM,Pusat,PER-PA-10004082,Peralatan Kantor,Paper,234533,6,418987, Sukses , Sukses 
+AI-13480,UMKM,Pusat,PER-PA-10000061,Peralatan Kantor,Paper,298554,4,-1160, Sukses , Sukses 
+AV-13480,Konsumen,Barat,PER-PA-10004569,Peralatan Kantor,Paper,116298,1,-142978, Sukses , Sukses 
+AS-16540,Konsumen,Barat,TEK-AC-10003832,Teknologi,Accessories,184312,13,30478, Sukses , Sukses 
+AA-13315,Konsumen,Timur,PER-EN-10003296,Peralatan Kantor,Envelopes,271164,4,167406, Sukses , Sukses 
+AB-13315,Perusahaan,Pusat,FUR-FU-10002505,Furnitur,Furnishings,109615,9,111772, Sukses , Sukses 
+AS-12880,Perusahaan,Pusat,PER-ST-10004804,Peralatan Kantor,Storage,446870,2,324379, Sukses , Sukses 
+AL-12880,Perusahaan,Pusat,TEK-RE-10001580,Teknologi,Remote,187805,6,76920, Sukses , Sukses 
+BT-12880,Konsumen,Timur,TEK-AC-10000290,Teknologi,Accessories,163162,3,-142030, Sukses , Sukses 
+BD-12670,Konsumen,Timur,PER-ST-10002790,Peralatan Kantor,Storage,100167,3,-65271, Sukses , Sukses 
+BP-12670,Konsumen,Timur,PER-BI-10003460,Peralatan Kantor,Binders,374351,5,413057, Sukses , Sukses 
+BB-12670,Perusahaan,Pusat,PER-PE-10002203,Peralatan Kantor,Perlengkapan ,408083,2,-11759, Sukses , Sukses 
+BC-13600,Perusahaan,Pusat,TEK-MA-10000822,Teknologi,Machines,448698,3,124168, Sukses , Sukses 
+BD-20290,Perusahaan,Pusat,TEK-MA-10003353,Teknologi,Machines,142979,7,63908, Sukses , Sukses 
+BR-20290,Konsumen,Pusat,TEK-RE-10001433,Teknologi,Remote,288535,4,247188, Sukses , Sukses 
+BB-19825,Konsumen,Barat,TEK-AC-10004469,Teknologi,Accessories,375054,2,-158684, Sukses , Sukses 
+BP-10210,Perusahaan,Selatan,PER-KE-10003602,Peralatan Kantor,Kerajinan,302594,3,219207, Sukses , Sukses 
+BP-12535,Konsumen,Timur,PER-FA-10003472,Peralatan Kantor,Fasteners,78131,6,-96070, Sukses , Sukses 
+BI-18895,Perusahaan,Timur,PER-ST-10004180,Peralatan Kantor,Storage,34318,1,224135, Sukses , Sukses 
+BP-12310,Perusahaan,Timur,PER-EN-10004386,Peralatan Kantor,Envelopes,86772,3,-74609, Sukses , Sukses 
+BV-12310,Perusahaan,Barat,PER-ST-10003208,Peralatan Kantor,Storage,73249,4,-29998, Sukses , Sukses 
+BI-16690,Konsumen,Barat,TEK-AC-10003628,Teknologi,Accessories,52064,7,199538, Sukses , Sukses 
+BE-14920,Konsumen,Barat,FUR-FU-10003274,Furnitur,Furnishings,134591,3,180140, Sukses , Sukses 
+BN-14920,Perusahaan,Barat,PER-PA-10002615,Peralatan Kantor,Paper,335847,2,182915, Sukses , Sukses 
+BB-10990,Perusahaan,Barat,PER-KE-10001427,Peralatan Kantor,Kerajinan,340094,1,-12973, Sukses , Sukses 
+BM-10990,Perusahaan,Timur,PER-PA-10000673,Peralatan Kantor,Paper,315172,2,-174734, Sukses , Sukses 
+BP-10495,Perusahaan,Timur,PER-PA-10004470,Peralatan Kantor,Paper,114167,4,326338, Sukses , Sukses 
+BC-10495,Perusahaan,Timur,PER-ST-10000876,Peralatan Kantor,Storage,382502,6,131828, Sukses , Sukses 
+BS-10495,Perusahaan,Timur,PER-LA-10002043,Peralatan Kantor,Labels,367364,3,-42833, Sukses , Sukses 
+BW-20725,Konsumen,Pusat,TEK-RE-10001760,Teknologi,Remote,288423,7,-61503, Sukses , Sukses 
+BI-20725,Konsumen,Barat,FUR-ME-10002903,Furnitur,Meja,56905,5,179343, Sukses , Sukses 
+BS-15280,Konsumen,Barat,PER-PA-10000474,Peralatan Kantor,Paper,421178,5,317945, Sukses , Sukses 
+BT-21520,Konsumen,Barat,TEK-AC-10001956,Teknologi,Accessories,220239,5,406408, Sukses , Sukses 
+BH-21520,Perusahaan,Selatan,PER-BI-10000778,Peralatan Kantor,Binders,108332,7,-67208, Sukses , Sukses 
+BR-10195,Perusahaan,Selatan,PER-PE-10002684,Peralatan Kantor,Perlengkapan ,224965,2,346627, Sukses , Sukses 
+BP-10195,Perusahaan,Selatan,PER-SU-10000646,Peralatan Kantor,Supplies,274352,5,391936, Sukses , Sukses 
+BA-10195,UMKM,Timur,PER-FA-10002983,Peralatan Kantor,Fasteners,325934,7,253009, Sukses , Sukses 
+BS-18565,UMKM,Timur,PER-LA-10004689,Peralatan Kantor,Labels,360965,8,-142653, Sukses , Sukses 
+BP-18565,UMKM,Timur,TEK-AC-10002001,Teknologi,Accessories,387322,2,380931, Sukses , Sukses 
+BG-18565,Perusahaan,Barat,FUR-FU-10004091,Furnitur,Furnishings,416264,8,286810, Sukses , Sukses 
+BW-16555,Perusahaan,Barat,FUR-KU-10001891,Furnitur,Kursi,394361,3,201240, Sukses , Sukses 
+BK-16555,Perusahaan,Barat,FUR-FU-10002918,Furnitur,Furnishings,430352,3,211150, Sukses , Sukses 
+BR-16555,Perusahaan,Barat,PER-BI-10004593,Peralatan Kantor,Binders,392420,5,359735, Sukses , Sukses 
+BY-16555,Perusahaan,Barat,PER-FA-10004854,Peralatan Kantor,Fasteners,265698,3,-167349, Sukses , Sukses 
+BA-15895,Perusahaan,Timur,PER-ST-10002756,Peralatan Kantor,Storage,58464,8,26933, Sukses , Sukses 
+BI-15895,Perusahaan,Timur,PER-PA-10004243,Peralatan Kantor,Paper,70289,3,433674, Sukses , Sukses 
+BS-15895,Perusahaan,Timur,FUR-FU-10001861,Furnitur,Furnishings,178284,4,285650, Sukses , Sukses 
+BG-15895,Konsumen,Pusat,FUR-ME-10002533,Furnitur,Meja,52355,3,-235101, Sukses , Sukses 
+BM-15910,Perusahaan,Timur,FUR-FU-10002671,Furnitur,Furnishings,341953,2,298860, Sukses , Sukses 
+B&-10225,Perusahaan,Pusat,PER-KE-10003651,Peralatan Kantor,Kerajinan,189302,3,234055, Sukses , Sukses 
+BK-16600,UMKM,Timur,PER-BI-10001072,Peralatan Kantor,Binders,27848,3,448816, Sukses , Sukses 
+BT-12625,UMKM,Timur,PER-KE-10002135,Peralatan Kantor,Kerajinan,70496,6,-169509, Sukses , Sukses 
+BB-20395,Perusahaan,Barat,FUR-FU-10001918,Furnitur,Furnishings,302001,4,80319, Sukses , Sukses 
+B(-11185,Perusahaan,Barat,FUR-KU-10004086,Furnitur,Kursi,257949,2,116750, Sukses , Sukses 
+BG-11185,Perusahaan,Barat,FUR-FU-10001756,Furnitur,Furnishings,177160,1,122844, Sukses , Sukses 
+BH-11185,Perusahaan,Barat,PER-LA-10000634,Peralatan Kantor,Labels,140319,3,162709, Sukses , Sukses 
+BK-11185,Perusahaan,Timur,FUR-FU-10001588,Furnitur,Furnishings,410762,3,103674, Sukses , Sukses 
+BC-21205,Perusahaan,Selatan,TEK-RE-10002398,Teknologi,Remote,215852,2,224326, Sukses , Sukses 
+BW-10525,Perusahaan,Selatan,PER-PA-10001937,Peralatan Kantor,Paper,397976,3,-243278, Sukses , Sukses 
+BS-20860,UMKM,Timur,FUR-KU-10002602,Furnitur,Kursi,410595,1,385197, Sukses , Sukses 
+BA-18445,UMKM,Timur,TEK-MA-10002927,Teknologi,Machines,296101,2,315389, Sukses , Sukses 
+BB-18445,UMKM,Timur,TEK-RE-10004093,Teknologi,Remote,342644,6,-199444, Sukses , Sukses 
+BC-18445,UMKM,Timur,TEK-AC-10000892,Teknologi,Accessories,128045,4,1443, Sukses , Sukses 
+BD-18445,UMKM,Timur,PER-ST-10002974,Peralatan Kantor,Storage,177739,1,-244043, Sukses , Sukses 
+BE-18445,Perusahaan,Barat,PER-FA-10000624,Peralatan Kantor,Fasteners,223586,2,116064, Sukses , Sukses 
+BF-14230,Perusahaan,Barat,PER-BI-10004593,Peralatan Kantor,Binders,29006,6,-4345, Sukses , Sukses 
+BM-14620,Perusahaan,Barat,TEK-AC-10001908,Teknologi,Accessories,366995,1,108526, Sukses , Sukses 
+BS-14620,Perusahaan,Selatan,FUR-FU-10001967,Furnitur,Furnishings,409251,1,280204, Sukses , Sukses 
+BS-13510,Konsumen,Timur,TEK-RE-10003645,Teknologi,Remote,97933,3,-69058, Sukses , Sukses 
+BS-18850,Konsumen,Timur,PER-ST-10000675,Peralatan Kantor,Storage,398055,2,201052, Sukses , Sukses 
+BW-18850,Konsumen,Timur,PER-LA-10001074,Peralatan Kantor,Labels,112245,10,-18266, Sukses , Sukses 
+BY-18850,Konsumen,Timur,PER-BI-10001524,Peralatan Kantor,Binders,15179,6,-233766, Sukses , Sukses 
+BK-18850,Konsumen,Timur,TEK-RE-10004614,Teknologi,Remote,252395,2,201961, Sukses , Sukses 
+BJ-15850,Konsumen,Timur,PER-BI-10001153,Peralatan Kantor,Binders,313788,2,393722, Sukses , Sukses 
+BH-15850,Konsumen,Timur,PER-BI-10001982,Peralatan Kantor,Binders,347370,3,-73321, Sukses , Sukses 
+BE-15850,Konsumen,Barat,TEK-CO-10001449,Teknologi,Copiers,21796,2,-133833, Sukses , Sukses 
+BD-13615,Konsumen,Barat,PER-BI-10004140,Peralatan Kantor,Binders,22847,4,-127139, Sukses , Sukses 
+BT-13615,Perusahaan,Barat,PER-BI-10003314,Peralatan Kantor,Binders,270054,2,36431, Sukses , Sukses 
+BH-10420,Perusahaan,Barat,FUR-ME-10004575,Furnitur,Meja,379600,3,-78985, Sukses , Sukses 
+BT-10420,Perusahaan,Timur,PER-BI-10003656,Peralatan Kantor,Binders,112673,10,-119341, Sukses , Sukses 
+CC-15895,Perusahaan,Timur,PER-FA-10002780,Peralatan Kantor,Fasteners,89302,13,-84330, Sukses , Sukses 
+CL-15895,Perusahaan,Timur,TEK-RE-10000702,Teknologi,Remote,386991,12,-32077, Sukses , Sukses 
+CR-15895,Konsumen,Pusat,PER-ST-10000107,Peralatan Kantor,Storage,282330,4,-238921, Sukses , Sukses 
+CW-12130,Konsumen,Barat,TEK-RE-10002293,Teknologi,Remote,214827,3,206424, Sukses , Sukses 
+CW-12550,Konsumen,Timur,PER-KE-10004027,Peralatan Kantor,Kerajinan,231219,3,312732, Sukses , Sukses 
+CR-20995,Konsumen,Timur,PER-PA-10000249,Peralatan Kantor,Paper,267527,2,-82238, Sukses , Sukses 
+CT-20995,UMKM,Timur,TEK-AC-10000290,Teknologi,Accessories,394770,1,-207664, Sukses , Sukses 
+CG-10060,UMKM,Timur,PER-PA-10001970,Peralatan Kantor,Paper,347930,2,-563, Sukses , Sukses 
+CH-10060,UMKM,Timur,PER-BI-10002160,Peralatan Kantor,Binders,109754,1,-68763, Sukses , Sukses 
+CY-10060,UMKM,Timur,PER-PA-10001970,Peralatan Kantor,Paper,431803,4,87342, Sukses , Sukses 
+CI-10060,UMKM,Timur,PER-BI-10004995,Peralatan Kantor,Binders,226289,4,-76804, Sukses , Sukses 
+CT-10060,Konsumen,Timur,FUR-RA-10002268,Furnitur,Rak Buku,100417,6,62265, Sukses , Sukses 
+CT-15505,Konsumen,Timur,PER-EN-10001137,Peralatan Kantor,Envelopes,441848,2,201057, Sukses , Sukses 
+CI-15505,Konsumen,Timur,PER-KE-10002399,Peralatan Kantor,Kerajinan,173715,4,30275, Sukses , Sukses 
+C&-15505,Perusahaan,Selatan,PER-PA-10002666,Peralatan Kantor,Paper,394301,5,288936, Sukses , Sukses 
+C&-14890,Perusahaan,Selatan,PER-PE-10001124,Peralatan Kantor,Perlengkapan ,209081,8,-227935, Sukses , Sukses 
+CH-21745,Perusahaan,Selatan,PER-LA-10001158,Peralatan Kantor,Labels,216318,2,105051, Sukses , Sukses 
+CV-16435,Konsumen,Timur,FUR-KU-10000785,Furnitur,Kursi,314981,3,-180512, Sukses , Sukses 
+CC-16435,Konsumen,Timur,PER-KE-10003732,Peralatan Kantor,Kerajinan,310101,2,-31852, Sukses , Sukses 
+CE-16435,Konsumen,Timur,FUR-FU-10000023,Furnitur,Furnishings,87787,8,220207, Sukses , Sukses 
+CW-16435,Konsumen,Barat,PER-ST-10001713,Peralatan Kantor,Storage,190505,4,296352, Sukses , Sukses 
+CM-16060,Perusahaan,Timur,PER-BI-10002412,Peralatan Kantor,Binders,427771,4,151998, Sukses , Sukses 
+CL-17905,Perusahaan,Timur,PER-SU-10001225,Peralatan Kantor,Supplies,185442,2,-174167, Sukses , Sukses 
+CK-17905,Perusahaan,Timur,PER-ST-10002406,Peralatan Kantor,Storage,398454,7,-32336, Sukses , Sukses 
+CS-17905,Konsumen,Pusat,PER-PA-10002036,Peralatan Kantor,Paper,130395,5,212427, Sukses , Sukses 
+CM-14755,Konsumen,Pusat,PER-ST-10002205,Peralatan Kantor,Storage,377996,3,-141182, Sukses , Sukses 
+CS-14755,Konsumen,Barat,PER-BI-10001982,Peralatan Kantor,Binders,228564,5,-102756, Sukses , Sukses 
+CC-10900,Konsumen,Barat,TEK-AC-10003911,Teknologi,Accessories,37149,8,405264, Sukses , Sukses 
+CK-10900,Konsumen,Barat,TEK-AC-10002076,Teknologi,Accessories,132857,10,354426, Sukses , Sukses 
+CN-10900,Perusahaan,Pusat,PER-PA-10003039,Peralatan Kantor,Paper,39301,4,-44898, Sukses , Sukses 
+CT-18280,Perusahaan,Timur,FUR-ME-10004915,Furnitur,Meja,369250,7,-239078, Sukses , Sukses 
+CF-10405,Konsumen,Pusat,PER-PE-10000696,Peralatan Kantor,Perlengkapan ,34383,3,-8243, Sukses , Sukses 
+CN-19915,Konsumen,Pusat,PER-ST-10003327,Peralatan Kantor,Storage,178015,3,-181887, Sukses , Sukses 
+CS-19915,Konsumen,Pusat,PER-BI-10000309,Peralatan Kantor,Binders,446709,4,-135266, Sukses , Sukses 
+CD-19915,Perusahaan,Barat,PER-PA-10004734,Peralatan Kantor,Paper,153174,7,146011, Sukses , Sukses 
+CL-10285,Perusahaan,Barat,PER-BI-10002225,Peralatan Kantor,Binders,25788,3,-7728, Sukses , Sukses 
+CN-10285,Perusahaan,Pusat,TEK-AC-10004708,Teknologi,Accessories,424437,2,280328, Sukses , Sukses 
+CP-16780,Konsumen,Selatan,FUR-ME-10000617,Furnitur,Meja,370668,3,373329, Sukses , Sukses 
+CS-13435,Konsumen,Selatan,TEK-AC-10002335,Teknologi,Accessories,283052,3,215911, Sukses , Sukses 
+CH-13225,Perusahaan,Timur,FUR-FU-10001935,Furnitur,Furnishings,108147,1,244857, Sukses , Sukses 
+CN-13225,Konsumen,Timur,PER-BI-10000050,Peralatan Kantor,Binders,431607,4,-78167, Sukses , Sukses 
+CR-18190,Konsumen,Timur,TEK-AC-10001998,Teknologi,Accessories,55074,2,252196, Sukses , Sukses 
+CH-18190,Konsumen,Barat,TEK-RE-10003012,Teknologi,Remote,349754,2,-216791, Sukses , Sukses 
+CS-15115,Konsumen,Barat,TEK-CO-10002313,Teknologi,Copiers,110418,3,229472, Sukses , Sukses 
+CB-15115,Perusahaan,Pusat,PER-BI-10003982,Peralatan Kantor,Binders,325727,3,-166640, Sukses , Sukses 
+CC-11095,UMKM,Barat,PER-BI-10004492,Peralatan Kantor,Binders,354157,3,-30966, Sukses , Sukses 
+CF-21730,Perusahaan,Timur,PER-ST-10000798,Peralatan Kantor,Storage,177834,2,-231064, Sukses , Sukses 
+CJ-20140,Perusahaan,Timur,PER-PA-10002552,Peralatan Kantor,Paper,137610,2,-155886, Sukses , Sukses 
+CT-20140,UMKM,Pusat,PER-SU-10002573,Peralatan Kantor,Supplies,56987,4,275591, Sukses , Sukses 
+CJ-14815,Konsumen,Pusat,PER-ST-10001580,Peralatan Kantor,Storage,420103,3,-183369, Sukses , Sukses 
+CH-10675,Konsumen,Pusat,FUR-RA-10004834,Furnitur,Rak Buku,149934,4,-17103, Sukses , Sukses 
+CS-10675,Konsumen,Pusat,PER-ST-10000934,Peralatan Kantor,Storage,275694,4,-71126, Sukses , Sukses 
+CT-10675,Konsumen,Pusat,TEK-AC-10000158,Teknologi,Accessories,381093,2,23878, Sukses , Sukses 
+CN-10675,Konsumen,Selatan,PER-PA-10001947,Peralatan Kantor,Paper,433238,2,281858, Sukses , Sukses 
+CP-17185,Perusahaan,Selatan,PER-KE-10003478,Peralatan Kantor,Kerajinan,360592,6,416300, Sukses , Sukses 
+CH-20650,Konsumen,Timur,PER-PE-10004249,Peralatan Kantor,Perlengkapan ,116163,3,204743, Sukses , Sukses 
+CL-19840,Konsumen,Barat,TEK-AC-10000158,Teknologi,Accessories,196310,5,41812, Sukses , Sukses 
+CL-16510,Konsumen,Barat,TEK-CO-10004115,Teknologi,Copiers,228107,3,306729, Sukses , Sukses 
+CH-16510,Konsumen,Barat,PER-PA-10003724,Peralatan Kantor,Paper,134657,5,46690, Sukses , Sukses 
+HS-16510,Konsumen,Barat,FUR-ME-10002041,Furnitur,Meja,53445,7,45337, Sukses , Sukses 
+HM-16510,Konsumen,Barat,PER-PA-10002893,Peralatan Kantor,Paper,446334,1,54910, Sukses , Sukses 
+HH-16510,Konsumen,Barat,PER-LA-10003766,Peralatan Kantor,Labels,144597,9,280973, Sukses , Sukses 
+HG-16510,Konsumen,Barat,PER-PA-10001970,Peralatan Kantor,Paper,83753,1,-92256, Sukses , Sukses 
+HL-16510,Konsumen,Barat,FUR-KU-10003956,Furnitur,Kursi,342878,2,414773, Sukses , Sukses 
+HS-16675,Perusahaan,Barat,FUR-KU-10001891,Furnitur,Kursi,230482,4,-152577, Sukses , Sukses 
+HK-16675,Konsumen,Barat,PER-KE-10004344,Peralatan Kantor,Kerajinan,58296,8,-167622, Sukses , Sukses 
+HW-12010,Konsumen,Barat,FUR-KU-10004886,Furnitur,Kursi,21522,5,34780, Sukses , Sukses 
+HH-19150,Perusahaan,Selatan,PER-PA-10003845,Peralatan Kantor,Paper,175827,1,209684, Sukses , Sukses 
+HD-21745,Perusahaan,Barat,PER-KE-10001573,Peralatan Kantor,Kerajinan,288725,4,10666, Sukses , Sukses 
+HS-20860,Perusahaan,Barat,PER-EN-10000483,Peralatan Kantor,Envelopes,400611,1,43074, Sukses , Sukses 
+HP-20860,Konsumen,Barat,TEK-AC-10004114,Teknologi,Accessories,392128,6,-239441, Sukses , Sukses 
+HS-15745,Perusahaan,Timur,FUR-FU-10004712,Furnitur,Furnishings,22030,4,448325, Sukses , Sukses 
+HH-17965,Perusahaan,Timur,PER-ST-10000918,Peralatan Kantor,Storage,310234,3,166762, Sukses , Sukses 
+HJ-17965,Konsumen,Selatan,FUR-KU-10000015,Furnitur,Kursi,141522,4,205005, Sukses , Sukses 
+HS-18385,Perusahaan,Pusat,FUR-FU-10003347,Furnitur,Furnishings,303467,2,242089, Sukses , Sukses 
+HH-15265,Perusahaan,Pusat,PER-BI-10001543,Peralatan Kantor,Binders,25056,8,138850, Sukses , Sukses 
+HG-15265,UMKM,Timur,TEK-MA-10000029,Teknologi,Machines,14869,1,-60390, Sukses , Sukses 
+HS-20485,Perusahaan,Pusat,PER-KE-10000369,Peralatan Kantor,Kerajinan,95970,6,-68613, Sukses , Sukses 
+HA-16630,UMKM,Selatan,PER-BI-10004584,Peralatan Kantor,Binders,33267,2,268477, Sukses , Sukses 
+HS-19795,UMKM,Selatan,TEK-AC-10004659,Teknologi,Accessories,83404,7,196939, Sukses , Sukses 
+HW-19795,UMKM,Selatan,PER-ST-10000617,Peralatan Kantor,Storage,448439,2,379326, Sukses , Sukses 
+HP-19795,Konsumen,Timur,PER-ST-10003306,Peralatan Kantor,Storage,212323,5,-24533, Sukses , Sukses 
+HS-13060,Konsumen,Selatan,PER-BI-10000773,Peralatan Kantor,Binders,65792,2,-30837, Sukses , Sukses 
+HS-18160,Konsumen,Selatan,TEK-AC-10002600,Teknologi,Accessories,123521,5,-164029, Sukses , Sukses 
+HJ-19180,UMKM,Pusat,PER-PA-10001970,Peralatan Kantor,Paper,104176,7,262470, Sukses , Sukses 
+HM-19180,Perusahaan,Pusat,PER-PA-10002230,Peralatan Kantor,Paper,448906,8,348813, Sukses , Sukses 
+HM-11545,Perusahaan,Timur,FUR-KU-10003396,Furnitur,Kursi,419689,3,346494, Sukses , Sukses 
+HS-12805,Konsumen,Pusat,FUR-FU-10000246,Furnitur,Furnishings,217281,1,33532, Sukses , Sukses 
+HR-19075,Konsumen,Pusat,PER-ST-10000060,Peralatan Kantor,Storage,412568,3,201381, Sukses , Sukses 
+HK-19075,Konsumen,Pusat,PER-ST-10003058,Peralatan Kantor,Storage,56148,3,393750, Sukses , Sukses 
+HW-19075,Konsumen,Pusat,PER-PA-10002222,Peralatan Kantor,Paper,224470,4,157009, Sukses , Sukses 
+HR-21595,Konsumen,Timur,PER-KE-10000588,Peralatan Kantor,Kerajinan,352001,3,-32358, Sukses , Sukses 
+HS-19360,Konsumen,Timur,PER-ST-10001469,Peralatan Kantor,Storage,97285,3,226574, Sukses , Sukses 
+HP-19360,Konsumen,Timur,PER-KE-10001953,Peralatan Kantor,Kerajinan,376219,6,400755, Sukses , Sukses 
+HK-19360,Konsumen,Timur,PER-KE-10004974,Peralatan Kantor,Kerajinan,353408,3,40676, Sukses , Sukses 
+HW-19360,Konsumen,Timur,TEK-RE-10002365,Teknologi,Remote,98558,4,376261, Sukses , Sukses 
+HK-13705,Perusahaan,Pusat,TEK-AC-10001772,Teknologi,Accessories,54455,4,353709, Sukses , Sukses 
+HJ-16630,Konsumen,Barat,FUR-KU-10000225,Furnitur,Kursi,84699,2,4077, Sukses , Sukses 
+HL-20095,Konsumen,Pusat,FUR-KU-10002331,Furnitur,Kursi,236662,3,-89097, Sukses , Sukses 
+HH-18385,Konsumen,Pusat,PER-EN-10001415,Peralatan Kantor,Envelopes,436804,2,31446, Sukses , Sukses 
+HN-15985,Konsumen,Barat,TEK-AC-10004571,Teknologi,Accessories,259600,9,7835, Sukses , Sukses 
+HS-15985,Konsumen,Barat,PER-BI-10001098,Peralatan Kantor,Binders,28474,3,3214, Sukses , Sukses 
+HS-21040,UMKM,Barat,FUR-ME-10001889,Furnitur,Meja,231709,6,404948, Sukses , Sukses 
+HA-21040,UMKM,Barat,PER-BI-10000315,Peralatan Kantor,Binders,279182,5,30464, Sukses , Sukses 
+HE-21040,UMKM,Barat,PER-PE-10002578,Peralatan Kantor,Perlengkapan ,422178,2,-215701, Sukses , Sukses 
+HD-21040,UMKM,Pusat,FUR-FU-10002918,Furnitur,Furnishings,130972,7,23232, Sukses , Sukses 
+HG-15940,Perusahaan,Pusat,FUR-RA-10002824,Furnitur,Rak Buku,407804,2,-161496, Sukses , Sukses 
+HS-13180,Perusahaan,Timur,PER-PA-10004071,Peralatan Kantor,Paper,220371,1,373749, Sukses , Sukses 
+HI-17785,Konsumen,Barat,PER-ST-10002743,Peralatan Kantor,Storage,219049,3,-141322, Sukses , Sukses 
+HD-15520,Konsumen,Barat,FUR-RA-10001601,Furnitur,Rak Buku,112517,2,-11395, Sukses , Sukses 
+HK-15520,Konsumen,Barat,PER-ST-10001321,Peralatan Kantor,Storage,395933,6,95370, Sukses , Sukses 
+HW-15520,Konsumen,Barat,PER-PA-10001509,Peralatan Kantor,Paper,147962,7,-10753, Sukses , Sukses 
+HA-15520,Konsumen,Barat,PER-PA-10003465,Peralatan Kantor,Paper,301363,5,-139223, Sukses , Sukses 
+HD-16690,Konsumen,Timur,FUR-FU-10002671,Furnitur,Furnishings,119689,3,-125917, Sukses , Sukses 
+HW-15475,Perusahaan,Timur,PER-KE-10003045,Peralatan Kantor,Kerajinan,200070,5,116439, Sukses , Sukses 
+HD-15805,Perusahaan,Timur,PER-ST-10000689,Peralatan Kantor,Storage,348362,5,25269, Sukses , Sukses 
+HS-15805,Konsumen,Barat,TEK-AC-10001445,Teknologi,Accessories,366081,3,368162, Sukses , Sukses 
+HL-21865,Konsumen,Timur,PER-KE-10002053,Peralatan Kantor,Kerajinan,408642,2,429462, Sukses , Sukses 
+HS-14065,Konsumen,Timur,TEK-AC-10002567,Teknologi,Accessories,112913,2,230067, Sukses , Sukses 
+HH-14065,UMKM,Barat,FUR-RA-10001337,Furnitur,Rak Buku,318316,5,431689, Sukses , Sukses 
+HL-18070,UMKM,Barat,TEK-RE-10001924,Teknologi,Remote,310802,5,25399, Sukses , Sukses 
+HT-18070,Konsumen,Pusat,TEK-RE-10001363,Teknologi,Remote,183557,6,448091, Sukses , Sukses 
+HW-20830,UMKM,Pusat,TEK-RE-10000376,Teknologi,Remote,60550,1,-177985, Sukses , Sukses 
+HP-11905,UMKM,Pusat,PER-KE-10001953,Peralatan Kantor,Kerajinan,37969,2,252839, Sukses , Sukses 
+HK-11905,Konsumen,Timur,PER-ST-10001809,Peralatan Kantor,Storage,14434,5,-202192, Sukses , Sukses 
+HA-10960,Konsumen,Timur,PER-EN-10003845,Peralatan Kantor,Envelopes,392766,3,187561, Sukses , Sukses 
+HB-20590,Konsumen,Selatan,FUR-ME-10001857,Furnitur,Meja,142671,3,-108863, Sukses , Sukses 
+HH-19780,Konsumen,Selatan,PER-EN-10001434,Peralatan Kantor,Envelopes,437494,2,242525, Sukses , Sukses 
+HK-17350,Konsumen,Barat,PER-BI-10002498,Peralatan Kantor,Binders,15143,8,181779, Sukses , Sukses 
+HN-20095,Konsumen,Barat,FUR-KU-10002602,Furnitur,Kursi,174434,2,149011, Sukses , Sukses 
+HS-20095,Perusahaan,Barat,PER-BI-10001670,Peralatan Kantor,Binders,449771,2,-171242, Sukses , Sukses 
+HT-17380,Perusahaan,Barat,PER-BI-10001658,Peralatan Kantor,Binders,142809,2,117424, Sukses , Sukses 
+HW-17380,Perusahaan,Barat,PER-BI-10000831,Peralatan Kantor,Binders,338824,3,-240080, Sukses , Sukses 
+HH-13705,Konsumen,Selatan,PER-KE-10001662,Peralatan Kantor,Kerajinan,310544,1,-35555, Sukses , Sukses 
+HS-12385,Konsumen,Selatan,PER-KE-10003856,Peralatan Kantor,Kerajinan,77459,3,248520, Sukses , Sukses 
+HT-12385,Konsumen,Selatan,PER-ST-10001228,Peralatan Kantor,Storage,27091,3,411031, Sukses , Sukses 
+HW-12385,Konsumen,Pusat,FUR-FU-10001290,Furnitur,Furnishings,59217,3,-112102, Sukses , Sukses 
+HG-17245,Konsumen,Pusat,TEK-AC-10002399,Teknologi,Accessories,380461,2,320422, Sukses , Sukses 
+HS-17245,Konsumen,Timur,PER-KE-10002053,Peralatan Kantor,Kerajinan,256912,3,-26312, Sukses , Sukses 
+HS-17185,Konsumen,Barat,PER-KE-10003811,Peralatan Kantor,Kerajinan,119261,3,-117028, Sukses , Sukses 
+HT-11515,Konsumen,Barat,PER-KE-10001246,Peralatan Kantor,Kerajinan,25777,2,-20242, Sukses , Sukses 
+HL-11515,UMKM,Barat,TEK-CO-10003236,Teknologi,Copiers,124586,5,-88558, Sukses , Sukses 
+HR-10180,UMKM,Barat,PER-ST-10004507,Peralatan Kantor,Storage,109634,3,125710, Sukses , Sukses 
+HI-10180,UMKM,Barat,PER-PA-10001667,Peralatan Kantor,Paper,61779,2,156071, Sukses , Sukses 
+HS-10180,UMKM,Barat,PER-ST-10004459,Peralatan Kantor,Storage,81187,3,-249725, Sukses , Sukses 
+HT-10180,Konsumen,Pusat,TEK-AC-10000171,Teknologi,Accessories,385809,1,-62094, Sukses , Sukses 
+HW-13210,Konsumen,Pusat,PER-ST-10000736,Peralatan Kantor,Storage,151927,2,183340, Sukses , Sukses 
+HS-13210,Konsumen,Pusat,PER-BI-10000285,Peralatan Kantor,Binders,212489,9,-230290, Sukses , Sukses 
+HK-13210,Perusahaan,Pusat,FUR-ME-10001857,Furnitur,Meja,189309,2,182718, Sukses , Sukses 
+HH-17605,Konsumen,Barat,TEK-RE-10003555,Teknologi,Remote,112512,3,-10756, Sukses , Sukses 
+HH-17155,Konsumen,Barat,TEK-AC-10003832,Teknologi,Accessories,170450,2,360555, Sukses , Sukses 
+HK-17155,Konsumen,Timur,PER-FA-10002815,Peralatan Kantor,Fasteners,248004,5,351811, Sukses , Sukses 
+HK-11605,UMKM,Selatan,FUR-KU-10003379,Furnitur,Kursi,90874,3,10208, Sukses , Sukses 
+HP-18790,UMKM,Selatan,FUR-FU-10001756,Furnitur,Furnishings,82902,3,-242825, Sukses , Sukses 
+HS-18790,Konsumen,Timur,PER-ST-10004963,Peralatan Kantor,Storage,119790,3,273356, Sukses , Sukses 
+HV-18145,Konsumen,Timur,PER-SU-10002881,Peralatan Kantor,Supplies,384385,1,45582, Sukses , Sukses 
+HP-18145,Konsumen,Timur,PER-EN-10001335,Peralatan Kantor,Envelopes,35804,6,88712, Sukses , Sukses 
+HK-18145,Perusahaan,Barat,FUR-KU-10000595,Furnitur,Kursi,286116,1,417465, Sukses , Sukses 
+HA-16240,Konsumen,Barat,FUR-FU-10000448,Furnitur,Furnishings,405128,3,90285, Sukses , Sukses 
+HH-15340,Konsumen,Selatan,TEK-RE-10000984,Teknologi,Remote,282959,5,416469, Sukses , Sukses 
+HH-19615,Konsumen,Selatan,PER-BI-10002557,Peralatan Kantor,Binders,284203,5,205779, Sukses , Sukses 
+HJ-19615,Konsumen,Barat,PER-ST-10001325,Peralatan Kantor,Storage,153202,2,-215921, Sukses , Sukses 
+HK-10375,Konsumen,Pusat,PER-BI-10002429,Peralatan Kantor,Binders,363058,7,21085, Sukses , Sukses 
+HK-13915,UMKM,Timur,PER-BI-10004528,Peralatan Kantor,Binders,185063,4,158558, Sukses , Sukses 
+HL-17470,Konsumen,Selatan,PER-PE-10001271,Peralatan Kantor,Perlengkapan ,253010,3,293082, Sukses , Sukses 
+HL-12985,Konsumen,Selatan,FUR-KU-10002647,Furnitur,Kursi,17778,4,-51831, Sukses , Sukses 
+HP-12985,Konsumen,Pusat,TEK-AC-10001432,Teknologi,Accessories,346934,6,-171970, Sukses , Sukses 
+HP-11500,Perusahaan,Barat,TEK-RE-10002262,Teknologi,Remote,149020,8,-245559, Sukses , Sukses 
+HR-14080,Konsumen,Timur,PER-ST-10001809,Peralatan Kantor,Storage,380870,9,287481, Sukses , Sukses 
+HS-17065,Konsumen,Pusat,TEK-AC-10001465,Teknologi,Accessories,138745,2,341808, Sukses , Sukses 
+HS-18895,Konsumen,Pusat,TEK-RE-10002597,Teknologi,,,,, Sukses , Sukses 
+HW-18895,UMKM,Timur,PER-BI-10000404,Peralatan Kantor,,,,, Sukses , Sukses 
+HW-10135,UMKM,Timur,PER-PA-10002986,Peralatan Kantor,,,,, Sukses , Sukses 
+HS-10135,Perusahaan,Pusat,PER-ST-10000604,Peralatan Kantor,,,,, Sukses , Sukses 
+HA-13225,Konsumen,Barat,FUR-KU-10002024,Furnitur,,,,, Sukses , Sukses 
+HS-11320,Konsumen,Selatan,FUR-FU-10003039,Furnitur,,,,, Sukses , Sukses 
+HG-19960,Konsumen,Pusat,PER-FA-10004248,Peralatan Kantor,,,,, Sukses , Sukses 
+HA-14710,Perusahaan,Barat,PER-ST-10001780,Peralatan Kantor,,,,, Sukses , Sukses 
+HG-13225,Konsumen,Selatan,PER-KE-10003560,Peralatan Kantor,,,,, Sukses , Sukses 
+HI-10945,Konsumen,Barat,PER-LA-10001297,Peralatan Kantor,,,,, Sukses , Sukses 
+HI-18730,Konsumen,Barat,FUR-ME-10004256,Furnitur,,,,, Sukses , Sukses 
+HK-18730,Konsumen,Barat,PER-PA-10003441,Peralatan Kantor,,,,, Sukses , Sukses 
+HM-18730,Konsumen,Barat,FUR-FU-10003347,Furnitur,,,,, Sukses , Sukses 
+HN-17080,Konsumen,Barat,PER-BI-10000069,Peralatan Kantor,,,,, Sukses , Sukses 
+HW-17080,Konsumen,Selatan,PER-PE-10003914,Peralatan Kantor,,,,, Sukses , Sukses 
+HY-12775,Konsumen,Selatan,FUR-FU-10004020,Furnitur,,,,, Sukses , Sukses 
+HE-12775,Konsumen,Barat,PER-FA-10003467,Peralatan Kantor,,,,, Sukses , Sukses 
+HS-15490,Konsumen,Barat,PER-LA-10000634,Peralatan Kantor,,,,, Sukses , Sukses 
+HT-15490,Konsumen,Barat,TEK-RE-10002496,Teknologi,,,,, Sukses , Sukses 
+HT-14320,Perusahaan,Barat,PER-PA-10004530,Peralatan Kantor,,,,, Sukses , Sukses 
+HT-13840,Perusahaan,Barat,PER-BI-10001107,Peralatan Kantor,,,,, Sukses , Sukses 
+HK-13840,Perusahaan,Barat,PER-PA-10004451,Peralatan Kantor,,,,, Sukses , Sukses 
+HM-13840,Perusahaan,Barat,FUR-KU-10004997,Furnitur,,,,, Sukses , Sukses 
+HW-13840,Konsumen,Timur,PER-LA-10001297,Peralatan Kantor,,,,, Sukses , Sukses 
+HR-15415,Konsumen,Timur,PER-FA-10000585,Peralatan Kantor,,,,, Sukses , Sukses 
+HH-15415,Konsumen,Timur,PER-BI-10001922,Peralatan Kantor,,,,, Sukses , Sukses 
+HS-15415,Konsumen,Timur,TEK-RE-10000347,Teknologi,,,,, Sukses , Sukses 
+HZ-20200,Konsumen,Barat,PER-PA-10004530,Peralatan Kantor,,,,, Sukses , Sukses 
+HF-21640,Konsumen,Barat,PER-PA-10001450,Peralatan Kantor,,,,, Sukses , Sukses 
+HS-21640,Konsumen,Barat,PER-SU-10001574,Peralatan Kantor,,,,, Sukses , Sukses 
+HH-21640,Konsumen,Pusat,PER-ST-10002974,Peralatan Kantor,,,,, Sukses , Sukses 
+HI-11950,Konsumen,Barat,PER-SU-10004498,Peralatan Kantor,,,,, Sukses , Sukses 
+HD-12145,Konsumen,Barat,TEK-RE-10004977,Teknologi,,,,, Sukses , Sukses 
+HR-13465,Konsumen,Barat,TEK-RE-10000586,Teknologi,,,,, Sukses , Sukses 
+HN-13465,Konsumen,Barat,PER-PE-10000358,Peralatan Kantor,,,,, Sukses , Sukses 
+HP-13465,Konsumen,Barat,PER-BI-10002764,Peralatan Kantor,,,,, Sukses , Sukses 
+HK-13465,Konsumen,Barat,TEK-RE-10001254,Teknologi,,,,, Sukses , Sukses 
+H&-11725,Konsumen,Selatan,PER-LA-10003930,Peralatan Kantor,,,,, Sukses , Sukses 
+HS-11725,Konsumen,Barat,TEK-RE-10003800,Teknologi,,,,, Sukses , Sukses 
+HS-21910,Konsumen,Barat,PER-PA-10002005,Peralatan Kantor,,,,, Sukses , Sukses 
+HB-21910,Konsumen,Barat,PER-BI-10002498,Peralatan Kantor,,,,, Sukses , Sukses 
+HI-21910,Konsumen,Pusat,PER-KE-10004078,Peralatan Kantor,,,,, Sukses , Sukses 
+HI-17830,Konsumen,Pusat,TEK-AC-10001266,Teknologi,,,,, Sukses , Sukses 
+HS-17830,Konsumen,Barat,PER-PE-10004708,Peralatan Kantor,,,,, Sukses , Sukses 
+HN-16915,Konsumen,Barat,TEK-CO-10004115,Teknologi,,,,, Sukses , Sukses 
+HM-16915,Konsumen,Barat,TEK-RE-10002398,Teknologi,,,,, Sukses , Sukses 
+HS-16915,Konsumen,Barat,FUR-FU-10001979,Furnitur,,,,, Sukses , Sukses 
+HK-16915,Konsumen,Timur,PER-SU-10004115,Peralatan Kantor,,,,, Sukses , Sukses 
+HG-21130,Konsumen,Timur,TEK-RE-10001425,Teknologi,,,,, Sukses , Sukses 
+HA-12205,Konsumen,Timur,TEK-RE-10003963,Teknologi,,,,, Sukses , Sukses 
+HU-12205,Konsumen,Timur,PER-SU-10001574,Peralatan Kantor,,,,, Sukses , Sukses 
+HW-12205,Konsumen,Selatan,PER-ST-10001490,Peralatan Kantor,,,,, Sukses , Sukses 
+HC-10240,Konsumen,Selatan,FUR-FU-10001756,Furnitur,,,,, Sukses , Sukses 
+HH-10240,Konsumen,Selatan,PER-BI-10000773,Peralatan Kantor,,,,, Sukses , Sukses 
+HN-10240,Konsumen,Selatan,PER-BI-10001543,Peralatan Kantor,,,,, Sukses , Sukses 
+HS-10240,Konsumen,Selatan,PER-PA-10002120,Peralatan Kantor,,,,, Sukses , Sukses 
+HM-10510,Konsumen,Timur,PER-KE-10001246,Peralatan Kantor,,,,, Sukses , Sukses 
+HA-10510,Konsumen,Timur,TEK-RE-10003092,Teknologi,,,,, Sukses , Sukses 
+HH-10510,Perusahaan,Pusat,TEK-RE-10003012,Teknologi,,,,, Sukses , Sukses 
+IG-18655,Perusahaan,Pusat,PER-LA-10004345,Peralatan Kantor,,,,, Sukses , Sukses 
+IM-18655,Perusahaan,Timur,PER-PA-10001204,Peralatan Kantor,,,,, Sukses , Sukses 
+IN-14590,Perusahaan,Timur,TEK-RE-10004667,Teknologi,,,,, Sukses , Sukses 
+IW-12595,Konsumen,Timur,PER-BI-10002949,Peralatan Kantor,,,,, Sukses , Sukses 
+IG-12595,Perusahaan,Timur,FUR-FU-10003849,Furnitur,,,,, Sukses , Sukses 
+ID-18355,Perusahaan,Timur,FUR-FU-10000010,Furnitur,,,,, Sukses , Sukses 
+IA-18355,Perusahaan,Timur,PER-BI-10002824,Peralatan Kantor,,,,, Sukses , Sukses 
+IR-18355,Perusahaan,Timur,TEK-RE-10002538,Teknologi,,,,, Sukses , Sukses 
+IN-18355,Konsumen,Pusat,PER-BI-10002103,Peralatan Kantor,,,,, Sukses , Sukses 
+IB-12265,Perusahaan,Pusat,FUR-KU-10004853,Furnitur,,,,, Sukses , Sukses 
+IB-20965,Perusahaan,Pusat,PER-PE-10000179,Peralatan Kantor,,,,, Sukses , Sukses 
+IK-20965,Perusahaan,Pusat,PER-ST-10001272,Peralatan Kantor,,,,, Sukses , Sukses 
+IM-20965,Perusahaan,Pusat,PER-KE-10004042,Peralatan Kantor,,,,, Sukses , Sukses 
+IS-20965,UMKM,Timur,FUR-FU-10000221,Furnitur,,,,, Sukses , Sukses 
+IJ-17800,Konsumen,Barat,PER-PE-10001563,Peralatan Kantor,,,,, Sukses , Sukses 
+IT-10735,Konsumen,Barat,PER-BI-10000605,Peralatan Kantor,,,,, Sukses , Sukses 
+IY-17140,Konsumen,Barat,PER-PA-10002615,Peralatan Kantor,,,,, Sukses , Sukses 
+IA-17140,Konsumen,Barat,PER-ST-10001963,Peralatan Kantor,,,,, Sukses , Sukses 
+IE-14380,Konsumen,Barat,TEK-AC-10001267,Teknologi,,,,, Sukses , Sukses 
+IT-14380,Konsumen,Barat,TEK-RE-10002103,Teknologi,,,,, Sukses , Sukses 
+IM-14380,Konsumen,Selatan,TEK-AC-10002857,Teknologi,,,,, Sukses , Sukses 
+IT-11605,Konsumen,Selatan,PER-LA-10003930,Peralatan Kantor,,,,, Sukses , Sukses 
+ID-11605,Perusahaan,Selatan,FUR-KU-10001482,Furnitur,,,,, Sukses , Sukses 
+II-13420,Konsumen,Barat,PER-BI-10001989,Peralatan Kantor,,,,, Sukses , Sukses 
+IA-17725,Konsumen,Barat,PER-PE-10003287,Peralatan Kantor,,,,, Sukses , Sukses 
+ID-19465,UMKM,Barat,PER-BI-10004728,Peralatan Kantor,,,,, Sukses , Sukses 
+IH-19465,Perusahaan,Pusat,FUR-FU-10000732,Furnitur,,,,, Sukses , Sukses 
+IS-16150,Konsumen,Barat,PER-LA-10002787,Peralatan Kantor,,,,, Sukses , Sukses 
+IS-15835,Konsumen,Pusat,TEK-AC-10003832,Teknologi,,,,, Sukses , Sukses 
+IG-20305,UMKM,Timur,PER-PA-10001934,Peralatan Kantor,,,,, Sukses , Sukses 
+IG-21025,UMKM,Pusat,PER-PE-10002457,Peralatan Kantor,,,,, Sukses , Sukses 
+IM-12430,Perusahaan,Barat,PER-FA-10003112,Peralatan Kantor,,,,, Sukses , Sukses 
+IM-10990,Perusahaan,Barat,PER-PE-10002350,Peralatan Kantor,,,,, Sukses , Sukses 
+IW-10990,Perusahaan,Barat,FUR-FU-10001935,Furnitur,,,,, Sukses , Sukses 
+IH-10825,Perusahaan,Barat,TEK-RE-10003273,Teknologi,,,,, Sukses , Sukses 
+IS-10825,Perusahaan,Barat,TEK-AC-10001142,Teknologi,,,,, Sukses , Sukses 
+IY-20740,Perusahaan,Timur,PER-PA-10003892,Peralatan Kantor,,,,, Sukses , Sukses 
+IW-10405,Perusahaan,Timur,TEK-AC-10001101,Teknologi,,,,, Sukses , Sukses 
+ID-12730,Konsumen,Timur,PER-BI-10002827,Peralatan Kantor,,,,, Sukses , Sukses 
+IH-12730,Konsumen,Timur,PER-EN-10002230,Peralatan Kantor,,,,, Sukses , Sukses 
+IR-12730,UMKM,Pusat,FUR-KU-10001215,Furnitur,,,,, Sukses , Sukses 
+IH-14125,UMKM,Pusat,PER-BI-10004654,Peralatan Kantor,,,,, Sukses , Sukses 
+IK-14125,Konsumen,Pusat,PER-ST-10001490,Peralatan Kantor,,,,, Sukses , Sukses 
+IS-12025,Konsumen,Pusat,PER-ST-10001511,Peralatan Kantor,,,,, Sukses , Sukses 
+IW-12025,Konsumen,Pusat,FUR-ME-10001768,Furnitur,,,,, Sukses , Sukses 
+IM-12025,Konsumen,Pusat,PER-BI-10003981,Peralatan Kantor,,,,, Sukses , Sukses 
+IT-20545,Konsumen,Selatan,PER-FA-10000621,Peralatan Kantor,,,,, Sukses , Sukses 
+IS-19825,Perusahaan,Pusat,PER-SU-10004231,Peralatan Kantor,,,,, Sukses , Sukses 
+IM-21235,Perusahaan,Pusat,PER-PA-10000474,Peralatan Kantor,,,,, Sukses , Sukses 
+IP-21235,Perusahaan,Pusat,TEK-RE-10004042,Teknologi,,,,, Sukses , Sukses 
+IA-21235,Konsumen,Timur,FUR-FU-10003096,Furnitur,,,,, Sukses , Sukses 
+IO-19390,UMKM,Pusat,FUR-FU-10002759,Furnitur,,,,, Sukses , Sukses 
+IO-17800,UMKM,Pusat,FUR-ME-10000688,Furnitur,,,,, Sukses , Sukses 
+IY-17800,UMKM,Pusat,PER-PA-10002377,Peralatan Kantor,,,,, Sukses , Sukses 
+IM-17800,Konsumen,Pusat,PER-KE-10001954,Peralatan Kantor,,,,, Sukses , Sukses 
+IA-20995,Konsumen,Pusat,PER-PE-10004532,Peralatan Kantor,,,,, Sukses , Sukses 
+IH-19570,Konsumen,Pusat,PER-PA-10002137,Peralatan Kantor,,,,, Sukses , Sukses 
+IS-19570,Konsumen,Pusat,TEK-AC-10003832,Teknologi,,,,, Sukses , Sukses 
+IM-11980,Konsumen,Pusat,TEK-AC-10003614,Teknologi,,,,, Sukses , Sukses 
+IH-11980,Konsumen,Pusat,FUR-FU-10003553,Furnitur,,,,, Sukses , Sukses 
+IS-11980,Konsumen,Pusat,PER-BI-10004632,Peralatan Kantor,,,,, Sukses , Sukses 
+IT-11980,Konsumen,Timur,PER-BI-10003305,Peralatan Kantor,,,,, Sukses , Sukses 
+IH-13630,Konsumen,Timur,PER-ST-10002583,Peralatan Kantor,,,,, Sukses , Sukses 
+IA-13630,Konsumen,Timur,PER-ST-10004507,Peralatan Kantor,,,,, Sukses , Sukses 
+IS-13630,Perusahaan,Selatan,TEK-MA-10004125,Teknologi,,,,, Sukses , Sukses 
+IT-14635,Perusahaan,Selatan,PER-PE-10002457,Peralatan Kantor,,,,, Sukses , Sukses 
+IS-14635,Konsumen,Selatan,TEK-AC-10003911,Teknologi,,,,, Sukses , Sukses 
+IB-17845,Konsumen,Selatan,PER-LA-10001934,Peralatan Kantor,,,,, Sukses , Sukses 
+IH-17845,Konsumen,Selatan,PER-PA-10000304,Peralatan Kantor,,,,, Sukses , Sukses 
+IS-17845,Konsumen,Timur,FUR-RA-10004015,Furnitur,,,,, Sukses , Sukses 
+ID-19285,Konsumen,Selatan,FUR-FU-10004071,Furnitur,,,,, Sukses , Sukses 
+IB-18325,Konsumen,Selatan,TEK-RE-10002033,Teknologi,,,,, Sukses , Sukses 
+IL-18325,Konsumen,Selatan,PER-ST-10002444,Peralatan Kantor,,,,, Sukses , Sukses 
+IS-18325,Konsumen,Barat,TEK-AC-10002253,Teknologi,,,,, Sukses , Sukses 
+ID-10165,Konsumen,Barat,PER-PA-10000743,Peralatan Kantor,,,,, Sukses , Sukses 
+IH-10165,UMKM,Timur,PER-KE-10003373,Peralatan Kantor,,,,, Sukses , Sukses 
+IM-15550,UMKM,Timur,PER-LA-10002312,Peralatan Kantor,,,,, Sukses , Sukses 
+IR-15550,UMKM,Timur,PER-EN-10000927,Peralatan Kantor,,,,, Sukses , Sukses 
+IS-15550,UMKM,Timur,PER-KE-10001118,Peralatan Kantor,,,,, Sukses , Sukses 
+IV-15550,UMKM,Timur,PER-BI-10001575,Peralatan Kantor,,,,, Sukses , Sukses 
+JC-15550,UMKM,Timur,PER-BI-10001982,Peralatan Kantor,,,,, Sukses , Sukses 
+JA-13600,Perusahaan,Barat,FUR-FU-10003394,Furnitur,,,,, Sukses , Sukses 
+JS-10285,Konsumen,Barat,FUR-ME-10002774,Furnitur,,,,, Sukses , Sukses 
+JA-15370,Perusahaan,Selatan,PER-PA-10001800,Peralatan Kantor,,,,, Sukses , Sukses 
+JS-11470,Perusahaan,Selatan,PER-PE-10001469,Peralatan Kantor,,,,, Sukses , Sukses 
+JB-11470,Perusahaan,Selatan,TEK-AC-10002399,Teknologi,,,,, Sukses , Sukses 
+JT-13165,Konsumen,Timur,FUR-RA-10003272,Furnitur,,,,, Sukses , Sukses 
+JJ-13165,Konsumen,Timur,PER-BI-10000050,Peralatan Kantor,,,,, Sukses , Sukses 
+JS-13165,UMKM,Timur,PER-PA-10004071,Peralatan Kantor,,,,, Sukses , Sukses 
+JS-21550,Konsumen,Selatan,PER-EN-10001219,Peralatan Kantor,,,,, Sukses , Sukses 
+JS-10915,Perusahaan,Timur,PER-PE-10001154,Peralatan Kantor,,,,, Sukses , Sukses 
+JP-19765,Perusahaan,Timur,TEK-RE-10003012,Teknologi,,,,, Sukses , Sukses 
+JB-19765,Perusahaan,Timur,TEK-AC-10001606,Teknologi,,,,, Sukses , Sukses 
+JC-19765,Perusahaan,Barat,PER-BI-10003355,Peralatan Kantor,,,,, Sukses , Sukses 
+JE-13600,Konsumen,Timur,FUR-FU-10000010,Furnitur,,,,, Sukses , Sukses 
+JK-20365,Konsumen,Timur,FUR-FU-10002253,Furnitur,,,,, Sukses , Sukses 
+JP-16540,UMKM,Barat,PER-BI-10001658,Peralatan Kantor,,,,, Sukses , Sukses 
+JR-12325,UMKM,Barat,FUR-FU-10000246,Furnitur,,,,, Sukses , Sukses 
+JS-12325,UMKM,Barat,PER-PA-10004092,Peralatan Kantor,,,,, Sukses , Sukses 
+JT-19810,Perusahaan,Pusat,FUR-ME-10000198,Furnitur,,,,, Sukses , Sukses 
+JT-17965,Perusahaan,Pusat,PER-ST-10000036,Peralatan Kantor,,,,, Sukses , Sukses 
+JS-17545,Perusahaan,Selatan,PER-SU-10004664,Peralatan Kantor,,,,, Sukses , Sukses 
+JT-20695,Konsumen,Pusat,PER-EN-10001141,Peralatan Kantor,,,,, Sukses , Sukses 
+JA-15355,Konsumen,Pusat,TEK-RE-10002170,Teknologi,,,,, Sukses , Sukses 
+JT-15355,Konsumen,Timur,PER-PA-10001954,Peralatan Kantor,,,,, Sukses , Sukses 
+JT-13900,Konsumen,Timur,PER-ST-10004634,Peralatan Kantor,,,,, Sukses , Sukses 
+JW-13900,Konsumen,Timur,FUR-KU-10002965,Furnitur,,,,, Sukses , Sukses 
+JJ-13900,Konsumen,Timur,PER-LA-10001317,Peralatan Kantor,,,,, Sukses , Sukses 
+JC-13900,UMKM,Barat,PER-ST-10000736,Peralatan Kantor,,,,, Sukses , Sukses 
+JH-13030,UMKM,Barat,TEK-AC-10003610,Teknologi,,,,, Sukses , Sukses 
+JJ-13030,UMKM,Barat,PER-BI-10003982,Peralatan Kantor,,,,, Sukses , Sukses 
+JS-13030,UMKM,Barat,PER-BI-10003291,Peralatan Kantor,,,,, Sukses , Sukses 
+JW-13030,Konsumen,Barat,TEK-AC-10001383,Teknologi,,,,, Sukses , Sukses 
+JF-14470,UMKM,Pusat,PER-LA-10003223,Peralatan Kantor,,,,, Sukses , Sukses 
+JK-19195,UMKM,Pusat,PER-ST-10002743,Peralatan Kantor,,,,, Sukses , Sukses 
+JH-19195,UMKM,Pusat,PER-BI-10004094,Peralatan Kantor,,,,, Sukses , Sukses 
+JI-19195,Konsumen,Pusat,PER-SU-10004498,Peralatan Kantor,,,,, Sukses , Sukses 
+JK-20875,Konsumen,Pusat,PER-PA-10002615,Peralatan Kantor,,,,, Sukses , Sukses 
+JS-20875,Konsumen,Pusat,PER-SU-10004261,Peralatan Kantor,,,,, Sukses , Sukses 
+JR-20875,Perusahaan,Barat,FUR-ME-10002607,Furnitur,,,,, Sukses , Sukses 
+JJ-17785,Konsumen,Pusat,TEK-RE-10000004,Teknologi,,,,, Sukses , Sukses 
+JW-19105,Konsumen,Pusat,PER-BI-10003638,Peralatan Kantor,,,,, Sukses , Sukses 
+JE-19735,Konsumen,Pusat,FUR-FU-10003577,Furnitur,,,,, Sukses , Sukses 
+JW-19735,Konsumen,Pusat,PER-BI-10000546,Peralatan Kantor,,,,, Sukses , Sukses 
+JD-19735,Perusahaan,Barat,TEK-CO-10002095,Teknologi,,,,, Sukses , Sukses 
+JV-21895,Konsumen,Barat,FUR-FU-10002759,Furnitur,,,,, Sukses , Sukses 
+JJ-17830,Perusahaan,Selatan,FUR-ME-10001095,Furnitur,,,,, Sukses , Sukses 
+JT-18655,Konsumen,Pusat,PER-ST-10002444,Peralatan Kantor,,,,, Sukses , Sukses 
+JB-13285,Konsumen,Pusat,TEK-AC-10001267,Teknologi,,,,, Sukses , Sukses 
+JH-12340,Perusahaan,Pusat,PER-PA-10002377,Peralatan Kantor,,,,, Sukses , Sukses 
+JH-11020,Konsumen,Barat,PER-PA-10003441,Peralatan Kantor,,,,, Sukses , Sukses 
+JN-10510,Perusahaan,Selatan,PER-LA-10004484,Peralatan Kantor,,,,, Sukses , Sukses 
+JS-16105,Konsumen,Timur,TEK-RE-10003931,Teknologi,,,,, Sukses , Sukses 
+JS-17020,Perusahaan,Selatan,PER-EN-10001990,Peralatan Kantor,,,,, Sukses , Sukses 
+JT-12250,Perusahaan,Selatan,PER-EN-10001532,Peralatan Kantor,,,,, Sukses , Sukses 
+JW-12250,Perusahaan,Selatan,TEK-AC-10003174,Teknologi,,,,, Sukses , Sukses 
+JZ-12250,Perusahaan,Selatan,PER-BI-10004187,Peralatan Kantor,,,,, Sukses , Sukses 
+JS-12250,Perusahaan,Selatan,FUR-FU-10004306,Furnitur,,,,, Sukses , Sukses 
+JA-10795,Konsumen,Selatan,FUR-KU-10003746,Furnitur,,,,, Sukses , Sukses 
+JG-16810,Perusahaan,Pusat,PER-BI-10001036,Peralatan Kantor,,,,, Sukses , Sukses 
+JL-11245,Perusahaan,Pusat,TEK-RE-10004614,Teknologi,,,,, Sukses , Sukses 
+JS-11245,Perusahaan,Pusat,PER-BI-10000301,Peralatan Kantor,,,,, Sukses , Sukses 
+JT-11245,Perusahaan,Pusat,PER-BI-10003910,Peralatan Kantor,,,,, Sukses , Sukses 
+JU-11245,Perusahaan,Pusat,PER-KE-10004648,Peralatan Kantor,,,,, Sukses , Sukses 
+JV-11245,Konsumen,Timur,PER-KE-10003405,Peralatan Kantor,,,,, Sukses , Sukses 
+JY-12865,UMKM,Barat,FUR-KU-10002335,Furnitur,,,,, Sukses , Sukses 
+JH-18565,UMKM,Barat,PER-PA-10000157,Peralatan Kantor,,,,, Sukses , Sukses 
+JS-18565,UMKM,Barat,PER-PA-10001947,Peralatan Kantor,,,,, Sukses , Sukses 
+JH-11785,Konsumen,Timur,TEK-AC-10002167,Teknologi,,,,, Sukses , Sukses 
+JA-11785,Konsumen,Timur,FUR-RA-10004409,Furnitur,,,,, Sukses , Sukses 
+JS-11785,Perusahaan,Selatan,PER-EN-10000056,Peralatan Kantor,,,,, Sukses , Sukses 
+JT-14035,Konsumen,Barat,PER-BI-10000014,Peralatan Kantor,,,,, Sukses , Sukses 
+JT-12565,Konsumen,Barat,FUR-KU-10004675,Furnitur,,,,, Sukses , Sukses 
+JP-17110,Konsumen,Selatan,PER-BI-10001543,Peralatan Kantor,,,,, Sukses , Sukses 
+JH-20830,Konsumen,Selatan,PER-ST-10001321,Peralatan Kantor,,,,, Sukses , Sukses 
+JG-20830,Konsumen,Selatan,PER-BI-10001132,Peralatan Kantor,Binders,55856,8,124791, Sukses , Sukses 
+JK-20830,Konsumen,Selatan,FUR-KU-10003199,Furnitur,Kursi,334401,3,41750, Sukses , Sukses 
+JS-20830,Konsumen,Selatan,TEK-RE-10001530,Teknologi,Remote,218044,5,367026, Sukses , Sukses 
+JT-15730,Konsumen,Barat,PER-LA-10001569,Peralatan Kantor,Labels,393807,2,444417, Sukses , Sukses 
+JG-14020,Konsumen,Barat,PER-PA-10003724,Peralatan Kantor,Paper,284587,4,165544, Sukses , Sukses 
+JH-14020,Konsumen,Pusat,PER-BI-10000546,Peralatan Kantor,Binders,29026,7,127445, Sukses , Sukses 
+JO-19495,Perusahaan,Timur,PER-PA-10000176,Peralatan Kantor,Paper,116194,7,-207187, Sukses , Sukses 
+JS-13120,Perusahaan,Timur,PER-PA-10002365,Peralatan Kantor,Paper,207859,2,238174, Sukses , Sukses 
+JT-13120,Perusahaan,Timur,PER-LA-10002271,Peralatan Kantor,Labels,182732,7,-125631, Sukses , Sukses 
+J(-13120,Konsumen,Barat,FUR-KU-10002647,Furnitur,Kursi,393567,5,275072, Sukses , Sukses 
+JF-11920,Perusahaan,Barat,FUR-FU-10004090,Furnitur,Furnishings,350235,1,274604, Sukses , Sukses 
+JG-14935,Perusahaan,Barat,TEK-RE-10001580,Teknologi,Remote,111652,2,-141245, Sukses , Sukses 
+JH-14935,Perusahaan,Timur,PER-PE-10000576,Peralatan Kantor,Perlengkapan ,61607,9,40273, Sukses , Sukses 
+JJ-18130,Konsumen,Barat,FUR-FU-10000794,Furnitur,Furnishings,213473,2,232410, Sukses , Sukses 
+JT-14440,Konsumen,Barat,PER-KE-10001897,Peralatan Kantor,Kerajinan,343248,3,82607, Sukses , Sukses 
+JW-19915,Konsumen,Barat,TEK-RE-10001795,Teknologi,Remote,62475,4,364766, Sukses , Sukses 
+JM-19915,Konsumen,Pusat,FUR-FU-10003347,Furnitur,Furnishings,53161,2,402895, Sukses , Sukses 
+JH-10375,Konsumen,Barat,PER-KE-10003190,Peralatan Kantor,Kerajinan,290049,4,-241214, Sukses , Sukses 
+JW-21910,Konsumen,Barat,FUR-ME-10002903,Furnitur,Meja,343885,5,-61101, Sukses , Sukses 
+JL-21910,Konsumen,Barat,TEK-AC-10001101,Teknologi,Accessories,386468,2,95609, Sukses , Sukses 
+JS-21910,Konsumen,Barat,TEK-AC-10001838,Teknologi,Accessories,321222,7,22852, Sukses , Sukses 
+JH-19015,Perusahaan,Pusat,PER-PA-10000061,Peralatan Kantor,Paper,335092,8,-210768, Sukses , Sukses 
+JJ-11110,Konsumen,Timur,PER-PA-10003651,Peralatan Kantor,Paper,95415,1,159215, Sukses , Sukses 
+JY-13210,Konsumen,Timur,PER-PA-10000304,Peralatan Kantor,Paper,379210,8,248845, Sukses , Sukses 
+JW-12775,Konsumen,Timur,PER-BI-10003094,Peralatan Kantor,Binders,208941,3,-237103, Sukses , Sukses 
+JR-12775,Konsumen,Timur,FUR-KU-10001394,Furnitur,Kursi,326614,5,75813, Sukses , Sukses 
+JP-12775,Konsumen,Timur,PER-BI-10004230,Peralatan Kantor,Binders,30721,3,137776, Sukses , Sukses 
+JI-21325,Konsumen,Timur,PER-LA-10003223,Peralatan Kantor,Labels,313692,2,25015, Sukses , Sukses 
+JL-21325,Konsumen,Barat,TEK-AC-10003441,Teknologi,Accessories,23558,4,-219762, Sukses , Sukses 
+JS-18820,Konsumen,Barat,TEK-AC-10000109,Teknologi,Accessories,359493,3,251168, Sukses , Sukses 
+JD-18820,Konsumen,Pusat,PER-FA-10002280,Peralatan Kantor,Fasteners,37285,7,300427, Sukses , Sukses 
+JD-14710,Konsumen,Pusat,PER-SU-10000381,Peralatan Kantor,Supplies,347016,4,-61870, Sukses , Sukses 
+JT-14710,Konsumen,Pusat,PER-EN-10004459,Peralatan Kantor,Envelopes,215592,2,-248804, Sukses , Sukses 
+JW-14710,Konsumen,Selatan,FUR-KU-10000665,Furnitur,Kursi,212375,2,147330, Sukses , Sukses 
+JR-15745,Konsumen,Selatan,PER-PE-10003884,Peralatan Kantor,Perlengkapan ,367200,3,284087, Sukses , Sukses 
+JM-15745,Konsumen,Selatan,TEK-RE-10001557,Teknologi,Remote,290072,2,-167309, Sukses , Sukses 
+JH-15745,Konsumen,Selatan,TEK-RE-10002085,Teknologi,Remote,381131,1,-40616, Sukses , Sukses 
+JO-15745,Perusahaan,Selatan,PER-KE-10002956,Peralatan Kantor,Kerajinan,395583,2,-194658, Sukses , Sukses 
+JD-15400,Perusahaan,Selatan,PER-PE-10003266,Peralatan Kantor,Perlengkapan ,241010,2,56347, Sukses , Sukses 
+JL-15400,Perusahaan,Selatan,TEK-MA-10004002,Teknologi,Machines,199289,1,-179196, Sukses , Sukses 
+JW-15400,Konsumen,Pusat,PER-BI-10001071,Peralatan Kantor,Binders,243405,4,114741, Sukses , Sukses 
+JD-17020,UMKM,Selatan,PER-PA-10001560,Peralatan Kantor,Paper,382386,2,-120718, Sukses , Sukses 
+JH-15175,Perusahaan,Pusat,TEK-RE-10002365,Teknologi,Remote,442040,3,-234521, Sukses , Sukses 
+JG-13705,Perusahaan,Timur,PER-KE-10004648,Peralatan Kantor,Kerajinan,48548,3,-92542, Sukses , Sukses 
+JK-11650,Perusahaan,Timur,PER-KE-10002578,Peralatan Kantor,Kerajinan,137746,4,287671, Sukses , Sukses 
+JO-11650,Perusahaan,Timur,FUR-RA-10001519,Furnitur,Rak Buku,176245,4,-150935, Sukses , Sukses 
+JY-11650,Perusahaan,Barat,PER-BI-10001294,Peralatan Kantor,Binders,66031,4,-168280, Sukses , Sukses 
+JW-14095,Perusahaan,Barat,PER-BI-10001636,Peralatan Kantor,Binders,372907,4,437005, Sukses , Sukses 
+JB-14095,Perusahaan,Barat,PER-LA-10004093,Peralatan Kantor,Labels,336792,2,306044, Sukses , Sukses 
+JM-14095,Konsumen,Selatan,TEK-RE-10001552,Teknologi,Remote,312243,7,332002, Sukses , Sukses 
+JS-10885,Konsumen,Selatan,FUR-KU-10001891,Furnitur,Kursi,85113,3,-54658, Sukses , Sukses 
+JS-14725,Perusahaan,Timur,TEK-AC-10000710,Teknologi,Accessories,251316,7,120257, Sukses , Sukses 
+JC-12760,Perusahaan,Barat,PER-KE-10002335,Peralatan Kantor,Kerajinan,446866,2,-21950, Sukses , Sukses 
+JW-13105,Konsumen,Selatan,PER-KE-10003373,Peralatan Kantor,Kerajinan,266828,6,-101233, Sukses , Sukses 
+JJ-21670,Konsumen,Timur,FUR-FU-10004090,Furnitur,Furnishings,220493,2,401487, Sukses , Sukses 
+JJ-14710,Konsumen,Timur,PER-ST-10000736,Peralatan Kantor,Storage,198534,3,181339, Sukses , Sukses 
+JS-14710,Konsumen,Timur,PER-PA-10001019,Peralatan Kantor,Paper,266668,2,-5261, Sukses , Sukses 
+J&-11260,Konsumen,Timur,PER-SU-10002537,Peralatan Kantor,Supplies,57659,10,-165135, Sukses , Sukses 
+JH-11260,Konsumen,Timur,PER-ST-10003221,Peralatan Kantor,Storage,136551,2,-27139, Sukses , Sukses 
+JS-11260,UMKM,Timur,PER-PA-10004569,Peralatan Kantor,Paper,30592,1,-106926, Sukses , Sukses 
+JB-20125,UMKM,Timur,PER-FA-10000624,Peralatan Kantor,Fasteners,229342,2,261470, Sukses , Sukses 
+JP-12445,Perusahaan,Selatan,TEK-AC-10001714,Teknologi,Accessories,174350,6,180491, Sukses , Sukses 
+JH-10795,Perusahaan,Selatan,PER-KE-10003958,Peralatan Kantor,Kerajinan,102284,2,-233082, Sukses , Sukses 
+JS-10795,Perusahaan,Selatan,PER-LA-10004272,Peralatan Kantor,Labels,252572,1,312872, Sukses , Sukses 
+JT-10780,Perusahaan,Selatan,FUR-FU-10000965,Furnitur,Furnishings,144132,1,395784, Sukses , Sukses 
+JB-10780,Perusahaan,Timur,PER-LA-10004853,Peralatan Kantor,Labels,70357,4,198258, Sukses , Sukses 
+JS-16945,Perusahaan,Timur,PER-BI-10003719,Peralatan Kantor,Binders,27342,6,141257, Sukses , Sukses 
+JL-14740,UMKM,Timur,PER-BI-10000545,Peralatan Kantor,Binders,421444,5,-126221, Sukses , Sukses 
+JL-18910,UMKM,Timur,TEK-RE-10002496,Teknologi,Remote,387816,3,-158908, Sukses , Sukses 
+KM-21520,Konsumen,Timur,PER-PA-10004470,Peralatan Kantor,Paper,62673,2,156613, Sukses , Sukses 
+KI-20005,Konsumen,Timur,PER-BI-10000315,Peralatan Kantor,Binders,434236,7,434670, Sukses , Sukses 
+KM-20005,Konsumen,Selatan,PER-PA-10001790,Peralatan Kantor,Paper,84368,5,407102, Sukses , Sukses 
+KS-14725,UMKM,Timur,TEK-AC-10003628,Teknologi,Accessories,105339,1,-212326, Sukses , Sukses 
+KL-12430,UMKM,Timur,TEK-AC-10002049,Teknologi,Accessories,360679,3,94209, Sukses , Sukses 
+KP-12430,UMKM,Timur,PER-BI-10003712,Peralatan Kantor,Binders,177761,4,-29794, Sukses , Sukses 
+KH-10765,UMKM,Timur,PER-BI-10003984,Peralatan Kantor,Binders,323167,3,355911, Sukses , Sukses 
+KI-14815,UMKM,Timur,FUR-KU-10004287,Furnitur,Kursi,382850,5,228972, Sukses , Sukses 
+KA-14815,Konsumen,Selatan,PER-ST-10001321,Peralatan Kantor,Storage,363624,2,236992, Sukses , Sukses 
+KR-13090,Konsumen,Barat,PER-KE-10001118,Peralatan Kantor,Kerajinan,389598,4,273611, Sukses , Sukses 
+KR-14470,UMKM,Pusat,FUR-FU-10000732,Furnitur,Furnishings,125498,5,270353, Sukses , Sukses 
+KS-19135,Konsumen,Timur,FUR-FU-10001424,Furnitur,Furnishings,429896,2,-32607, Sukses , Sukses 
+KW-16840,Perusahaan,Barat,PER-BI-10002071,Peralatan Kantor,Binders,48797,3,156843, Sukses , Sukses 
+KR-15595,Konsumen,Barat,PER-ST-10002486,Peralatan Kantor,Storage,75197,12,-226504, Sukses , Sukses 
+KW-18730,UMKM,Timur,PER-BI-10001078,Peralatan Kantor,Binders,29682,7,392582, Sukses , Sukses 
+KF-13735,Perusahaan,Barat,PER-PA-10003845,Peralatan Kantor,Paper,397691,6,193796, Sukses , Sukses 
+KM-12760,Konsumen,Timur,TEK-AC-10000927,Teknologi,Accessories,112511,5,-91197, Sukses , Sukses 
+KP-15475,Konsumen,Timur,PER-BI-10001098,Peralatan Kantor,Binders,19508,3,105514, Sukses , Sukses 
+KW-15475,UMKM,Pusat,PER-PA-10001622,Peralatan Kantor,Paper,212255,1,49129, Sukses , Sukses 
+KD-21550,UMKM,Pusat,PER-KE-10003158,Peralatan Kantor,Kerajinan,145137,4,377803, Sukses , Sukses 
+KY-21550,UMKM,Pusat,TEK-RE-10002660,Teknologi,Remote,158749,8,392071, Sukses , Sukses 
+KG-21550,Perusahaan,Barat,PER-ST-10002205,Peralatan Kantor,Storage,163506,7,264786, Sukses , Sukses 
+KL-18745,Perusahaan,Barat,PER-BI-10003364,Peralatan Kantor,Binders,376600,3,-80507, Sukses , Sukses 
+KN-15040,Konsumen,Pusat,PER-LA-10003923,Peralatan Kantor,Labels,41589,7,-188216, Sukses , Sukses 
+KS-17365,Perusahaan,Timur,PER-PA-10002250,Peralatan Kantor,Paper,156453,8,120789, Sukses , Sukses 
+KR-14530,Perusahaan,Timur,PER-BI-10004716,Peralatan Kantor,Binders,140826,2,226348, Sukses , Sukses 
+KP-16210,Konsumen,Pusat,PER-LA-10001045,Peralatan Kantor,Labels,145330,5,277427, Sukses , Sukses 
+KS-20995,Konsumen,Pusat,PER-BI-10001510,Peralatan Kantor,Binders,24922,4,179309, Sukses , Sukses 
+KA-20995,Konsumen,Pusat,TEK-RE-10004536,Teknologi,Remote,284975,3,-100928, Sukses , Sukses 
+KL-13060,Konsumen,Barat,PER-PA-10002947,Peralatan Kantor,Paper,24698,3,-116818, Sukses , Sukses 
+KL-17140,Konsumen,Barat,PER-ST-10002583,Peralatan Kantor,Storage,447362,2,354438, Sukses , Sukses 
+KB-17140,Konsumen,Barat,PER-PA-10000019,Peralatan Kantor,Paper,417164,2,353125, Sukses , Sukses 
+KK-17140,Konsumen,Timur,FUR-RA-10003441,Furnitur,Rak Buku,16376,4,-123592, Sukses , Sukses 
+KS-18865,Konsumen,Timur,TEK-RE-10004774,Teknologi,Remote,349585,7,223660, Sukses , Sukses 
+KD-18865,Konsumen,Timur,PER-BI-10003684,Peralatan Kantor,Binders,307194,3,171275, Sukses , Sukses 
+KS-11335,UMKM,Pusat,TEK-AC-10004666,Teknologi,Accessories,349083,7,-95651, Sukses , Sukses 
+KA-11335,UMKM,Pusat,PER-ST-10003816,Peralatan Kantor,Storage,212955,2,240854, Sukses , Sukses 
+KT-11335,UMKM,Timur,FUR-FU-10001935,Furnitur,Furnishings,377056,6,52096, Sukses , Sukses 
+KK-20050,Perusahaan,Pusat,FUR-FU-10004091,Furnitur,Furnishings,380180,1,-159904, Sukses , Sukses 
+KD-11650,Perusahaan,Pusat,TEK-AC-10001772,Teknologi,Accessories,196272,9,115553, Sukses , Sukses 
+KJ-16555,Perusahaan,Pusat,FUR-KU-10003379,Furnitur,Kursi,363741,4,-169229, Sukses , Sukses 
+KT-16555,Perusahaan,Pusat,PER-BI-10002706,Peralatan Kantor,Binders,35047,3,-35102, Sukses , Sukses 
+KS-16555,Perusahaan,Pusat,PER-EN-10000056,Peralatan Kantor,Envelopes,319007,3,-147227, Sukses , Sukses 
+KR-19630,Perusahaan,Pusat,PER-ST-10001558,Peralatan Kantor,Storage,323712,1,66174, Sukses , Sukses 
+KC-19630,Konsumen,Selatan,PER-ST-10002444,Peralatan Kantor,Storage,345298,2,-202532, Sukses , Sukses 
+KP-19825,Konsumen,Timur,TEK-AC-10002473,Teknologi,Accessories,285443,3,-71765, Sukses , Sukses 
+KL-20110,Konsumen,Timur,TEK-RE-10004531,Teknologi,Remote,362806,1,55168, Sukses , Sukses 
+KP-20110,Konsumen,Timur,PER-PE-10004487,Peralatan Kantor,Perlengkapan ,68732,5,-4963, Sukses , Sukses 
+KW-20110,Perusahaan,Timur,PER-BI-10003650,Peralatan Kantor,Binders,101341,2,263984, Sukses , Sukses 
+KK-10075,Konsumen,Timur,PER-PA-10003543,Peralatan Kantor,Paper,191337,3,107031, Sukses , Sukses 
+KS-15535,Konsumen,Timur,TEK-AC-10004353,Teknologi,Accessories,281881,5,423933, Sukses , Sukses 
+KG-15535,UMKM,Selatan,PER-KE-10000658,Peralatan Kantor,Kerajinan,317869,4,357254, Sukses , Sukses 
+KA-15760,UMKM,Selatan,PER-PE-10000696,Peralatan Kantor,Perlengkapan ,409823,2,202341, Sukses , Sukses 
+KW-15760,Konsumen,Timur,PER-KE-10003560,Peralatan Kantor,Kerajinan,374586,3,177188, Sukses , Sukses 
+KM-10165,Konsumen,Timur,PER-KE-10001468,Peralatan Kantor,Kerajinan,221281,3,398427, Sukses , Sukses 
+KT-10165,Konsumen,Timur,PER-PA-10004971,Peralatan Kantor,Paper,372035,3,153732, Sukses , Sukses 
+KP-10165,Konsumen,Timur,PER-PA-10002195,Peralatan Kantor,Paper,276069,3,-19235, Sukses , Sukses 
+KN-19300,UMKM,Timur,PER-PA-10001745,Peralatan Kantor,Paper,340783,8,239001, Sukses , Sukses 
+KS-12040,UMKM,Timur,PER-BI-10004826,Peralatan Kantor,Binders,10639,6,370456, Sukses , Sukses 
+KB-12040,UMKM,Timur,PER-PA-10001870,Peralatan Kantor,Paper,103565,3,13932, Sukses , Sukses 
+KK-12040,UMKM,Timur,PER-PE-10001058,Peralatan Kantor,Perlengkapan ,188063,2,2449, Sukses , Sukses 
+K&-12040,Perusahaan,Barat,TEK-AC-10003911,Teknologi,Accessories,189250,1,-191485, Sukses , Sukses 
+KH-19885,Perusahaan,Barat,PER-PE-10003040,Peralatan Kantor,Perlengkapan ,105590,4,207230, Sukses , Sukses 
+KA-19270,Perusahaan,Barat,PER-PA-10000350,Peralatan Kantor,Paper,442901,2,284237, Sukses , Sukses 
+KP-16255,Perusahaan,Barat,PER-BI-10001759,Peralatan Kantor,Binders,271847,2,57105, Sukses , Sukses 
+KS-19630,Perusahaan,Barat,FUR-ME-10000577,Furnitur,Meja,212618,4,-4327, Sukses , Sukses 
+KM-19630,Konsumen,Barat,PER-PA-10004101,Peralatan Kantor,Paper,381632,5,397809, Sukses , Sukses 
+LN-15850,Konsumen,Barat,PER-ST-10001496,Peralatan Kantor,Storage,104626,3,422736, Sukses , Sukses 
+LS-15850,Konsumen,Barat,PER-BI-10002931,Peralatan Kantor,Binders,444791,5,-26672, Sukses , Sukses 
+LH-15850,Konsumen,Barat,FUR-ME-10002356,Furnitur,Meja,247923,3,-136724, Sukses , Sukses 
+LL-12775,UMKM,Timur,FUR-FU-10003601,Furnitur,Furnishings,189153,7,-8454, Sukses , Sukses 
+LT-19795,UMKM,Timur,FUR-FU-10000576,Furnitur,Furnishings,112185,6,439296, Sukses , Sukses 
+LW-19795,UMKM,Timur,FUR-ME-10004154,Furnitur,Meja,162609,12,310791, Sukses , Sukses 
+LR-19795,UMKM,Timur,PER-PA-10000788,Peralatan Kantor,Paper,23451,3,312474, Sukses , Sukses 
+LS-19795,UMKM,Timur,PER-PA-10002479,Peralatan Kantor,Paper,86772,6,308600, Sukses , Sukses 
+LO-19795,Konsumen,Timur,FUR-FU-10001940,Furnitur,Furnishings,430513,4,361653, Sukses , Sukses 
+LB-16360,Konsumen,Pusat,PER-KE-10001958,Peralatan Kantor,Kerajinan,191837,2,122792, Sukses , Sukses 
+LS-14665,Konsumen,Pusat,FUR-RA-10004709,Furnitur,Rak Buku,376626,2,163225, Sukses , Sukses 
+LP-14665,Konsumen,Selatan,PER-ST-10000604,Peralatan Kantor,Storage,250711,5,-112170, Sukses , Sukses 
+LP-20275,Konsumen,Barat,TEK-RE-10002923,Teknologi,Remote,302571,1,-110682, Sukses , Sukses 
+LM-15970,Konsumen,Barat,PER-BI-10004465,Peralatan Kantor,Binders,40577,2,-219137, Sukses , Sukses 
+LB-15970,Konsumen,Barat,PER-PA-10002333,Peralatan Kantor,Paper,143510,3,-40693, Sukses , Sukses 
+LC-15970,Konsumen,Barat,FUR-FU-10004188,Furnitur,Furnishings,292114,2,63189, Sukses , Sukses 
+LY-12925,Perusahaan,Barat,FUR-KU-10002965,Furnitur,Kursi,162711,2,-122464, Sukses , Sukses 
+LH-16990,UMKM,Selatan,PER-BI-10000145,Peralatan Kantor,Binders,265544,2,-177484, Sukses , Sukses 
+LW-21190,Perusahaan,Barat,PER-EN-10001335,Peralatan Kantor,Envelopes,364830,2,-238265, Sukses , Sukses 
+LA-12805,Konsumen,Selatan,PER-LA-10001613,Peralatan Kantor,Labels,10468,2,148484, Sukses , Sukses 
+LI-17365,UMKM,Timur,PER-LA-10004055,Peralatan Kantor,Labels,216515,2,-162112, Sukses , Sukses 
+LP-11800,UMKM,Timur,PER-KE-10004344,Peralatan Kantor,Kerajinan,84583,3,440317, Sukses , Sukses 
+LE-11800,UMKM,Timur,PER-PA-10001281,Peralatan Kantor,Paper,181697,4,172527, Sukses , Sukses 
+LJ-11800,UMKM,Timur,PER-LA-10001613,Peralatan Kantor,Labels,80429,3,88399, Sukses , Sukses 
+LO-11800,UMKM,Timur,PER-ST-10001097,Peralatan Kantor,Storage,354659,3,40863, Sukses , Sukses 
+LS-11800,Konsumen,Timur,FUR-FU-10001095,Furnitur,Furnishings,107166,6,174171, Sukses , Sukses 
+LH-13315,Konsumen,Timur,TEK-RE-10004614,Teknologi,Remote,416610,3,419646, Sukses , Sukses 
+LS-13315,Konsumen,Timur,PER-BI-10001575,Peralatan Kantor,Binders,395676,2,-212043, Sukses , Sukses 
+LL-13315,Konsumen,Timur,PER-LA-10001074,Peralatan Kantor,Labels,428680,3,74217, Sukses , Sukses 
+LS-19195,UMKM,Timur,PER-BI-10004492,Peralatan Kantor,Binders,156639,3,100698, Sukses , Sukses 
+LT-19195,Konsumen,Barat,PER-BI-10002012,Peralatan Kantor,Binders,375486,2,77291, Sukses , Sukses 
+LT-20995,Perusahaan,Pusat,TEK-MA-10000822,Teknologi,Machines,79096,2,320279, Sukses , Sukses 
+LH-11110,Konsumen,Selatan,PER-BI-10000848,Peralatan Kantor,Binders,442447,2,207071, Sukses , Sukses 
+LJ-19690,Perusahaan,Pusat,PER-PA-10004156,Peralatan Kantor,Paper,253782,3,130177, Sukses , Sukses 
+LK-16600,Konsumen,Timur,FUR-KU-10003199,Furnitur,Kursi,438281,6,37513, Sukses , Sukses 
+LS-13870,Konsumen,Barat,PER-KE-10000034,Peralatan Kantor,Kerajinan,442883,1,-82374, Sukses , Sukses 
+LK-21580,Konsumen,Barat,TEK-RE-10000560,Teknologi,Remote,158036,2,113969, Sukses , Sukses 
+LS-21580,Konsumen,Barat,FUR-KU-10000665,Furnitur,Kursi,312280,5,-117048, Sukses , Sukses 
+LR-21580,UMKM,Pusat,PER-LA-10001569,Peralatan Kantor,Labels,319659,2,310871, Sukses , Sukses 
+LH-10630,UMKM,Pusat,PER-EN-10000461,Peralatan Kantor,Envelopes,197537,4,-109445, Sukses , Sukses 
+LA-10630,UMKM,Pusat,TEK-MA-10003066,Teknologi,Machines,152073,3,226224, Sukses , Sukses 
+LB-10630,Konsumen,Pusat,PER-BI-10004022,Peralatan Kantor,Binders,411019,2,254692, Sukses , Sukses 
+LB-21340,Perusahaan,Timur,FUR-FU-10004071,Furnitur,Furnishings,437011,5,211104, Sukses , Sukses 
+LW-15805,Perusahaan,Timur,PER-KE-10001988,Peralatan Kantor,Kerajinan,406273,3,443511, Sukses , Sukses 
+LR-15805,UMKM,Selatan,FUR-KU-10004086,Furnitur,Kursi,256145,5,-158155, Sukses , Sukses 
+LC-20155,Konsumen,Timur,PER-BI-10001036,Peralatan Kantor,Binders,374582,2,-24519, Sukses , Sukses 
+LL-21610,Konsumen,Barat,PER-FA-10002983,Peralatan Kantor,Fasteners,298189,3,-193877, Sukses , Sukses 
+LM-19735,Konsumen,Barat,PER-PA-10003625,Peralatan Kantor,Paper,128275,5,128287, Sukses , Sukses 
+LS-19735,Perusahaan,Selatan,PER-BI-10003925,Peralatan Kantor,Binders,115640,7,-223565, Sukses , Sukses 
+LT-18235,Perusahaan,Selatan,TEK-RE-10001530,Teknologi,Remote,267942,3,67494, Sukses , Sukses 
+LY-18235,Konsumen,Selatan,PER-EN-10003862,Peralatan Kantor,Envelopes,45192,1,140614, Sukses , Sukses 
+LT-19585,Konsumen,Selatan,PER-ST-10004258,Peralatan Kantor,Storage,392668,3,-26643, Sukses , Sukses 
+LA-19585,Konsumen,Selatan,FUR-FU-10001918,Furnitur,Furnishings,103808,7,286757, Sukses , Sukses 
+LB-19585,UMKM,Barat,PER-KE-10002956,Peralatan Kantor,Kerajinan,170183,2,359075, Sukses , Sukses 
+LE-14290,Konsumen,Timur,TEK-AC-10003033,Teknologi,Accessories,93606,7,-193212, Sukses , Sukses 
+LE-19495,Konsumen,Timur,FUR-ME-10002903,Furnitur,Meja,114639,7,36426, Sukses , Sukses 
+LF-19495,Konsumen,Timur,PER-PA-10004621,Peralatan Kantor,Paper,125195,3,114748, Sukses , Sukses 
+LL-19495,Konsumen,Barat,PER-ST-10000046,Peralatan Kantor,Storage,238233,3,51401, Sukses , Sukses 
+LL-19945,Konsumen,Selatan,PER-PA-10001790,Peralatan Kantor,Paper,373560,3,305387, Sukses , Sukses 
+LS-15730,Konsumen,Barat,PER-EN-10002600,Peralatan Kantor,Envelopes,237369,3,-32208, Sukses , Sukses 
+LT-17815,Konsumen,Pusat,PER-PA-10001509,Peralatan Kantor,Paper,307219,5,65536, Sukses , Sukses 
+LL-18850,Konsumen,Pusat,TEK-RE-10003931,Teknologi,Remote,303142,2,95933, Sukses , Sukses 
+LY-10735,Konsumen,Barat,FUR-FU-10001602,Furnitur,Furnishings,334043,4,333184, Sukses , Sukses 
+LG-21790,Konsumen,Barat,FUR-FU-10004848,Furnitur,Furnishings,137792,3,89119, Sukses , Sukses 
+LH-19165,Konsumen,Barat,PER-ST-10003722,Peralatan Kantor,Storage,27956,1,-72214, Sukses , Sukses 
+LK-19165,Konsumen,Barat,FUR-ME-10003748,Furnitur,Meja,256248,13,50791, Sukses , Sukses 
+LS-15880,Konsumen,Barat,TEK-AC-10003198,Teknologi,Accessories,231651,1,8839, Sukses , Sukses 
+LK-17800,Perusahaan,Timur,FUR-FU-10002191,Furnitur,Furnishings,43395,2,8075, Sukses , Sukses 
+LH-16225,Perusahaan,Timur,FUR-FU-10000965,Furnitur,Furnishings,438287,3,268530, Sukses , Sukses 
+LL-16225,Perusahaan,Timur,TEK-RE-10004188,Teknologi,Remote,361126,5,418655, Sukses , Sukses 
+LM-16225,Konsumen,Timur,PER-KE-10001166,Peralatan Kantor,Kerajinan,62604,3,-102535, Sukses , Sukses 
+LM-14710,Konsumen,Timur,FUR-KU-10000309,Furnitur,Kursi,448773,3,59142, Sukses , Sukses 
+LN-14710,Konsumen,Timur,TEK-MA-10004212,Teknologi,Machines,320359,8,428725, Sukses , Sukses 
+LR-14710,Konsumen,Timur,PER-EN-10003072,Peralatan Kantor,Envelopes,42934,2,-174660, Sukses , Sukses 
+LS-19150,UMKM,Barat,PER-BI-10000320,Peralatan Kantor,Binders,193767,2,-41302, Sukses , Sukses 
+LT-14770,UMKM,Timur,PER-PA-10001166,Peralatan Kantor,Paper,184400,3,380171, Sukses , Sukses 
+LT-13255,UMKM,Timur,PER-PA-10003656,Peralatan Kantor,Paper,58016,3,-160136, Sukses , Sukses 
+LH-13255,UMKM,Timur,TEK-RE-10000148,Teknologi,Remote,142596,2,68406, Sukses , Sukses 
+LA-13255,Perusahaan,Timur,PER-PA-10000474,Peralatan Kantor,Paper,249432,5,237767, Sukses , Sukses 
+LM-16780,Perusahaan,Timur,TEK-RE-10003885,Teknologi,Remote,21474,3,-167192, Sukses , Sukses 
+LS-16780,Perusahaan,Timur,FUR-KU-10003379,Furnitur,Kursi,106583,3,74170, Sukses , Sukses 
+LW-16780,Perusahaan,Timur,FUR-FU-10000629,Furnitur,Furnishings,388978,9,-73528, Sukses , Sukses 
+LA-16780,Konsumen,Timur,PER-PA-10000955,Peralatan Kantor,Paper,198060,3,298192, Sukses , Sukses 
+LS-10390,Konsumen,Timur,PER-BI-10003460,Peralatan Kantor,Binders,322066,2,-135107, Sukses , Sukses 
+LW-10390,Konsumen,Timur,PER-BI-10000474,Peralatan Kantor,Binders,294107,3,-238221, Sukses , Sukses 
+LD-10390,UMKM,Pusat,FUR-FU-10003975,Furnitur,Furnishings,46377,2,84437, Sukses , Sukses 
+LS-13735,Konsumen,Barat,PER-BI-10003707,Peralatan Kantor,Binders,204184,3,250860, Sukses , Sukses 
+LR-15445,Konsumen,Selatan,PER-KE-10004790,Peralatan Kantor,Kerajinan,314600,3,-46242, Sukses , Sukses 
+LA-15430,UMKM,Pusat,FUR-ME-10001095,Furnitur,Meja,194853,4,-229469, Sukses , Sukses 
+LM-19660,Konsumen,Timur,TEK-AC-10004761,Teknologi,Accessories,86441,2,368017, Sukses , Sukses 
+LM-17500,Konsumen,Timur,FUR-RA-10001811,Furnitur,Rak Buku,183288,3,194363, Sukses , Sukses 
+LS-17500,Perusahaan,Pusat,PER-KE-10001130,Peralatan Kantor,Kerajinan,294138,5,-46089, Sukses , Sukses 
+LT-18640,Perusahaan,Pusat,PER-PE-10000055,Peralatan Kantor,Perlengkapan ,187850,9,200679, Sukses , Sukses 
+LM-18640,UMKM,Pusat,FUR-KU-10002304,Furnitur,Kursi,104177,14,-37520, Sukses , Sukses 
+LA-20710,Konsumen,Selatan,TEK-RE-10001530,Teknologi,Remote,349890,5,97040, Sukses , Sukses 
+LH-21910,Konsumen,Selatan,FUR-FU-10004006,Furnitur,Furnishings,150064,3,304825, Sukses , Sukses 
+LT-16885,Konsumen,Barat,TEK-AC-10001606,Teknologi,Accessories,363489,1,-116, Sukses , Sukses 
+LW-13300,Perusahaan,Timur,PER-PA-10001307,Peralatan Kantor,Paper,357628,2,24318, Sukses , Sukses 
+LB-13300,Perusahaan,Timur,FUR-FU-10004460,Furnitur,Furnishings,11881,9,-142219, Sukses , Sukses 
+LM-18595,UMKM,Timur,FUR-FU-10004622,Furnitur,Furnishings,91208,2,376244, Sukses , Sukses 
+LW-18595,UMKM,Timur,PER-BI-10002735,Peralatan Kantor,Binders,90349,3,8248, Sukses , Sukses 
+LA-18595,UMKM,Timur,PER-BI-10003529,Peralatan Kantor,Binders,388465,4,412054, Sukses , Sukses 
+LT-18595,Perusahaan,Barat,PER-BI-10001097,Peralatan Kantor,Binders,131080,4,-168592, Sukses , Sukses 
+LT-11185,Perusahaan,Barat,PER-BI-10001597,Peralatan Kantor,Binders,441503,2,-85680, Sukses , Sukses 
+LE-11185,UMKM,Timur,PER-FA-10001754,Peralatan Kantor,Fasteners,248577,3,103154, Sukses , Sukses 
+AP-17650,Konsumen,Pusat,FUR-KU-10003396,Furnitur,Kursi,347178,2,-102076, Sukses , Sukses 
+AB-16060,Perusahaan,Timur,PER-PE-10002350,Peralatan Kantor,Perlengkapan ,351244,3,25184, Sukses , Sukses 
+SL-21160,Perusahaan,Timur,PER-FA-10004838,Peralatan Kantor,Fasteners,175932,7,357064, Sukses , Sukses 
+TW-21160,Perusahaan,Timur,PER-KE-10004757,Peralatan Kantor,Kerajinan,437736,3,107103, Sukses , Sukses 
+YP-21160,Perusahaan,Timur,TEK-RE-10002115,Teknologi,Remote,46237,3,-14718, Sukses , Sukses 
+ZM-21160,Perusahaan,Timur,PER-FA-10003059,Peralatan Kantor,Fasteners,93082,1,155651, Sukses , Sukses 
+NF-21160,Perusahaan,Timur,PER-BI-10004330,Peralatan Kantor,Binders,169698,5,-133337, Sukses , Sukses 
+AB-21160,Konsumen,Barat,FUR-KU-10001146,Furnitur,Kursi,441030,4,-74306, Sukses , Sukses 
+BD-11620,Konsumen,Pusat,PER-SU-10001935,Peralatan Kantor,Supplies,45144,1,-200776, Sukses , Sukses 
+BH-12160,UMKM,Timur,PER-BI-10001524,Peralatan Kantor,Binders,153759,4,56509, Sukses , Sukses 
+AD-19795,UMKM,Barat,PER-KE-10003732,Peralatan Kantor,Kerajinan,222602,7,58450, Sukses , Sukses 
+AL-20560,UMKM,Barat,PER-PA-10001970,Peralatan Kantor,Paper,342405,3,-2252, Sukses , Sukses 
+BD-14005,Konsumen,Timur,PER-BI-10003669,Peralatan Kantor,Binders,57594,2,156103, Sukses , Sukses 
+BP-14305,Konsumen,Barat,PER-BI-10003727,Peralatan Kantor,Binders,403077,5,74657, Sukses , Sukses 
+HJ-17710,Konsumen,Barat,PER-BI-10004967,Peralatan Kantor,Binders,408615,7,223849, Sukses , Sukses 
+HS-17710,Konsumen,Barat,TEK-AC-10003447,Teknologi,Accessories,106337,2,-41927, Sukses , Sukses 
+HG-12100,Konsumen,Barat,PER-PE-10002191,Peralatan Kantor,Perlengkapan ,48386,2,407856, Sukses , Sukses 
+HC-13540,Konsumen,Barat,PER-ST-10001325,Peralatan Kantor,Storage,336205,3,292303, Sukses , Sukses 
+BS-13540,Konsumen,Barat,PER-BI-10000404,Peralatan Kantor,Binders,399343,1,284756, Sukses , Sukses 
+BH-13540,Perusahaan,Pusat,PER-PA-10000349,Peralatan Kantor,Paper,128144,4,300112, Sukses , Sukses 
+AH-11395,Perusahaan,Pusat,FUR-KU-10002880,Furnitur,Kursi,62701,9,-89374, Sukses , Sukses 
+AR-11395,Konsumen,Timur,FUR-ME-10001095,Furnitur,Meja,447573,8,419087, Sukses , Sukses 
+AR-16270,Konsumen,Timur,PER-PA-10003127,Peralatan Kantor,Paper,340421,1,282401, Sukses , Sukses 
+AS-16270,Konsumen,Timur,TEK-MA-10003979,Teknologi,Machines,239585,7,-139859, Sukses , Sukses 
+BI-16270,Konsumen,Pusat,PER-PA-10000029,Peralatan Kantor,Paper,115410,1,-87922, Sukses , Sukses 
+BN-16870,Perusahaan,Barat,TEK-RE-10004896,Teknologi,Remote,102844,3,8100, Sukses , Sukses 
+BR-12745,Perusahaan,Barat,PER-LA-10000452,Peralatan Kantor,Labels,403838,1,420133, Sukses , Sukses 
+BS-12745,Perusahaan,Selatan,FUR-FU-10001967,Furnitur,Furnishings,257338,2,278458, Sukses , Sukses 
+BS-16990,Perusahaan,Selatan,TEK-RE-10001819,Teknologi,Remote,247070,2,333924, Sukses , Sukses 
+BS-18325,Konsumen,Barat,TEK-RE-10000576,Teknologi,Remote,419872,2,-111634, Sukses , Sukses 
+AA-11485,UMKM,Timur,PER-PE-10002518,Peralatan Kantor,Perlengkapan ,50242,2,406201, Sukses , Sukses 
+AD-11485,UMKM,Selatan,PER-ST-10004340,Peralatan Kantor,Storage,284746,7,-138604, Sukses , Sukses 
+AH-19045,UMKM,Selatan,PER-BI-10004001,Peralatan Kantor,Binders,345705,7,428685, Sukses , Sukses 
+AM-19045,Perusahaan,Barat,FUR-ME-10004147,Furnitur,Meja,17858,5,32020, Sukses , Sukses 
+AF-18640,UMKM,Barat,PER-KE-10001545,Peralatan Kantor,Kerajinan,261151,4,239466, Sukses , Sukses 
+AF-18985,UMKM,Barat,FUR-FU-10000206,Furnitur,Furnishings,340292,3,399935, Sukses , Sukses 
+AK-18985,UMKM,Barat,TEK-AC-10001013,Teknologi,Accessories,133107,1,64787, Sukses , Sukses 
+AL-18985,UMKM,Barat,PER-KE-10002255,Peralatan Kantor,Kerajinan,129336,3,291044, Sukses , Sukses 
+AN-18985,Konsumen,Pusat,PER-BI-10004140,Peralatan Kantor,Binders,405789,3,423576, Sukses , Sukses 
+AS-19390,Konsumen,Pusat,PER-BI-10002049,Peralatan Kantor,Binders,164759,3,353457, Sukses , Sukses 
+AS-18520,Konsumen,Pusat,PER-ST-10000642,Peralatan Kantor,Storage,78771,6,318284, Sukses , Sukses 
+AR-13945,Konsumen,Pusat,FUR-FU-10000206,Furnitur,Furnishings,296619,2,338469, Sukses , Sukses 
+AT-13945,Konsumen,Pusat,PER-BI-10003676,Peralatan Kantor,Binders,29982,5,-90279, Sukses , Sukses 
+AP-13945,Konsumen,Pusat,PER-FA-10003495,Peralatan Kantor,Fasteners,195491,12,-76971, Sukses , Sukses 
+AU-13945,Konsumen,Pusat,PER-EN-10003798,Peralatan Kantor,Envelopes,186636,3,58899, Sukses , Sukses 
+AB-13945,Konsumen,Pusat,PER-PA-10004735,Peralatan Kantor,Paper,367013,2,-41448, Sukses , Sukses 
+AB-19915,Konsumen,Barat,FUR-RA-10002206,Furnitur,Rak Buku,431979,1,-123832, Sukses , Sukses 
+AK-19915,Konsumen,Barat,TEK-AC-10003610,Teknologi,Accessories,94681,2,141078, Sukses , Sukses 
+AM-19915,Perusahaan,Barat,PER-LA-10003766,Peralatan Kantor,Labels,215742,2,-213749, Sukses , Sukses 
+AK-13495,Konsumen,Selatan,PER-PA-10001970,Peralatan Kantor,Paper,347924,5,-24260, Sukses , Sukses 
+AA-12355,Konsumen,Selatan,TEK-AC-10002049,Teknologi,Accessories,305017,5,84614, Sukses , Sukses 
+AM-12355,Konsumen,Selatan,PER-EN-10004459,Peralatan Kantor,Envelopes,122544,2,315365, Sukses , Sukses 
+AH-12355,Konsumen,Selatan,TEK-RE-10001061,Teknologi,Remote,57996,7,217165, Sukses , Sukses 
+AH-15040,Konsumen,Selatan,PER-KE-10002375,Peralatan Kantor,Kerajinan,259293,7,238233, Sukses , Sukses 
+AN-15040,Konsumen,Selatan,FUR-FU-10003194,Furnitur,Furnishings,21554,4,327004, Sukses , Sukses 
+AP-15040,Konsumen,Selatan,FUR-KU-10002331,Furnitur,Kursi,381843,3,43933, Sukses , Sukses 
+AS-15040,UMKM,Pusat,PER-KE-10003156,Peralatan Kantor,Kerajinan,61392,1,145130, Sukses , Sukses 
+AT-19060,UMKM,Pusat,PER-EN-10001532,Peralatan Kantor,Envelopes,430286,6,443994, Sukses , Sukses 
+AD-19060,Konsumen,Selatan,FUR-ME-10004086,Furnitur,Meja,196705,4,80930, Sukses , Sukses 
+AH-11605,Konsumen,Selatan,PER-PA-10000100,Peralatan Kantor,Paper,88937,1,75500, Sukses , Sukses 
+AL-11605,Konsumen,Selatan,PER-EN-10002500,Peralatan Kantor,Envelopes,15215,5,-242831, Sukses , Sukses 
+AM-14650,UMKM,Timur,PER-ST-10003479,Peralatan Kantor,Storage,53772,4,-15488, Sukses , Sukses 
+AN-15940,UMKM,Timur,PER-LA-10000973,Peralatan Kantor,Labels,106284,3,108085, Sukses , Sukses 
+AP-15940,Konsumen,Selatan,PER-ST-10001476,Peralatan Kantor,Storage,234281,3,96825, Sukses , Sukses 
+AP-16915,Perusahaan,Pusat,PER-EN-10002831,Peralatan Kantor,Envelopes,422868,8,-185915, Sukses , Sukses 
+AS-14275,Perusahaan,Pusat,PER-PE-10002350,Peralatan Kantor,Perlengkapan ,164259,2,296020, Sukses , Sukses 
+AT-14275,Perusahaan,Pusat,PER-BI-10002072,Peralatan Kantor,Binders,294145,2,333691, Sukses , Sukses 
+AW-14275,Konsumen,Barat,FUR-FU-10004188,Furnitur,Furnishings,281798,2,381005, Sukses , Sukses 
+AP-10915,Konsumen,Barat,PER-FA-10001561,Peralatan Kantor,Fasteners,350076,4,-178296, Sukses , Sukses 
+AW-10915,Konsumen,Barat,PER-PA-10002105,Peralatan Kantor,Paper,27291,1,281306, Sukses , Sukses 
+AM-10915,Konsumen,Barat,TEK-MA-10004241,Teknologi,Machines,276506,2,313606, Sukses , Sukses 
+AD-10915,Konsumen,Pusat,PER-PE-10003849,Peralatan Kantor,Perlengkapan ,326268,2,72837, Sukses , Sukses 
+AM-18340,Konsumen,Pusat,PER-FA-10000735,Peralatan Kantor,Fasteners,360043,2,295092, Sukses , Sukses 
+AR-18340,Konsumen,Pusat,PER-BI-10003350,Peralatan Kantor,Binders,17155,2,-152909, Sukses , Sukses 
+AA-18340,Konsumen,Pusat,TEK-RE-10000307,Teknologi,Remote,189967,1,-13309, Sukses , Sukses 
+AG-18340,Perusahaan,Timur,FUR-FU-10001852,Furnitur,Furnishings,186445,6,10248, Sukses , Sukses 
+AI-12535,Perusahaan,Barat,PER-KE-10003759,Peralatan Kantor,Kerajinan,162863,2,209076, Sukses , Sukses 
+AO-16555,UMKM,Selatan,PER-ST-10004337,Peralatan Kantor,Storage,68570,2,91317, Sukses , Sukses 
+AS-19045,UMKM,Selatan,FUR-ME-10001932,Furnitur,Meja,440684,7,107345, Sukses , Sukses 
+AB-19045,UMKM,Selatan,PER-BI-10003982,Peralatan Kantor,Binders,44524,3,-152953, Sukses , Sukses 
+AW-19045,UMKM,Selatan,FUR-ME-10000617,Furnitur,Meja,61410,2,-47725, Sukses , Sukses 
+AY-19045,Perusahaan,Barat,FUR-KU-10002126,Furnitur,Kursi,382111,1,-174981, Sukses , Sukses 
+AC-14530,Konsumen,Pusat,PER-PE-10000576,Peralatan Kantor,Perlengkapan ,56136,3,-204842, Sukses , Sukses 
+AR-10315,Konsumen,Pusat,PER-BI-10004654,Peralatan Kantor,Binders,12018,2,365016, Sukses , Sukses 
+AP-10315,Konsumen,Barat,PER-KE-10004042,Peralatan Kantor,Kerajinan,45288,3,13216, Sukses , Sukses 
+AC-16765,UMKM,Timur,TEK-RE-10004700,Teknologi,Remote,301539,1,-191199, Sukses , Sukses 
