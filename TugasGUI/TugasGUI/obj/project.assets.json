@@ -8,7 +8,7 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\Raka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\CINTA CODING\\KULIAH\\TugasGUI\\TugasGUI\\TugasGUI.csproj",
       "projectName": "TugasGUI",
       "projectPath": "D:\\CINTA CODING\\KULIAH\\TugasGUI\\TugasGUI\\TugasGUI.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Raka\\.nuget\\packages\\",
       "outputPath": "D:\\CINTA CODING\\KULIAH\\TugasGUI\\TugasGUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Raka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
