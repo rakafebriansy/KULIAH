@@ -1,0 +1,21 @@
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\bin\Debug\net6.0-windows\CRUD Database.exe
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\bin\Debug\net6.0-windows\CRUD Database.deps.json
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\bin\Debug\net6.0-windows\CRUD Database.runtimeconfig.json
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\bin\Debug\net6.0-windows\CRUD Database.dll
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\bin\Debug\net6.0-windows\CRUD Database.pdb
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\bin\Debug\net6.0-windows\Npgsql.dll
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD Database.csproj.AssemblyReference.cache
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD_Database.Form1.resources
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD Database.csproj.GenerateResource.cache
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD Database.AssemblyInfoInputs.cache
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD Database.AssemblyInfo.cs
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD Database.csproj.CoreCompileInputs.cache
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD Database.csproj.CopyComplete
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD Database.dll
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\refint\CRUD Database.dll
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD Database.pdb
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD Database.genruntimeconfig.cache
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\ref\CRUD Database.dll
+D:\CINTA CODING\KULIAH\CRUD Database\CRUD Database\obj\Debug\net6.0-windows\CRUD_Database.Form2.resources

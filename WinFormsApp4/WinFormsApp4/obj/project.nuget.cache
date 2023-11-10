@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AJfZpZGWrdqrfrpfHYe47o1OeAbU1HTRJVgCltotHft/ZkbWh+kEvuXlMcrr0uMEe2eCTGdgS06RaepK/9/VKA==",
+  "success": true,
+  "projectFilePath": "D:\\CINTA CODING\\KULIAH\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
